@@ -1,8 +1,7 @@
 import cv2
 import pytesseract
 import numpy as np
-import PIL
-from PIL import Image
+from thefuzz import fuzz
 
 
 pytesseract.pytesseract.tesseract_cmd = 'C:\\Program Files\\Tesseract-OCR\\tesseract.exe'
@@ -40,6 +39,7 @@ def OCRText(name):
 
     linetest = []
     iou = []
+    textmatching = []
 
     #slit box and concatenate into line
     skipheader = 0              #skip header
@@ -145,6 +145,10 @@ def OCRText(name):
                 temp_iou = get_iou(ground_truth,test,img_iou)
                 if temp_iou > 0.4:
                     iou.append(temp_iou)
+                    textmatching.append( fuzz.ratio(line[-1].lower(), lt[-1].lower()) )
+                    # print(textmatching[-1])
+                    # print(line[-1].lower())
+                    # print(lt[-1].lower())
                     check = 1
                     break
                 else:
@@ -159,10 +163,11 @@ def OCRText(name):
 
             cv2.rectangle(img, (int(line[0]), int(line[1])), (int(line[4]), int(line[5])), (0,0,255), 1)
 
-
-        average = sum(iou) / len(iou)
-        #print(iou)
+        matchingpercent = sum(textmatching)/len(textmatching)
+        average = sum(iou) / len(iou)*100
+        #print(textmatching)
         print('Average IOU:  ' + name +'   '+ str(average))
+        print('Text Matching % :  ' + name +'   '+ str(matchingpercent))
 
         
     cv2.imshow('Test and Sample ', img)
