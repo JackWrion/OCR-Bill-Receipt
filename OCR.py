@@ -3,7 +3,6 @@ import pytesseract
 import numpy as np
 from thefuzz import fuzz
 
-
 pytesseract.pytesseract.tesseract_cmd = 'C:\\Program Files\\Tesseract-OCR\\tesseract.exe'
 
 
@@ -206,8 +205,6 @@ def get_iou(ground_truth, pred, img):
         cv2.rectangle(img, (ix1, iy1), (ix2, iy2), (255, 0, 255), 1)
 
     return iou
-
-
 
 
 
