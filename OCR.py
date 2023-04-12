@@ -36,6 +36,7 @@ def OCRText(name):
     ### contain all date about Box of words
     boxes = pytesseract.image_to_data(img, config=configname)
     
+    #print(boxes)
 
     linetest = []
     iou = []
@@ -61,6 +62,7 @@ def OCRText(name):
             if (len(b) < 12):       ## it is a space not a word
                 continue
 
+            #print(b)
             x,y,w,h,text = int(b[6]),int(b[7]),int(b[8]),int(b[9]), b[11]
 
 
@@ -77,11 +79,11 @@ def OCRText(name):
                         l.text + '\n'
                     file.write(combine_str)
 
-                    line = combine_str.split(',')
+                    line = combine_str.split(',',8)
                     linetest.append(line)
 
                     #draw Box of Line as RED box
-                    print(l.x, l.y, l.w, l.h, l.text)
+                    #print(l.x, l.y, l.w, l.h, l.text)
                     cv2.rectangle(img, (l.x, l.y), (l.w + l.x, l.h + l.y), (255, 0 , 0), 1)
                     #file.close
 
@@ -96,6 +98,23 @@ def OCRText(name):
                     lineboxes[-1].y = y
                 if (y+h > lineboxes[-1].y + lineboxes[-1].h):
                     lineboxes[-1].h = y+h - lineboxes[-1].y
+
+
+        ## Draw the last line
+        l = lineboxes[-1]        
+        combine_str = str(l.x) + ','+ str(l.y) + ','+ \
+            str(l.x+l.w) + ','+ str(l.y) + ','+ \
+            str(l.x+l.w) + ','+ str(l.y+l.h) +','+ \
+            str(l.x) + ','+ str(l.y+l.h) + ',' + \
+            l.text + '\n'
+        file.write(combine_str)
+
+        line = combine_str.split(',',8)
+        linetest.append(line)
+
+        #print(l.x, l.y, l.w, l.h, l.text)
+        cv2.rectangle(img, (l.x, l.y), (l.w + l.x, l.h + l.y), (255, 0 , 0), 1)
+
 
             #draw the box of WORD
             #cv2.rectangle(img, (x,y) , (w+x,y+h), (0,0,255), 1 )
@@ -113,7 +132,7 @@ def OCRText(name):
 
     with open(name_sample, mode='r', encoding='utf-8') as file:
         for line in file:
-            line = line.split(',')
+            line = line.split(',',8)
             #linesample.append(line)
             ground_truth = []
             ground_truth.extend([ int(line[0]), int(line[1]), int(line[4]), int(line[5])   ])
@@ -132,6 +151,9 @@ def OCRText(name):
                     pass
 
             if check == 0:                  ## the line that cannot detect
+                ### check ERROR: the lines aren't detected
+                #-------#print("error: " + line[-1])
+                #########
                 iou.append(0)
 
 
@@ -139,7 +161,8 @@ def OCRText(name):
 
 
         average = sum(iou) / len(iou)
-        print('Average IOU:  ' + str(average))
+        #print(iou)
+        print('Average IOU:  ' + name +'   '+ str(average))
 
         
     cv2.imshow('Test and Sample ', img)
@@ -183,7 +206,7 @@ def get_iou(ground_truth, pred, img):
 
 
 
-name = 'X51005230657.jpg'
+name = 'X00016469671.jpg'
 OCRText(name)
 
 

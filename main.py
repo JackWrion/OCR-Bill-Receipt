@@ -1,5 +1,4 @@
 import testOCR
-
 import os
 
 files = os.listdir('./')
