@@ -1,0 +1,266 @@
+iou: 0.8537976865928968    txt: 100
+MOONLIGHT CAKE HOUSE SDN BHD 862725-U
+MOONLIGHT CAKE HOUSE SDN BHD 862725-U
+
+iou: 0.9269697677935577    txt: 95
+(GST REG NO : 001559298048)
+(GST Reg No: 001559288048)
+
+iou: 0.86427732079906    txt: 93
+NO.1, JALAN PERMAS 10/5, BANDAR BARU PERMAS JAYA
+Jalan Permas 10/5, Bandar Baru Permas Jaya
+
+iou: 0.619362177534024    txt: 82
+81750 JOHOR BAHRU, JOHOR. TEL NO.: 07-387 3322
+81750 Johor Bahru, Johor. Tel No
+
+iou: 0.9038208168642952    txt: 96
+WWW.MOONLIGHTCAKE.COM
+www. moonl ightcake.com
+
+iou: 0.6681818181818182    txt: 73
+TABLE
+Tab]
+
+iou: 0.6620839363241678    txt: 78
+: COUNTER
+Counte!
+
+iou: 0.5706910712190543    txt: 80
+INVOICE NO:
+Invoice No: SP-nu
+
+iou: 0.5454421789271625    txt: 78
+SP-NULL-18/06/11-1019128
+8/06/11-1019128
+
+iou: 0.7293447293447294    txt: 100
+DATE
+Date
+
+!-Error: : 11/06/2018
+
+iou: 0.4416580810627151    txt: 67
+18:25:59
+/06/2018 18:25:59
+
+iou: 0.6682736156351792    txt: 88
+PAYMENT TYPE:
+Payment Type: Cas
+
+!-Error: CASH
+
+iou: 0.41739130434782606    txt: 62
+MEMBER NUMBER :
+Member Number: 3000000100068587
+
+iou: 0.4801840289188301    txt: 69
+3000000100068587
+Member Number: 3000000100068587
+
+iou: 0.8077422546533919    txt: 100
+TAKE AWAY
+TAKE AWAY
+
+iou: 0.9261538461538461    txt: 96
+T-DARK SEED GRAIN BREAD *#
+T-Dark Seed Grain Bread +#
+
+iou: 0.7222810159557147    txt: 100
+DISCOUNT
+Discount
+
+iou: 0.7427722307672254    txt: 100
+T-GREEN TEA SWISS ROLL #
+T-Green Tea Swiss Roll #
+
+iou: 0.8310502283105022    txt: 100
+DISCOUNT
+Discount
+
+iou: 0.8612478250062142    txt: 98
+T-POLO BUTTER MILK *#
+T-Polo butter milk +*#
+
+iou: 0.7567901779799496    txt: 100
+DISCOUNT
+Discount
+
+iou: 0.842328697966864    txt: 94
+T-SAHA BREAD *#
+T-Saha Bread ##
+
+iou: 0.6388767003071523    txt: 100
+DISCOUNT
+Discount
+
+iou: 0.8862816996887807    txt: 96
+T-WALNUT MULTIGRAIN *#
+T-Walnut Multigrain ##
+
+iou: 0.7723765432098766    txt: 100
+DISCOUNT
+Discount
+
+!-Error: 1
+
+!-Error: 1
+
+!-Error: 1
+
+!-Error: 1
+
+!-Error: 1
+
+iou: 0.5768635542945576    txt: 82
+RM4.15
+RM4.15 ST
+
+iou: 0.8660940425063319    txt: 100
+RM-0.20
+RM-0.20
+
+iou: 0.6002160777880037    txt: 84
+RM13.95
+RM13.95 ST
+
+iou: 0.7874875347714271    txt: 100
+RM-0.69
+RM-0.69
+
+iou: 0.5566749567929857    txt: 82
+RM3.00
+RM3.00 ST
+
+iou: 0.841716609589041    txt: 94
+RM-0.15
+RM-0. 15
+
+iou: 0.5808671713695802    txt: 82
+RM4.60
+RM4.60 ST
+
+iou: 0.825    txt: 94
+RM-0.23
+RM-0,.23
+
+iou: 0.5840844707700231    txt: 82
+RM3.95
+RM3.95 ST
+
+iou: 0.7607820021613125    txt: 100
+RM-0.19
+RM-0.19
+
+!-Error: ST
+
+!-Error: ST
+
+!-Error: ST
+
+!-Error: ST
+
+!-Error: ST
+
+iou: 0.9032496697490092    txt: 100
+TOTAL (INCL GST, 0%)
+Total (Incl GST, 0%)
+
+iou: 0.7939632545931758    txt: 94
+RM28.19
+RM28. 19
+
+iou: 0.6760590015128594    txt: 100
+ROUNDING
+Rounding
+
+iou: 0.7718167456556082    txt: 86
+RM0.01
+RMO.01
+
+!-Error: GRAND TOTAL
+
+iou: 0.4665794435679378    txt: 44
+RM28.20
+Grand Total iIRMZ8 . 20
+
+iou: 0.8416493416493417    txt: 100
+TOTAL PAID
+Total Paid
+
+iou: 0.8130141712223343    txt: 100
+CHANGE
+Change
+
+iou: 0.8211680775169036    txt: 88
+RM30.00
+RM3O.00
+
+iou: 0.6932367149758454    txt: 100
+RM1.80
+RM1.80
+
+iou: 0.8492307692307692    txt: 100
+DISCOUNT SUMMARY
+Discount Summary
+
+iou: 0.7460490225956724    txt: 100
+DISCOUNT
+Discount
+
+iou: 0.756    txt: 100
+RM1.46
+RM1.46
+
+iou: 0.7975308641975308    txt: 100
+GST SUMMARY
+GST Summary
+
+iou: 0.5830585413900904    txt: 83
+GST SUMMARY
+GST Summary Item
+
+iou: 0.7752877044215627    txt: 75
+ST = 0%
+oT = 0h
+
+iou: 0.757709901136196    txt: 100
+NS = 0%
+NS = 0%
+
+!-Error: ITEM
+
+iou: 0.5374169315226813    txt: 100
+5
+5
+
+iou: 0.5539011316259679    txt: 40
+0
+()
+
+iou: 0.8679245283018868    txt: 96
+AMOUNT(RM)
+Amount (RM)
+
+iou: 0.7569143369711466    txt: 100
+28.19
+28.19
+
+iou: 0.7116692830978545    txt: 80
+0.00
+0,00
+
+iou: 0.8227529855436833    txt: 94
+GST(RM)
+GST (RM)
+
+iou: 0.7802987861811391    txt: 100
+0.00
+0.00
+
+iou: 0.7385771100309324    txt: 100
+0.00
+0.00
+
+Average IOU:  X51007846310.jpg   58.81400615106607
+Text Matching % :  X51007846310.jpg   90.2542372881356

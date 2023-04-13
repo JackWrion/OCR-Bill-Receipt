@@ -1,0 +1,244 @@
+iou: 0.7273746147380219    txt: 100
+MOONLIGHT CAKE HOUSE SDN BHD 862725-U
+MOONLIGHT CAKE HOUSE SDN BHD 862725-U
+
+iou: 0.8723871421043387    txt: 98
+(GST REG NO: 001559298048)
+(GST Reg No: 001559298048 )
+
+iou: 0.8487560285819682    txt: 100
+NO.1, JALAN PERMAS 10/5, BANDAR BARU PERMAS JAYA
+No.1, Jalan Permas 10/5, Bandar Baru Permas Jaya
+
+iou: 0.7708233774620601    txt: 100
+81750 JOHOR BAHRU, JOHOR. TEL NO.: 07-387 3322
+81750 Johor Bahru, Johor. Tel No.: 07-387 3322
+
+iou: 0.9156630217156938    txt: 98
+WWW.MOONLIGHTCAKE.COM
+www.moonl ightcake.com
+
+iou: 0.7937240424550069    txt: 100
+TABLE
+Table
+
+iou: 0.9215995546483577    txt: 100
+: COUNTER
+: Counter
+
+!-Error: INVOICE NO:
+
+iou: 0.6143943602612977    txt: 77
+SP-NULL-18/06/07-1017888
+Invoice No: SP-nul1-18/06/07-1017888
+
+iou: 0.8019595391454232    txt: 100
+DATE
+Date
+
+iou: 0.53396922204099    txt: 69
+: 07/06/2018
++ 07/06/2018 18:17:39
+
+!-Error: 18:17:39
+
+iou: 0.6914160471789773    txt: 88
+PAYMENT TYPE:
+Payment Type: Cas
+
+!-Error: CASH
+
+iou: 0.4335221837981017    txt: 62
+MEMBER NUMBER :
+Member Number: 3000000100068587
+
+iou: 0.45797592357929623    txt: 69
+3000000100068587
+Member Number: 3000000100068587
+
+iou: 0.7498227201815345    txt: 100
+TAKE AWAY
+TAKE AWAY
+
+iou: 0.8378887719161435    txt: 96
+T-DARK SEED GRAIN BREAD *#
+T-Dark Seed Grain Bread +#
+
+iou: 0.8091099233093191    txt: 100
+DISCOUNT
+Discount
+
+iou: 0.9119674185463659    txt: 100
+T-GREEN TEA MOCHI *#
+T-Green Tea Mochi *#
+
+iou: 0.7922297297297297    txt: 100
+DISCOUNT
+Discount
+
+iou: 0.9476911976911977    txt: 100
+T-HONEY WALNUT *#
+T-Honey Walnut *#
+
+iou: 0.777491961414791    txt: 100
+DISCOUNT
+Discount
+
+iou: 0.9376757263355201    txt: 94
+T-SAHA BREAD *#
+T-Saha Bread ##
+
+iou: 0.8427575522850503    txt: 100
+DISCOUNT
+Discount
+
+iou: 0.4865970013630168    txt: 50
+1
+|
+
+!-Error: 1
+
+!-Error: 1
+
+!-Error: 1
+
+iou: 0.5557543943370715    txt: 82
+RM4.15
+RM4.15 ST
+
+iou: 0.784845853234911    txt: 100
+RM-0.20
+RM-0.20
+
+iou: 0.5871559633027523    txt: 82
+RM3.30
+RM3.30 ST
+
+iou: 0.8779035139964264    txt: 94
+RM-0.16
+RM-0. 16
+
+iou: 0.6317103620474407    txt: 82
+RM3.70
+RM3.70 ST
+
+iou: 0.8818686345063121    txt: 100
+RM-0.18
+RM-0.18
+
+iou: 0.6068171949630916    txt: 71
+RM4.60
+RM4,60 ST
+
+iou: 0.8806333739342266    txt: 94
+RM-0.23
+RM-0,.23
+
+!-Error: ST
+
+!-Error: ST
+
+!-Error: ST
+
+!-Error: ST
+
+iou: 0.8353057199211046    txt: 95
+TOTAL (INCL GST, 0%)
+Total (Inc) GST, 0%)
+
+iou: 0.8991832909358682    txt: 100
+ROUNDING
+Rounding
+
+iou: 0.7991194276279582    txt: 100
+RM14.98
+RM14.98
+
+iou: 0.7473309608540926    txt: 80
+RM0.02
+RMO. 02
+
+!-Error: GRAND TOTAL
+
+iou: 0.4711283380350604    txt: 54
+RM15.00
+grand Total 15.00
+
+iou: 0.8691308691308691    txt: 100
+TOTAL PAID
+Total Paid
+
+iou: 0.8388079182075266    txt: 94
+RM20.00
+RM20 .00
+
+iou: 0.9123227003411335    txt: 100
+CHANGE
+Change
+
+iou: 0.8574979287489644    txt: 86
+RM5.00
+RM5 00
+
+iou: 0.848758259284575    txt: 100
+DISCOUNT SUMMARY
+Discount Summary
+
+iou: 0.8529199711607787    txt: 100
+DISCOUNT
+Discount
+
+iou: 0.9080344620316569    txt: 80
+RM0.77
+RMO. 77
+
+iou: 0.894403155929696    txt: 100
+GST SUMMARY
+GST Summary
+
+!-Error: GST SUMMARY
+
+iou: 0.8582274302690213    txt: 100
+ST = 0%
+ST = 0%
+
+iou: 0.889002557544757    txt: 75
+NS = 0%
+NS = Oh
+
+!-Error: ITEM
+
+!-Error: 4
+
+iou: 0.6563693162096494    txt: 100
+0
+0
+
+!-Error: AMOUNT(RM)
+
+iou: 0.8563006632277081    txt: 83
+14.98
+14,98
+
+iou: 0.7991791810465442    txt: 100
+0.00
+0.00
+
+!-Error: GST(RM)
+
+iou: 0.7535321821036107    txt: 100
+0.00
+0.00
+
+iou: 0.8080007921576394    txt: 100
+0.00
+0.00
+
+iou: 0.5117856933965023    txt: 71
+07/06/2018
+07/06/2018 18:17:39
+
+!-Error: 18:17:39
+
+Average IOU:  X51007846289.jpg   58.1881553173466
+Text Matching % :  X51007846289.jpg   90.84615384615384

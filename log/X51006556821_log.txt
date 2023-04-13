@@ -1,0 +1,260 @@
+iou: 0.42625064466219703    txt: 84
+GARDENIA BAKERIES (KL) SDN BHD (139386 X)
+GARDENIA waKenties KL) SW ILD (139386 X)
+
+iou: 0.4151570048309179    txt: 65
+LOT 3, JALAN PELABUR 23/1,
+Lot 3, Jalan
+
+!-Error: 40300 SHAH ALAM, SELANGOR.
+
+iou: 0.5386119257086999    txt: 53
+TEL: 03- 55423228
+del. OF 554
+
+iou: 0.7384615384615385    txt: 93
+GST ID: 000381399040
+GST LD: 00038 1399040
+
+iou: 0.7292596788165523    txt: 97
+TAX INVOICE / ADJUSTMENT NOTE
+TAX INVOICE / ADJUSTHENT NOTE
+
+iou: 0.7595289742795166    txt: 89
+CASH INV NO.: 7902F755
+Cash Inv No. ; 79@2F755
+
+iou: 0.6495726495726496    txt: 71
+VE0514
+VEOS14
+
+iou: 0.6328712871287129    txt: 94
+DATE: 02/09/2017
+Date: 02/03/2017
+
+iou: 0.8310433338366299    txt: 93
+MAKASSAR FRESH MARKET SDN BHD
+HAKASSAR FRESH MARKET SON BHD
+
+!-Error: GROUND FLOOR, NO. 4 & 6,
+
+iou: 0.648975791433892    txt: 97
+JALAN SS 15/4B,
+JALAN SS 15/4B
+
+iou: 0.5363210702341137    txt: 81
+47500 SUBANG JAYA, SELANGOR
+47500 SUBANG JAYA,
+
+iou: 0.7776838546069316    txt: 91
+VE05: RIDZUAN (11900)
+VEOS: Ridzuan (11900)
+
+iou: 0.6076923076923076    txt: 94
+DD: 02/09/2017
+DD: 02/09/2017 _
+
+iou: 0.7509881422924901    txt: 100
+12:57
+12:57
+
+iou: 0.5029756191207525    txt: 75
+DESCRIPTION
+Descri i \ption lon
+
+!-Error: U.P
+
+!-Error: D
+
+!-Error: AMT(RM)
+
+!-Error: O.C. WHITE
+
+!-Error: 2.13
+
+iou: 0.5723905723905723    txt: 67
+15
+1s
+
+!-Error: 0
+
+!-Error: 0
+
+iou: 0.601010101010101    txt: 67
+15
+1s
+
+iou: 0.73046875    txt: 100
+31.95
+31.95
+
+iou: 0.7130777903043969    txt: 90
+O.C JUMBO
+0.C JUMBO
+
+iou: 0.6852487135506004    txt: 100
+2.97
+2.97
+
+!-Error: 2
+
+!-Error: 0
+
+!-Error: 0
+
+!-Error: 2
+
+iou: 0.7316849816849816    txt: 100
+5.94
+5.94
+
+iou: 0.8282892640968461    txt: 92
+TOTAL 0% SUPPLIES:
+Total @% supplies
+
+iou: 0.681060606060606    txt: 100
+37.89
+37.89
+
+iou: 0.5228174603174603    txt: 81
+CR-VANILLA
+CR-VANILLA 0.72
+
+!-Error: 0.72
+
+iou: 0.5454545454545454    txt: 33
+0
+tC)
+
+!-Error: 8
+
+!-Error: 0
+
+!-Error: -8
+
+!-Error: -5.76
+
+iou: 0.6707070707070707    txt: 100
+CR-CORN
+CR-CORN
+
+iou: 0.5217391304347826    txt: 89
+0.72
+0.7
+
+iou: 0.5230769230769231    txt: 100
+15
+15
+
+!-Error: 3
+
+!-Error: 0
+
+iou: 0.68    txt: 40
+12
+R
+
+!-Error: 8.64
+
+iou: 0.6795392953929539    txt: 91
+KAYA-PANDN
+KAYA-PANON
+
+iou: 0.6702317290552585    txt: 80
+2.40
+2.48
+
+!-Error: 3
+
+!-Error: 0
+
+!-Error: 0
+
+iou: 0.5949656750572082    txt: 33
+3
+- J
+
+!-Error: 7.20
+
+iou: 0.9059490084985836    txt: 100
+TOTAL 6% SUPPLIES (EXCL. GST):
+Total 6% supplies (excl. GST):
+
+iou: 0.7191697191697192    txt: 100
+10.08
+10.08
+
+iou: 0.7    txt: 100
+GST:
+GST:
+
+iou: 0.7843137254901961    txt: 100
+0.60
+0.60
+
+iou: 0.9015792630105951    txt: 98
+TOTAL 6% SUPPLIES (INC. GST):
+Total 6% supplies (Inc. GST)
+
+iou: 0.7065527065527065    txt: 100
+10.68
+10.68
+
+iou: 0.8749466495945369    txt: 97
+TOTAL 0% SUPPLIES:
+Total 0% supplies
+
+iou: 0.7697811447811448    txt: 100
+37.89
+37.89
+
+iou: 0.7489361702127659    txt: 97
+TOTAL PAYABLE:
+Total Payable
+
+iou: 0.8021390374331551    txt: 100
+48.57
+48.57
+
+iou: 0.4896907216494845    txt: 82
+E.&.0.E.
+E.8.0.E
+
+iou: 0.6772417194049478    txt: 85
+RECEIVED ABOVE GOODS IN GOOD ORDER CONDITION.
+above goeds in good order condition
+
+iou: 0.7101511879049676    txt: 95
+THE RECIPIENT OF GARDENIA'S PRODUCTS IS
+The recipient of Gardenia's product
+
+iou: 0.8565866320571057    txt: 100
+REQUIRED TO MAKE NECESSARY ADJUSTMENTS TO ITS
+required to make necessary adjustments to its
+
+iou: 0.5436404494382022    txt: 85
+INPUT TAX CLAIMS, ON THE BASIC OF THE
+input tax claims, on the bas.
+
+iou: 0.4910920336010339    txt: 77
+ADJUSTMENTS SHOWN IN THIS TAX INVOICE /
+adjustments shown in thi
+
+iou: 0.7158656746430726    txt: 94
+ADJUSTMENT NOTE
+Adjus tent Note
+
+iou: 0.7262813522355507    txt: 94
+CUSTOMER'S COPY
+“CUSTOMER'S COP
+
+!-Error: FAX:03- 55423213
+
+!-Error: ISS
+
+!-Error: EXC
+
+!-Error: SALE
+
+Average IOU:  X51006556821.jpg   42.55832104677212
+Text Matching % :  X51006556821.jpg   86.88

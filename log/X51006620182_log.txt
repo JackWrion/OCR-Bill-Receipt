@@ -1,0 +1,114 @@
+!-Error: WIN SOON CAFE
+
+!-Error: PACIFIC ASIAN FOOD DELIGHTS S/B
+
+!-Error: ( COMPANY NO : 1164418D )
+
+!-Error: ( GST NO : 001400385536 )
+
+!-Error: NO.35,GROUND FLOOR
+
+!-Error: JLN METRO PERDANA BARAT 1
+
+!-Error: TAMAN USAHAWAN KEPONG 52100 KL
+
+!-Error: TEL : 03-6242 7258
+
+!-Error: [ TAX INVOICE ]
+
+!-Error: TABLE
+
+!-Error: INV NO: WINS09/00010042
+
+!-Error: CASHIER: 66
+
+!-Error: INV DT: 08/05/2016 12:08:00 PM RM
+
+!-Error: QTY ITEM
+
+!-Error: AMOUNT
+
+!-Error: 1
+
+!-Error: LING FISH HEAD MEEHOON
+
+!-Error: 1
+
+!-Error: 1
+
+!-Error: 1
+
+!-Error: 1
+
+!-Error: COMBO SET
+
+!-Error: 502
+
+!-Error: T.YAM FISH PASTE M/HOON
+
+!-Error: 601C
+
+!-Error: WHITE COFFEE-COLD
+
+!-Error: *029
+
+!-Error: F.PRAWN&LING F.HEAD MHOON
+
+!-Error: 16.90 SR
+
+!-Error: 10.90 SR
+
+!-Error: 11.90 SR
+
+!-Error: 4.90 SR
+
+!-Error: 25.90 SR
+
+!-Error: 5
+
+!-Error: SV CHARGE 5%
+
+!-Error: GST S.RATE 6%
+
+!-Error: 70.50
+
+!-Error: 3.55
+
+!-Error: 4.45
+
+!-Error: NET TOTAL
+
+!-Error: CASH
+
+!-Error: CHANGE
+
+!-Error: 78.50
+
+!-Error: 100.00
+
+!-Error: 21.50
+
+!-Error: TAX SUMMARY
+
+!-Error: SR GST S.RATE
+
+!-Error: AMOUNT
+
+!-Error: TAX
+
+!-Error: 74.05
+
+!-Error: 4.45
+
+!-Error: THANK YOU, PLEASE COME AGAIN
+
+!-Error: : 04
+
+!-Error: *021
+
+!-Error: LING FISH HEAD MEEHOON
+
+!-Error: SUB TOTAL
+
+Average IOU:  X51006620182.jpg   0.0
+Text Matching % :  X51006620182.jpg   0

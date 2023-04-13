@@ -1,0 +1,244 @@
+iou: 0.8089566683316683    txt: 100
+THE GEOVENTURE
+The GeoVenture
+
+iou: 0.6567137916799198    txt: 100
+(FREEDOM OPTIMUM SDN BHD)
+(Freedom Optimum Sdn Bhd)
+
+iou: 0.6644727428816712    txt: 89
+1122485-W
+22485-W
+
+iou: 0.5953003781820356    txt: 93
+C1 SEAFRONT, BERJAYA WATERFRONT COMPLEX,
+G1 Seafront, Ber jaya Waterfront Gomplex
+
+iou: 0.7532582236487797    txt: 92
+88 JALAN IBRAHIM SULTAN,
+aa Jalan Ibrahim Sultan,
+
+iou: 0.7351987198892878    txt: 100
+STULANG LAUT 80300,
+Stulang Laut 80300,
+
+iou: 0.4598735408560311    txt: 79
+JOHOR BAHRU, JOHOR.
+Johor Bahru,
+
+iou: 0.9382664726668052    txt: 100
+TEL: 07-2213800
+TEL: 07-2213800
+
+iou: 0.7300739768524043    txt: 100
+GST REG NO. 001699237888
+GST REG NO. 001699237888
+
+iou: 0.6956117407730311    txt: 100
+SIMPLIFIED TAX INVOICE
+SIMPLIFIED TAX INVOICE
+
+iou: 0.6604418466415692    txt: 97
+INVOICE :246274
+invoice : 246274
+
+iou: 0.8135407905803196    txt: 97
+CASHIER:RASHER
+Cashier :RASHER
+
+!-Error: TABLE
+
+iou: 0.532603668876214    txt: 84
+DATE : 6/4/2018 21:44:42
+6/4/2018 21:44:42
+
+iou: 0.7938388625592417    txt: 100
+PAX:0
+Pax:0
+
+iou: 0.718990458602647    txt: 100
+ITEM
+ITEM
+
+iou: 0.8038144329896907    txt: 100
+QTY
+QTY
+
+!-Error: U/P (RM)
+
+!-Error: DISC(%)
+
+!-Error: AMT (RM)
+
+iou: 0.6812620585279064    txt: 93
+S SPECIAL TG TOWER 01
+S Special TG Tower
+
+iou: 0.9159261790840738    txt: 83
+BGB88
+BGBB8
+
+!-Error: 1
+
+!-Error: 75.47
+
+iou: 0.8276080084299262    txt: 100
+0+0
+0+0
+
+iou: 0.7260167464114833    txt: 92
+75.47
+75. 47
+
+iou: 0.7324601515547426    txt: 94
+S ICED CAFE LATTE
+S Iced Gafe Latte
+
+iou: 0.7635814889336016    txt: 100
+BNA22
+BNA22
+
+!-Error: 1
+
+!-Error: 8.58
+
+iou: 0.7549212598425197    txt: 75
+0+0
+Q+0
+
+iou: 0.7416154936230515    txt: 91
+8.58
+8. 58
+
+iou: 0.8324490554560509    txt: 100
+SUB TOTAL:
+Sub Total:
+
+iou: 0.7553807947019867    txt: 95
+RM 84.05
+RM 84. 05
+
+!-Error: S
+
+iou: 0.7593942558746736    txt: 100
+SERVICE CHARGE:
+Service Charge:
+
+iou: 0.7034781634101692    txt: 94
+RM 8.41
+RM 8. 41
+
+iou: 0.7408618866985884    txt: 94
+TOTAL SALES(EXCL. GST)
+Total Sales (Exc!. GST)
+
+iou: 0.7584898843930635    txt: 95
+RM 92.46
+RM 92. 46
+
+!-Error: GST 6% ON RM 92.46
+
+iou: 0.8266666666666667    txt: 82
+RM 5.54
+RM 6. 54
+
+iou: 0.7748083843291926    txt: 94
+TOTAL SALES(INCL.GST 6%)
+Total Sales(Incl.@ST 6%
+
+iou: 0.7737313432835821    txt: 95
+RM 98.00
+RM 98. 00
+
+iou: 0.8289062853522784    txt: 95
+ROUNDING ADJUSTMENT :
+Rounding Adjustment
+
+iou: 0.7478641760787721    txt: 94
+RM 0.00
+RM 0. 00
+
+iou: 0.9446109446109446    txt: 100
+TOTAL
+TOTAL
+
+iou: 0.8301518245582882    txt: 95
+RM 98.00
+RM 98. 00
+
+iou: 0.9003570269393054    txt: 100
+CASH
+CASH
+
+iou: 0.8199791431302685    txt: 95
+RM 100.00
+RM 100. 00
+
+iou: 0.8771651293123978    txt: 100
+CHANGE
+CHANGE
+
+iou: 0.8197347718588447    txt: 94
+RM 2.00
+RM 2. 00
+
+iou: 0.7164705882352941    txt: 94
+MAIN ITEM COUNT
+Main Item Gount
+
+!-Error: 2
+
+iou: 0.7554713635081214    txt: 100
+TOTAL DISCOUNT
+Total Discount
+
+iou: 0.752471956792688    txt: 94
+RM 0.00
+RM 0. 00
+
+iou: 0.7951837985023825    txt: 100
+GST SUMMARY
+GST Summary
+
+iou: 0.4524761704302854    txt: 48
+AMOUNT(RM)
+hance SRM
+
+iou: 0.6286592369540248    txt: 94
+TAX(RM)
+Tax (RM)
+
+!-Error: S
+
+iou: 0.7415730337078652    txt: 33
+6%
+on
+
+!-Error: 92.46
+
+iou: 0.7963054187192118    txt: 91
+5.54
+5. 54
+
+!-Error: Z
+
+iou: 0.6682584269662921    txt: 100
+0%
+0%
+
+iou: 0.8181058961082345    txt: 91
+0.00
+0. 00
+
+iou: 0.8033349681216283    txt: 91
+0.00
+0. 00
+
+!-Error: :
+
+iou: 0.9184266614997093    txt: 86
+A6
+A6é
+
+Average IOU:  X51006414532.jpg   58.889874939146225
+Text Matching % :  X51006414532.jpg   92.50943396226415

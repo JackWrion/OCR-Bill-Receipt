@@ -1,0 +1,250 @@
+iou: 0.8326645264847512    txt: 92
+RESTAURANT JIAWEI
+RESTAURANT JI AWE!
+
+iou: 0.8658187838651414    txt: 92
+JIAWEI HOUSE
+JIAWE! HOUSE
+
+iou: 0.9295698924731183    txt: 100
+002693074-K
+002693074-K
+
+iou: 0.6609686609686609    txt: 85
+13, JLN TASIK UTAMA 8
+JLN 1ASIK UTAMA 8
+
+iou: 0.7713770522919237    txt: 92
+MEDAN NIAGA DAMAI SG BESI
+MEDAN NIAGA DAMA| SG BES!
+
+iou: 0.8522875816993464    txt: 100
+57000 KL
+57000 KL
+
+iou: 0.8397252432741843    txt: 100
+INVOICE
+INVOICE
+
+iou: 0.7071350564251911    txt: 100
+INVOICE :8884
+Invoice :8884
+
+iou: 0.5276913503422527    txt: 97
+cashier : admin
+Cashier: admin
+
+iou: 0.7746254383168633    txt: 95
+POS NO: 2
+POS No:2
+
+iou: 0.5847953216374269    txt: 100
+TABLE
+Table
+
+iou: 0.7935613682092555    txt: 80
+ITEM
+(TEM
+
+iou: 0.8676405489154493    txt: 100
+RED CAT FISH
+Red Cat Fish
+
+iou: 0.8779576587795765    txt: 100
+STEAMED
+Steamed
+
+iou: 0.7957317073170732    txt: 100
+GINGER CLAMS (S)
+Ginger Clams (S)
+
+iou: 0.4499748054420245    txt: 98
+BEANCURD W DAO GAN (S)
+Beancurd W Dao gan(s)
+
+iou: 0.8870526555732847    txt: 98
+G.DRAGON CHIVES (S)
+G. Dragon Chives (S)
+
+iou: 0.8327691266079892    txt: 100
+STIR FRIED
+STIR FRIED
+
+iou: 0.8582729070533949    txt: 100
+PU ER (1-3)
+Pu Er (1-3)
+
+iou: 0.7860215053763441    txt: 100
+(1-3)
+(1-3)
+
+iou: 0.7416225749559083    txt: 100
+HOT
+HOT
+
+iou: 0.8143712574850299    txt: 100
+RICE (B)
+Rice (B)
+
+iou: 0.7361168669705761    txt: 87
+RICE SMALL
+Rice Smal |
+
+iou: 0.7224324324324324    txt: 100
+SUB TOTAL BE
+Sub Total Be
+
+!-Error: SCOUNT
+
+iou: 0.4509586706433745    txt: 71
+RM 110.00
+scount RM 110. 00
+
+iou: 0.8314845409487845    txt: 87
+SERVICE CHARG
+Service Char, .
+
+iou: 0.858343337334934    txt: 82
+RN 0.00
+RM 0. 00
+
+iou: 0.7851458885941645    txt: 100
+TOTAL SALES
+Total Sales
+
+iou: 0.8357305071915215    txt: 95
+RM 110.00
+RM 110. 00
+
+iou: 0.7152964959568733    txt: 95
+ROUNDING ADJUSTMENT :
+Rounding Adjustment
+
+iou: 0.8648068669527897    txt: 94
+RM 0.00
+RM 0. 00
+
+iou: 0.8046717680225534    txt: 100
+TOTAL
+TOTAL
+
+!-Error: RM
+
+iou: 0.6127828898284009    txt: 78
+110.00
+RM 110. 00
+
+iou: 0.5470653377630121    txt: 100
+6
+6
+
+iou: 0.4696969696969697    txt: 75
+1.00
+00
+
+iou: 0.8565310492505354    txt: 91
+0.00
+0. 00
+
+iou: 0.8440336134453782    txt: 91
+0.00
+0. 00
+
+iou: 0.7909343200740055    txt: 100
+3.0
+3.0
+
+iou: 0.5686336383717261    txt: 97
+CASHIER : ADMIN
+Cashier: admin
+
+iou: 0.5806706114398422    txt: 84
+DATE : 23/2/2018 20:04:08
+23/2/2018 20:04:08
+
+!-Error: :
+
+iou: 0.96    txt: 100
+13
+13
+
+iou: 0.72    txt: 100
+QTY
+QTY
+
+iou: 0.8724100327153762    txt: 100
+U/P (RM)
+U/P (RM)
+
+iou: 0.7223701731025299    txt: 100
+DISC (%)
+DISC (%)
+
+iou: 0.726    txt: 100
+AMT (RM)
+Amt (RM)
+
+!-Error: 1
+
+iou: 0.8031189083820662    txt: 100
+42.00
+42.00
+
+iou: 0.8643717728055077    txt: 91
+0.00
+0. 00
+
+iou: 0.666289592760181    txt: 86
+42.
+42
+
+!-Error: 1
+
+iou: 0.8606377130291369    txt: 92
+20.00
+20. 00
+
+iou: 0.8035714285714286    txt: 91
+0.00
+0. 00
+
+!-Error: 1
+
+iou: 0.8416289592760181    txt: 92
+18.00
+18. 00
+
+iou: 0.833976833976834    txt: 91
+0.00
+0. 00
+
+!-Error: 1
+
+iou: 0.8417703210876483    txt: 92
+16.00
+16. 00
+
+iou: 0.8847780126849895    txt: 91
+0.00
+0. 00
+
+!-Error: 1
+
+iou: 0.8073089700996677    txt: 50
+5
+5. U0
+
+iou: 0.8403614457831325    txt: 91
+0.00
+0. 00
+
+iou: 0.7948717948717948    txt: 100
+5.0
+5.0
+
+iou: 0.5457089552238806    txt: 86
+.50
+50
+
+Average IOU:  X51005447844.jpg   67.1456753678519
+Text Matching % :  X51005447844.jpg   93.25862068965517

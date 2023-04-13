@@ -1,0 +1,256 @@
+iou: 0.540605695344282    txt: 92
+GARDENIA BAKERIES (KL) SDN BHD (139386 X)
+GARDENIA BAKERIES (REFSDN BHD (139386 X)
+
+iou: 0.9354744525547445    txt: 100
+LOT 3, JALAN PELABUR 23/1,
+Lot 3, Jalan Pelabur 23/1,
+
+iou: 0.8566887417218543    txt: 100
+40300 SHAH ALAM, SELANGOR.
+40300 Shah Alam, Selangor.
+
+iou: 0.4468993221190058    txt: 64
+TEL: 03- 55423228
+Tel: O3- 55423228 Vax:03- $5425213
+
+iou: 0.8457926371149511    txt: 95
+GST ID: 000381399040
+GST LD: 000381399040
+
+iou: 0.7887804878048781    txt: 100
+TAX INVOICE / ADJUSTMENT NOTE
+TAX INVOICE / ADJUSTMENT NOTE
+
+!-Error: CASH INV NO.: 7818F712
+
+iou: 0.6697674418604651    txt: 57
+VE0514
+VEOSI4
+
+iou: 0.41171251109139306    txt: 71
+DATE: 18/08/2017
+18/08/2617
+
+iou: 0.8475675675675676    txt: 97
+MAKASSAR FRESH MARKET SDN BHD
+HAKASSAR FRESH MARKET SDN BHD
+
+iou: 0.7787169183871415    txt: 100
+GROUND FLOOR, NO. 4 & 6,
+GROUND FLOOR, NO. 4 & 6,
+
+iou: 0.8209861549672092    txt: 100
+JALAN SS 15/4B,
+JALAN SS 15/4B,
+
+iou: 0.8482914506049728    txt: 96
+47500 SUBANG JAYA, SELANGOR
+4750@ SUBANG JAYA, SELANGOR
+
+iou: 0.9287389500270612    txt: 88
+VE05: RIDZUAN(11900)
+VEOS: Ridzuan( 11900)
+
+iou: 0.6176239181746657    txt: 74
+DD: 18/08/2017
+DD: 184082017 10:47
+
+!-Error: 10:47
+
+!-Error: DESCRIPTION
+
+!-Error: U.P
+
+!-Error: D
+
+iou: 0.5115147583522544    txt: 64
+AMT(RM)
+Sale _AmtCRM)
+
+iou: 0.6790633608815427    txt: 91
+O.C. WHITE
+0.C. WHITE
+
+iou: 0.41837571780147664    txt: 50
+2.13
+2B
+
+iou: 0.43478260869565216    txt: 100
+3
+3
+
+!-Error: 1
+
+!-Error: 0
+
+!-Error: 2
+
+!-Error: 4.26
+
+iou: 0.6995341614906833    txt: 100
+WHOLEMEAL
+WHOLEMEAL
+
+!-Error: 2.78
+
+!-Error: 3
+
+!-Error: 4
+
+!-Error: 0
+
+!-Error: -1
+
+!-Error: -2.78
+
+iou: 0.6644542772861357    txt: 80
+O.C JUMBO
+0.C JUNBO
+
+iou: 0.544    txt: 67
+2.97
+-97
+
+!-Error: 4
+
+!-Error: 4
+
+!-Error: 0
+
+!-Error: 0
+
+iou: 0.7044025157232704    txt: 44
+0.00
+8 0
+
+iou: 0.5126916310630811    txt: 81
+BONZ SAVER
+BONZ SAVER 2.97
+
+!-Error: 2.97
+
+!-Error: 0
+
+!-Error: 6
+
+!-Error: 0
+
+!-Error: -6
+
+!-Error: -17.82
+
+iou: 0.9502262443438914    txt: 97
+TOTAL 0% SUPPLIES:
+Total % supplies:
+
+iou: 0.40669856459330145    txt: 73
+-16.34
+-16
+
+iou: 0.6703869047619048    txt: 100
+CR-CHOCLT
+CR-CHOCLT
+
+iou: 0.7161172161172161    txt: 80
+0.72
+@.72
+
+iou: 0.6571428571428571    txt: 100
+20
+20
+
+!-Error: 7
+
+!-Error: 0
+
+iou: 0.7083333333333334    txt: 67
+13
+3B
+
+iou: 0.8070175438596491    txt: 100
+9.36
+9.36
+
+iou: 0.9216536394723986    txt: 97
+TOTAL 6% SUPPLIES (EXCL. GST):
+Total 6% supplies (excl. 6ST):
+
+iou: 0.7654320987654321    txt: 100
+9.36
+9.36
+
+iou: 0.6823899371069182    txt: 100
+GST.
+GST.
+
+iou: 0.8107816711590297    txt: 100
+0.56
+0.56
+
+iou: 0.9209514974821097    txt: 100
+TOTAL 6% SUPPLIES (INC. GST):
+Total 6% supplies (Inc. GST):
+
+iou: 0.8490675990675991    txt: 100
+9.92
+9.92
+
+iou: 0.8951240940039534    txt: 95
+TOTAL 0% SUPPLIES:
+Total @% supplies:
+
+iou: 0.8062271062271062    txt: 86
+-16.34
+~16.34
+
+iou: 0.5543677458766035    txt: 79
+TOTAL PAYABLE:
+Total Payable: — -6.42
+
+!-Error: -6.42
+
+iou: 0.6857911250560287    txt: 89
+E.&.0.E.
+E.&.0.€.
+
+iou: 0.8651500938086304    txt: 100
+RECEIVED ABOVE GOODS IN GOOD ORDER CONDITION.
+Received above goods in good order condition.
+
+iou: 0.5535296867695184    txt: 79
+THE RECIPIENT OF GARDENIA'S PRODUCTS IS
+The recipient of Gardenia
+
+iou: 0.8209417596034696    txt: 100
+REQUIRED TO MAKE NECESSARY ADJUSTMENTS TO ITS
+required to make necessary adjustments to its
+
+iou: 0.8985507246376812    txt: 100
+INPUT TAX CLAIMS, ON THE BASIC OF THE
+input tax claims, on the basic of the
+
+iou: 0.8102345415778252    txt: 100
+ADJUSTMENTS SHOWN IN THIS TAX INVOICE /
+adjustments shown in this Tax Invoice /
+
+iou: 0.6839536302623551    txt: 91
+ADJUSTMENT NOTE
+Adjustinent Note
+
+iou: 0.7962724935732648    txt: 100
+CUSTOMER'S COPY
+CUSTOMER'S COPY
+
+iou: 0.4652936689549962    txt: 54
+FAX:03- 55423213
+Tel: O3- 55423228 Vax:03- $5425213
+
+!-Error: ISS
+
+!-Error: EXC
+
+!-Error: SALE
+
+Average IOU:  X51006556654.jpg   43.30139374454605
+Text Matching % :  X51006556654.jpg   87.45833333333333

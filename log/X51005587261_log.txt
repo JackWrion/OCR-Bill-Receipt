@@ -1,0 +1,174 @@
+iou: 0.8633717329369504    txt: 100
+CHOP YEW LIAN
+CHOP YEW LIAN
+
+!-Error: COMPANY NO: 000200101-A
+
+iou: 0.4738558145151552    txt: 73
+LOT PT 5121, PER, KLANG, SEK, 27
+, Per. Klang, Sek. 27
+
+iou: 0.477988444950769    txt: 58
+40000 SHAH ALAM, SELANGOR
+sf) (Mes Sel angor
+
+!-Error: SITE: 1164
+
+!-Error: TELEPHONE: 03-51911239
+
+iou: 0.45165165165165166    txt: 76
+GST NO: 000840966144
+000840966144
+
+iou: 0.5097178347700381    txt: 67
+PRE-AUTHORISATION
+>?>>>>> Pre-Author| sation <<<<<
+
+iou: 0.8988057825267127    txt: 100
+PRE AUTH CODE A01A1490249339
+Pre auth code A01A1490249339
+
+iou: 0.6360544217687075    txt: 87
+11.54 LITRE PUMP #01
+4 litre Pump # 01
+
+iou: 0.42592592592592593    txt: 78
+V-POWER 97
+-Power
+
+!-Error: RM
+
+iou: 0.9106480159862974    txt: 100
+30.00 A
+30.00 A
+
+!-Error: 2.600
+
+iou: 0.8584863412449619    txt: 100
+TOTAL
+Total
+
+iou: 0.7298245614035088    txt: 100
+RM
+RM
+
+!-Error: 30.00
+
+iou: 0.8454545454545455    txt: 100
+CASH
+Cash
+
+iou: 0.7285464098073555    txt: 100
+RM
+RM
+
+iou: 0.6218345526167698    txt: 91
+30.00
+30.0
+
+iou: 0.9093164899616513    txt: 100
+6.00% GST
+6.00% GST
+
+!-Error: A
+
+iou: 0.8224489795918367    txt: 100
+RM
+RM
+
+iou: 0.8858603066439523    txt: 100
+1.70
+1.70
+
+iou: 0.8422791081750619    txt: 100
+TOTAL GROSS
+Total Gross
+
+!-Error: A
+
+iou: 0.7940886699507389    txt: 100
+RM
+RM
+
+iou: 0.8325123152709359    txt: 100
+30.00
+30.00
+
+iou: 0.8855887689809951    txt: 100
+SHELL LOYALTY CARD
+Shell Loyalty Card
+
+iou: 0.8474967061923584    txt: 100
+6018840117325593
+6018840117325593
+
+!-Error: POINTS WILL BE AWARDED FOR ANY ELIGIBLE
+
+iou: 0.8806498646115393    txt: 100
+PURCHASES.
+purchases.
+
+iou: 0.851797385620915    txt: 100
+PAY YOUR FUEL WITH POINTS!
+Pay your fuel with points!
+
+iou: 0.8428720083246618    txt: 100
+CASHIER:
+Cashier:
+
+iou: 0.8601553829078802    txt: 96
+JAMALUDDIN
+Jamal uddin
+
+iou: 0.9507252636504337    txt: 100
+THIS IS NOT THE FINAL FISCAL RECEIPT
+This is not the final fiscal receipt
+
+iou: 0.8850446428571429    txt: 100
+DATE
+Date
+
+iou: 0.8578125    txt: 100
+TIME
+Time
+
+iou: 0.42549019607843136    txt: 86
+NUM
+um
+
+iou: 1.0    txt: 100
+POS CNO SHIFT
+POS CNo Shift
+
+iou: 0.5399568034557235    txt: 69
+23/03/2017
+23/03/17 14:08
+
+!-Error: 14:08
+
+!-Error: 17542
+
+!-Error: 01
+
+iou: 0.4633147113594041    txt: 61
+DIESEL & PETROL RON95 GLVEN RELIEF
+1 RONSS given relief
+
+iou: 0.526656314699793    txt: 76
+UNDER SECTION 56(3)(B) GST ACT 2014
+56(3)(b) GST Act 2014
+
+iou: 0.9515848892748588    txt: 100
+THANK YOU AND PLEASE COME AGAIN
+Thank You and Please Come Again
+
+!-Error: RM
+
+!-Error: / LITRE
+
+!-Error: 8994
+
+!-Error: 160
+
+Average IOU:  X51005587261.jpg   51.54473988856405
+Text Matching % :  X51005587261.jpg   91.94285714285714

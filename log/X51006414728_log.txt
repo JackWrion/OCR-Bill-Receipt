@@ -1,0 +1,130 @@
+!-Error: KEK SPAN
+
+!-Error: OREE
+
+!-Error: FOODELICO SDN. BHD. (1268140-H)
+
+iou: 0.6839378238341969    txt: 92
+LOT LG10, AEON TAMAN UNIVERSITI
+G10, AEON Taman Universiti
+
+iou: 0.5675451368666279    txt: 73
+SHOPPING CENTER, NO. 4,
+snapping Center,
+
+iou: 0.6472712033783566    txt: 85
+JALAN PENDIDIKAN, TAMAN UNIVERSITI
+Jalan Pendidikan, Taman U
+
+iou: 0.844574780058651    txt: 100
+81300 SKUDAI, JOHOR
+81300 Skudai, Johor
+
+iou: 0.7868181153414907    txt: 67
+<< ** TAX INVOICE ** >>
+(C8 TAK INVOICE # >)
+
+iou: 0.7984661683331715    txt: 89
+TAX INVOICE NO: C4004290047
+Tax utvoice no: 04004290047
+
+iou: 0.6887477313974592    txt: 100
+STATION: C40
+station: C40
+
+iou: 0.5251471104009976    txt: 67
+DATE: 29-APR-2018 04:19 PM
+Nate: 29-Anr-2018 04:19 PM Cashier: Ng Wei Cong
+
+!-Error: CASHIER: NG WEI CONG
+
+iou: 0.7771435819381025    txt: 86
+CUSTOMER NO:1047
+Customer Ho: 104?
+
+iou: 0.7912322908313285    txt: 100
+KEK SPAN KLASIK
+Kek Span klasik
+
+iou: 0.5379188712522046    txt: 91
+13.00
+3.00
+
+iou: 0.6298498122653317    txt: 100
+13.00
+13.00
+
+!-Error: SUB TOTAL:
+
+iou: 0.8265582655826558    txt: 100
+13.00
+13.00
+
+!-Error: GST:
+
+!-Error: 0.00
+
+iou: 0.566259128579634    txt: 100
+GRAND TOTAL:
+Grand Total:
+
+iou: 0.7176181706568447    txt: 83
+13.00
+13.60
+
+iou: 0.9258028792912514    txt: 100
+PAYMENT TYPE
+Payment Type
+
+!-Error: AMOUNT
+
+!-Error: TIPS
+
+iou: 0.9001333530893466    txt: 100
+CHANGES
+Changes
+
+!-Error: CASH
+
+iou: 0.5986975072984505    txt: 91
+13.00
+13.0
+
+iou: 0.775    txt: 80
+0.00
+6.00
+
+!-Error: 0.00
+
+!-Error: GST SUMMARY
+
+!-Error: AMOUNT (RM)
+
+iou: 0.4085759422252313    txt: 43
+GST (RM)
+T OF
+
+!-Error: SR=6%
+
+!-Error: 0.00
+
+!-Error: 0.00
+
+!-Error: ZR=0%
+
+iou: 0.7299965059399022    txt: 100
+0.00
+0.00
+
+!-Error: 0.00
+
+iou: 0.7431910436035092    txt: 100
+THANK YOU
+Thank You
+
+iou: 0.7872197023516768    txt: 100
+PLEASE COME AGAIN
+Please Come Again
+
+Average IOU:  X51006414728.jpg   39.65293932808883
+Text Matching % :  X51006414728.jpg   89.0

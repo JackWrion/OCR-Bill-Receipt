@@ -1,0 +1,160 @@
+iou: 0.9397927099103296    txt: 100
+RESTORAN WAN SHENG
+RESTORAN WAN SHENG
+
+iou: 0.8182284541723667    txt: 100
+002043319-W
+002043319-W
+
+iou: 0.8959733869291011    txt: 98
+NO.2, JALAN TEMENGGUNG 19/9,
+No.2, Jalan Temenggung 19/9
+
+iou: 0.9092126080077887    txt: 99
+SEKSYEN 9, BANDAR MAHKOTA CHERAS,
+Seksyen 9, Bandar Mahkota Cheras
+
+iou: 0.8417794651700231    txt: 100
+43200 CHERAS, SELANGOR
+43200 Cheras, Selangor
+
+iou: 0.8908528501988511    txt: 100
+GST REG NO: 001335787520
+GST REG NO: 001335787520
+
+iou: 0.8511363636363637    txt: 100
+TAX INVOICE
+Tax Invoice
+
+!-Error: INV NO.: 1136284
+
+iou: 0.5873872280205201    txt: 80
+CASHIER: NICOLE
+1136284 Cashier: Nicole
+
+iou: 0.7375    txt: 100
+DATE
+Date
+
+iou: 0.5892027171969968    txt: 36
+: 11-05-2018 17:12:34
+AN OG 2018" qtstes a4
+
+iou: 0.4218389034344679    txt: 100
+DESCRIPTION
+Description
+
+iou: 0.5382978723404256    txt: 86
+QTY
+ty
+
+!-Error: U.PRICE
+
+!-Error: TOTAL
+
+!-Error: TAX
+
+iou: 0.8768154922001076    txt: 100
+BUNGA KEKWA
+Bunga Kekwa
+
+!-Error: 1 X
+
+iou: 0.9655172413793104    txt: 100
+1.70
+1.70
+
+iou: 0.4428412874583796    txt: 77
+1.70
+1.70 SR
+
+!-Error: SR
+
+iou: 0.837917900973339    txt: 100
+TAKE AWAY
+Take Away
+
+iou: 0.6583278472679395    txt: 86
+1 X
+1x
+
+!-Error: 0.20
+
+!-Error: 0.20
+
+!-Error: SR
+
+iou: 0.8270944741532977    txt: 100
+TOTAL QTY: 2
+Total QTY: 2
+
+iou: 0.840384457405734    txt: 93
+TOTAL (EXCLUDING GST):
+Tota! (Excluding GST)
+
+iou: 0.8291909042834479    txt: 100
+1.79
+1.79
+
+iou: 0.8431350750416898    txt: 97
+GST PAYABLE (6%):
+GST payable (6%)
+
+iou: 0.7875    txt: 100
+0.11
+0.11
+
+iou: 0.8678380443086325    txt: 98
+TOTAL (INCLUSIVE OF GST):
+Total (Inclusive of GST)
+
+iou: 0.735051045211473    txt: 100
+1.90
+1.90
+
+iou: 0.5282350489685351    txt: 93
+TOTAL :
+TOTAL:
+
+iou: 0.4532999604795152    txt: 91
+1.90
+1. 90
+
+iou: 0.5470737913486005    txt: 100
+CASH :
+CASH :
+
+iou: 0.8176229508196722    txt: 100
+1.90
+1.90
+
+iou: 0.4308093994778068    txt: 59
+GST SUMMARY
+ast Shniary:..
+
+iou: 0.53085600530856    txt: 88
+AMOUNT(RM)
+~ Amount (RM)
+
+iou: 0.8391852050388636    txt: 100
+TAX(RM)
+Tax(RM)
+
+iou: 0.8484848484848485    txt: 100
+SR
+SR
+
+iou: 0.8156849768365321    txt: 100
+(@ 6%)
+(@ 6%)
+
+iou: 0.8439978847170809    txt: 100
+1.79
+1.79
+
+iou: 0.8199404761904762    txt: 100
+0.11
+0.11
+
+Average IOU:  X51008042781.jpg   59.10910653720699
+Text Matching % :  X51008042781.jpg   93.74285714285715

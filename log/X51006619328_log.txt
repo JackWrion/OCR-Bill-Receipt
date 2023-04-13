@@ -1,0 +1,96 @@
+!-Error: YIN MA (M) SDN.BHD.(974306-T)
+
+!-Error: NO.2, JALAN UDANG SIAR 2,
+
+!-Error: TAMAN SRI SEGAMBUT,
+
+!-Error: 52000 KUALA LUMPUR.
+
+!-Error: GST REG NO.:000119906304
+
+!-Error: INVOICE NO
+
+!-Error: DATE
+
+!-Error: : 31 JAN 2016 12:28PM
+
+!-Error: COUNTER
+
+!-Error: : 401
+
+!-Error: 280187420000
+
+!-Error: 4.90 X 1
+
+!-Error: 280187430000
+
+!-Error: 5.90 X 1
+
+!-Error: NO OF ITEMS: 2
+
+!-Error: TOTAL INCL. GST:RM
+
+!-Error: 5.40
+
+!-Error: CASH:RM
+
+!-Error: 5.40
+
+!-Error: CHANGE:RM
+
+!-Error: 0.00
+
+!-Error: SAVINGS:RM
+
+!-Error: 5.40
+
+!-Error: SERVED BY YINMA SEGAMBUT
+
+!-Error: GST SUMMARY
+
+!-Error: GST CODE
+
+!-Error: AMOUNT(RM)
+
+!-Error: S @6.0%
+
+!-Error: 5.09
+
+!-Error: REF NO: 00500055874044936
+
+!-Error: EXCHANGE ARE ALLOWED WITHIN
+
+!-Error: 3 DAY WITH RECEIPT.
+
+!-Error: STRICTLY NO CASH REFUND.
+
+!-Error: THANK YOU.
+
+!-Error: WELCOME AGAIN.
+
+!-Error: 2.45 S
+
+!-Error: 2.95 S
+
+!-Error: 0.31
+
+!-Error: : 44936
+
+!-Error: 30CM-(FOOK)CNY
+
+!-Error: (DISC: 50.00%)
+
+!-Error: 40CM-(FOOK)CNY
+
+!-Error: (DISC: 50.00%)
+
+!-Error: 2.45 S
+
+!-Error: 2.95 S
+
+!-Error: TAX(RM)
+
+!-Error: 0.31
+
+Average IOU:  X51006619328.jpg   0.0
+Text Matching % :  X51006619328.jpg   0

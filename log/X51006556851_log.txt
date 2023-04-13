@@ -1,0 +1,336 @@
+iou: 0.4340987731991192    txt: 92
+GARDENIA BAKERIES (KL) SDN BHD (139386 X)
+GARDENIA BAKE RIES (RLASDN BHD (139386 xX)
+
+iou: 0.7726269315673289    txt: 92
+LOT 3, JALAN PELABUR 23/1,
+Lot 3, Jalan Petabur 23/
+
+iou: 0.49712753734201454    txt: 87
+40300 SHAH ALAM, SELANGOR.
+40300 Shai Alam, Selan >.
+
+iou: 0.5361961410126215    txt: 70
+TEL: 03- 55423228
+Vel: 03 55423228 Fax:03- 5:
+
+iou: 0.8226446280991736    txt: 81
+GST ID: 000381399040
+GST iD. 600581599040
+
+iou: 0.8623554913294798    txt: 93
+TAX INVOICE / ADJUSTMENT NOTE
+TAK INVOICE / ADJUSTHENT NOTE
+
+iou: 0.8827160493827161    txt: 96
+CASH INV NO.: 7912F710
+Cash Inv No.: 79i2F710
+
+iou: 0.7196969696969697    txt: 57
+VE0514
+Vhs 14
+
+iou: 0.4343343792021515    txt: 79
+DATE: 12/09/2017
+12/09/2017
+
+iou: 0.9229186451408674    txt: 93
+MAKASSAR FRESH MARKET SDN BHD
+NAKASSAR FRESH MARKET SON BHD
+
+iou: 0.46163793103448275    txt: 81
+GROUND FLOOR, NO. 4 & 6,
+GROUND FLOOR, NO
+
+iou: 0.6446629213483146    txt: 90
+JALAN SS 15/4B,
+JALAN SS 15/48
+
+iou: 0.7660479505027069    txt: 87
+47500 SUBANG JAYA, SELANGOR
+Od SUBANG JAYA, SELANGOR
+
+iou: 0.7727589572006134    txt: 91
+VE05: RIDZUAN (11900)
+VEOS: Ridzuan (11900)
+
+iou: 0.6359215160154285    txt: 97
+DD: 12/09/2017
+_DD: 12/09/2017
+
+iou: 0.504973221117062    txt: 88
+DESCRIPTION
+Oescr iption
+
+!-Error: U.P
+
+!-Error: ISS
+
+!-Error: EXC
+
+!-Error: D
+
+!-Error: SALE
+
+!-Error: AMT(RM)
+
+!-Error: O.C. WHITE
+
+iou: 0.6666666666666666    txt: 80
+2.13
+2.23
+
+iou: 0.5333333333333333    txt: 50
+8
+é
+
+!-Error: 3
+
+!-Error: 0
+
+!-Error: 5
+
+iou: 0.7081967213114754    txt: 36
+10.65
+i 6S
+
+iou: 0.8961593172119487    txt: 95
+WHOLEMEAL
+WHOL EMEAL
+
+!-Error: 2.78
+
+iou: 0.45454545454545453    txt: 100
+3
+3
+
+iou: 0.425    txt: 100
+1
+1
+
+iou: 0.6    txt: 50
+0
+6
+
+!-Error: 2
+
+iou: 0.7316849816849816    txt: 80
+5.56
+$.56
+
+iou: 0.7467159277504105    txt: 90
+O.C JUMBO
+0.C JUMBO
+
+!-Error: 2.97
+
+iou: 0.5625    txt: 100
+4
+4
+
+!-Error: 0
+
+!-Error: 0
+
+!-Error: 4
+
+iou: 0.6619828259172521    txt: 100
+11.88
+11.88
+
+iou: 0.8869659275283938    txt: 86
+TOTAL 0% SUPPLIES:
+Total @& supplies
+
+iou: 0.8009049773755657    txt: 100
+28.09
+28.09
+
+iou: 0.620331151328456    txt: 81
+DELICIA-R/BERRY
+DELICIA~R/BERRY 3.72
+
+!-Error: 3.72
+
+!-Error: 2
+
+iou: 0.6842105263157895    txt: 50
+0
+9
+
+iou: 0.48297213622291024    txt: 50
+0
+©
+
+!-Error: 2
+
+!-Error: 7.44
+
+iou: 0.7465608465608465    txt: 100
+CR-CORN
+CR-CORN
+
+iou: 0.5490196078431373    txt: 89
+0.72
+0.7
+
+iou: 0.5925925925925926    txt: 100
+20
+20
+
+iou: 0.65    txt: 40
+0
+C)
+
+iou: 0.6770833333333334    txt: 33
+0
+ca)
+
+!-Error: 20
+
+!-Error: 14.40
+
+iou: 0.7075138678769541    txt: 81
+WF-F . EGG. V
+WE-F EGG. Vv
+
+iou: 0.7073684210526315    txt: 100
+1.03
+1.03
+
+iou: 0.5866666666666667    txt: 100
+8
+8
+
+iou: 0.611764705882353    txt: 50
+0
+®
+
+iou: 0.555921052631579    txt: 100
+0
+0
+
+!-Error: 8
+
+!-Error: 8.24
+
+iou: 0.7291055718475073    txt: 100
+KAYA-PANDN
+KAYA-PANDN
+
+iou: 0.6594982078853047    txt: 80
+2.40
+2.48
+
+iou: 0.691358024691358    txt: 100
+4
+4
+
+!-Error: 0
+
+iou: 0.48872180451127817    txt: 50
+0
+a
+
+!-Error: 4
+
+!-Error: 9.60
+
+iou: 0.6974053295932678    txt: 100
+HAZEL CHOC
+HAZEL CHOC
+
+iou: 0.7132867132867133    txt: 80
+6.90
+6.98
+
+!-Error: 2
+
+!-Error: 0
+
+iou: 0.5490196078431373    txt: 100
+0
+0
+
+!-Error: 2
+
+!-Error: 13.80
+
+iou: 0.5973876904809025    txt: 92
+TOTAL 6% SUPPLIES (EXCL. GST):
+Total 6% supplies (excl. Gn
+
+iou: 0.8529411764705882    txt: 83
+53.48
+93.48
+
+iou: 0.7352454495311638    txt: 100
+GST:
+GST:
+
+!-Error: 3.21
+
+iou: 0.8992499364352912    txt: 92
+TOTAL 6% SUPPLIES (INC. GST):
+Total @& supplies (Inc. GST)
+
+iou: 0.8068376068376069    txt: 100
+56.69
+56.69
+
+iou: 0.9080841638981174    txt: 92
+TOTAL 0% SUPPLIES:
+Total @% supplies
+
+iou: 0.8416289592760181    txt: 100
+28.09
+28.09
+
+iou: 0.5579710144927537    txt: 59
+E.&.0.E.
+€.8.0.£
+
+iou: 0.8992090395480226    txt: 99
+RECEIVED ABOVE GOODS IN GOOD ORDER CONDITION.
+Received above goods in good order condition
+
+iou: 0.8630406852248395    txt: 98
+THE RECIPIENT OF GARDENIA'S PRODUCTS IS
+The recipient of Gardenia’s products is
+
+iou: 0.9030105524518932    txt: 100
+REQUIRED TO MAKE NECESSARY ADJUSTMENTS TO ITS
+required to make necessary adjustments to its
+
+iou: 0.8441850941850941    txt: 100
+INPUT TAX CLAIMS, ON THE BASIC OF THE
+input tax claims, on the basic of the
+
+iou: 0.7575115562403698    txt: 97
+ADJUSTMENTS SHOWN IN THIS TAX INVOICE /
+adjustments shown in this Tax Invoice
+
+iou: 0.6788438378161381    txt: 91
+ADJUSTMENT NOTE
+Adjus tient Note
+
+iou: 0.8398840206185567    txt: 100
+CUSTOMER'S COPY
+CUSTOMER'S COPY
+
+iou: 0.7973977695167286    txt: 97
+TOTAL PAYABLE:
+Total Payable
+
+iou: 0.6421428571428571    txt: 100
+84.78
+84.78
+
+!-Error: FAX:03- 55423213
+
+iou: 0.5085858585858586    txt: 100
+11:58
+11:58
+
+Average IOU:  X51006556851.jpg   45.97893161323514
+Text Matching % :  X51006556851.jpg   85.44776119402985

@@ -1,0 +1,186 @@
+iou: 0.8018605942793668    txt: 95
+GARDENIA BAKERIES (KL) SDN BHD (139386 X)
+GARDENIA BAKERLES (KL) SDN BED (139386 X)
+
+iou: 0.5384720513871806    txt: 85
+LOT 3, JALAN PELABUR 23/1,
+Jalan Pelabur 23/1,
+
+iou: 0.41542662116040957    txt: 65
+40300 SHAH ALAM, SELANGOR
+40.500 Shat Alan
+
+!-Error: TEL: 03- 55423228
+
+iou: 0.6936376210235131    txt: 95
+GST ID: 000381399040
+GST ED: 000381399040
+
+!-Error: TAX INVOICE / ADJUSTMENT NOTE
+
+!-Error: CASH INV NO.: 7906F716
+
+iou: 0.6383322559793148    txt: 43
+VE0514
+Vis i4
+
+!-Error: DATE: 06/09/2017
+
+iou: 0.4497812201378062    txt: 79
+MAKASSAR FRESH MARKET SDN BHD
+AR FRESH HARKET SN Bh)
+
+!-Error: GROUND FLOOR, NO. 4 & 6,
+
+!-Error: JALAN SS 15/4B,
+
+!-Error: 47500 SUBANG JAYA, SELANGOR
+
+!-Error: VE05: RIDZUAN (11900)
+
+iou: 0.6402439024390244    txt: 93
+DD: 06/09/2017
+DD: 06/09/20
+
+!-Error: DESCRIPTION
+
+!-Error: U.P
+
+!-Error: ISS
+
+!-Error: EXC
+
+!-Error: D
+
+!-Error: SALE
+
+!-Error: AMT(RM)
+
+!-Error: O.C. WHITE
+
+!-Error: 2.13
+
+!-Error: 5
+
+!-Error: 0
+
+!-Error: 0
+
+!-Error: 5
+
+!-Error: 10.65
+
+iou: 0.44648318042813456    txt: 84
+WHOLEMEAL
+WHOL EME
+
+!-Error: 2.78
+
+!-Error: 5
+
+!-Error: 0
+
+!-Error: 0
+
+!-Error: 5
+
+!-Error: 13.90
+
+!-Error: O.C JUMBO
+
+!-Error: 2.97
+
+!-Error: 3
+
+!-Error: 0
+
+!-Error: 0
+
+!-Error: 3
+
+!-Error: 8.91
+
+!-Error: TOTAL 0% SUPPLIES:
+
+!-Error: 33.46
+
+!-Error: CR-CHOCLT
+
+!-Error: 0.72
+
+!-Error: 20
+
+!-Error: 0
+
+!-Error: 0
+
+!-Error: 20
+
+!-Error: 14.40
+
+!-Error: TWIG-CHOC
+
+!-Error: 1.33
+
+!-Error: 10
+
+!-Error: 0
+
+!-Error: 0
+
+!-Error: 10
+
+!-Error: 13.30
+
+!-Error: TOTAL 6% SUPPLIES (EXCL. GST):
+
+!-Error: 27.70
+
+!-Error: GST:
+
+!-Error: 1.66
+
+!-Error: TOTAL 6% SUPPLIES (INC. GST):
+
+!-Error: 29.36
+
+iou: 0.44537037037037036    txt: 69
+TOTAL 0% SUPPLIES:
+% supplie
+
+!-Error: 33.46
+
+!-Error: TOTAL PAYABLE:
+
+iou: 0.497737556561086    txt: 73
+62.82
+02.8
+
+!-Error: E.&.0.E.
+
+!-Error: RECEIVED ABOVE GOODS IN GOOD ORDER CONDITION.
+
+!-Error: THE RECIPIENT OF GARDENIA'S PRODUCTS IS
+
+!-Error: REQUIRED TO MAKE NECESSARY ADJUSTMENTS TO ITS
+
+!-Error: INPUT TAX CLAIMS, ON THE BASIC OF THE
+
+!-Error: ADJUSTMENTS SHOWN IN THIS TAX INVOICE /
+
+!-Error: ADJUSTMENT NOTE
+
+iou: 0.7313807531380753    txt: 100
+CUSTOMER'S COPY
+CUSTOMER'S COPY
+
+!-Error: RE- PRIN
+
+!-Error: FAX:03- 55423213
+
+iou: 0.5877061469265368    txt: 20
+11:00
+Lis
+
+Average IOU:  X51006556865.jpg   8.608040342288522
+Text Matching % :  X51006556865.jpg   75.08333333333333

@@ -1,0 +1,78 @@
+!-Error: YIN MA (M) SDN.BHD.(974306-T)
+
+!-Error: NO.2, JALAN UDANG SIAR 2,
+
+!-Error: TAMAN SRI SEGAMBUT,
+
+!-Error: 52000 KUALA LUMPUR.
+
+!-Error: GST REG NO.:000119906304
+
+!-Error: INVOICE NO
+
+!-Error: DATE
+
+!-Error: COUNTER
+
+!-Error: 9555112913331 STORAGE BOX(SM
+
+!-Error: 9555112913331 STORAGE BOX(SM
+
+!-Error: 9555112913331 STORAGE BOX(SM
+
+!-Error: NO OF ITEMS: 3
+
+!-Error: TOTAL INCL. GST:RM
+
+!-Error: CASH:RM
+
+!-Error: CHANGE:RM
+
+!-Error: SERVED BY YINMA SEGAMBUT
+
+!-Error: 10.90 S
+
+!-Error: 10.90 S
+
+!-Error: 10.90 S
+
+!-Error: 32.70
+
+!-Error: 50.00
+
+!-Error: 17.30
+
+!-Error: GST SUMMARY
+
+!-Error: GST CODE
+
+!-Error: S @6.0%
+
+!-Error: AMOUNT(RM)
+
+!-Error: 30.84
+
+!-Error: TAX(RM)
+
+!-Error: 1.86
+
+!-Error: REF NO: 00500055998044795
+
+!-Error: EXCHANGE ARE ALLOWED WITHIN
+
+!-Error: 3 DAY WITH RECEIPT.
+
+!-Error: STRICTLY NO CASH REFUND.
+
+!-Error: THANK YOU.
+
+!-Error: WELCOME AGAIN.
+
+!-Error: : 44795
+
+!-Error: : 3 JUN 2016 12:26PM
+
+!-Error: : 401
+
+Average IOU:  X51006619842.jpg   0.0
+Text Matching % :  X51006619842.jpg   0

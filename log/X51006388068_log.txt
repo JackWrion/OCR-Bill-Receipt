@@ -1,0 +1,120 @@
+!-Error: SEGI CASH & CARRY SDN. BHD.
+
+!-Error: PT17920 SEK U9, SHAH ALAM
+
+!-Error: GST REG NO : 001951645696
+
+!-Error: 05/SD400827/36805
+
+!-Error: 11/05/17 10:13AM
+
+!-Error: SALAD BULAT
+
+!-Error: 0.38 X 6.00
+
+!-Error: SALAD BULAT
+
+!-Error: 0.385 X 6.00
+
+!-Error: SIEW PAK CHOY - PKT
+
+!-Error: 1 X 2.00
+
+!-Error: NESTUM ALL FAMILY CEREAL ORI S/P - 250G
+
+!-Error: 1 X 4.19
+
+!-Error: DAUN BAWANG
+
+!-Error: 0.11 X 10.91
+
+!-Error: DAUN KETUMBAR THAI
+
+!-Error: 0.115 X 18.96
+
+!-Error: ALISHAN FRUIT COCKTAIL 836G
+
+!-Error: 2 X 5.95
+
+!-Error: MIGHTY MARK BLEACH 10L
+
+!-Error: 3 X 11.50
+
+!-Error: MIGHTY MARK DISHWASH
+
+!-Error: 2 X 11.50
+
+!-Error: NO OF ITEMS: 13
+
+!-Error: 2.28 Z
+
+!-Error: 2.31 Z
+
+!-Error: 2.00 Z
+
+!-Error: 4.19 S
+
+!-Error: 1.20 Z
+
+!-Error: 2.18 Z
+
+!-Error: 11.90 S
+
+!-Error: 34.50 S
+
+!-Error: 23.00 S
+
+!-Error: POSTED
+
+!-Error: 11L
+
+!-Error: Z @0.0%
+
+!-Error: S @6.0%
+
+!-Error: GOODS SOLD ARE NOT RETURNABLE.TQ
+
+!-Error: REF NO: 00600696340036805
+
+!-Error: 4.17
+
+!-Error: 0.00
+
+!-Error: 69.42
+
+!-Error: SUBTOTAL INCL. GST:RM
+
+!-Error: ROUNDING:RM
+
+!-Error: TOTAL INCL. GST:RM
+
+!-Error: MASTER XXXXXXXXXXXX9113:
+
+!-Error: CHANGE:RM
+
+!-Error: 83.56
+
+!-Error: -0.01
+
+!-Error: 83.55
+
+!-Error: 83.55
+
+!-Error: 0.00
+
+!-Error: MISSED POINT TODAY: 79
+
+!-Error: SERVED BY ROHANA BINTI MD DALI
+
+!-Error: GST SUMMARY
+
+!-Error: GST CODE
+
+!-Error: AMOUNT(RM)
+
+!-Error: TAX(RM)
+
+!-Error: 9.97
+
+Average IOU:  X51006388068.jpg   0.0
+Text Matching % :  X51006388068.jpg   0

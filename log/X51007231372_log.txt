@@ -1,0 +1,208 @@
+iou: 0.8273021476904973    txt: 100
+GLOBAL FOOD EMPIRE SDN BHD
+Global Food Empire Sdn Bhd
+
+iou: 0.8497703991522431    txt: 95
+LEMON TREE RESTAURANT
+(emon Tree Restaurant
+
+iou: 0.9019615253788881    txt: 100
+NO. 27, JALAN AUSTIN HEIGHT 8/4,
+No. 27, Jalan Austin Height 8/4,
+
+iou: 0.9291047104086514    txt: 100
+TAMAN MOUNT AUSTIN,
+Taman Mount Austin,
+
+iou: 0.8947549515064193    txt: 100
+81100 JOHOR BAHRU.
+81100 Johor Bahru.
+
+iou: 0.8183920080268726    txt: 100
+TEL: 07-361 5965
+Tel: 07-361 5965
+
+iou: 0.7881818739645333    txt: 100
+GST NO : 001750249472
+GST NO : 001750249472
+
+iou: 0.8323646723646724    txt: 100
+CURRENT TAX INVOICE
+Current Tax Invoice
+
+iou: 0.7668314716474394    txt: 90
+INVOICE . NO :
+Invoice .WNo:
+
+iou: 0.7461240310077519    txt: 96
+DATE: 2018-05-01 19:34:09
+Date: 2018-05-11 19:34:09
+
+iou: 0.8177492002355525    txt: 100
+TRANSACTION BY: IZZAH
+Transaction by: Izzah
+
+iou: 0.6634480846075305    txt: 88
+TABLE:
+Table: 5
+
+iou: 0.7492168465019143    txt: 100
+PAX: 3
+Pax: 3
+
+iou: 0.9097744360902256    txt: 100
+NO DESCRIPTION
+No Description
+
+iou: 0.9439020878329734    txt: 100
+AMT (RM) CODE
+Amt (RM) Code
+
+!-Error: 1
+
+!-Error: 1
+
+!-Error: 1
+
+iou: 0.8903109607171609    txt: 100
+602 GREEN APPLE JUICE (S)
+602 Green Apple Juice (S)
+
+iou: 0.8076698766731626    txt: 100
+106 HAM & CHEESE GRILLED
+106 Ham & Cheese Grilled
+
+iou: 0.7813865147198481    txt: 100
+CHICKEN
+Chicken
+
+iou: 0.934961435192311    txt: 96
+*F. MACARONI BOLOGNESE
+*F, Macaroni Bolognese
+
+iou: 0.8577981651376146    txt: 85
+*G. COLESLAW
+#G, Coleslaw
+
+iou: 0.8808574718752769    txt: 100
+205 MEE MAMAK
+205 Mee Mamak
+
+iou: 0.9096163846553862    txt: 100
+*ICE LEMON TEA (S)
+*Ice Lemon Tea (S)
+
+iou: 0.7221090168110036    txt: 80
+6.80
+6,80
+
+iou: 0.8695009563554165    txt: 100
+SUBTOTAL (3)
+Subtotal (3)
+
+iou: 0.7572546230440967    txt: 100
+36.20
+36.20
+
+iou: 0.8304498269896193    txt: 100
+GST (6%)
+GST (6%)
+
+iou: 0.8273430614043679    txt: 100
+2.17
+2.17
+
+iou: 0.9171905873899766    txt: 100
+ROUNDING
+Rounding
+
+iou: 0.8251569402464544    txt: 100
+-0.02
+-0.02
+
+iou: 0.8780052880772306    txt: 100
+TOTAL
+Total
+
+iou: 0.8890209819380136    txt: 100
+38.35
+38.35
+
+iou: 0.8092592592592592    txt: 100
+GST SUMMARY
+GST Summary
+
+iou: 0.8350684931506849    txt: 100
+SR @ GST 6%
+SR @ GST 6%
+
+iou: 0.7905357564314374    txt: 100
+AMOUNT
+Amount
+
+iou: 0.7896334690855239    txt: 100
+36.20
+36.20
+
+iou: 0.9425536884626482    txt: 97
+THANK YOU FOR DINING WITH US
+Thank You Far Dining With Us
+
+iou: 0.8812210868791622    txt: 96
+POWERED BY SOFTWARELAB S/B,
+Powered by SoftwareLab S/B.
+
+iou: 0.8271379184861718    txt: 100
+CALL LEE HB 0127044193 FOR MODE DETAIL.
+Call Lee HB 0127044193 for mode detail.
+
+iou: 0.8997854734906527    txt: 100
+POWERED BY GENIUS POS
+Powered by Genius POS
+
+iou: 0.9159233722329393    txt: 93
+WWW.GENIUSPOS.COM.MY
+WHW.geniuspos .com.my
+
+iou: 0.7979862047094268    txt: 100
+16.80
+16.80
+
+iou: 0.7274579724910851    txt: 60
+9.80
+9,30
+
+iou: 0.7681365576102418    txt: 100
+2.80
+2.80
+
+!-Error: SR
+
+iou: 0.6548935467898993    txt: 67
+SR
+OR
+
+iou: 0.6491756499682942    txt: 67
+SR
+OR
+
+iou: 0.7019281797275783    txt: 67
+SR
+OR
+
+iou: 0.7252215954875101    txt: 100
+TAX
+Tax
+
+iou: 0.8514554366309893    txt: 80
+2.17
+2.11
+
+iou: 0.8841642228739003    txt: 90
+POS015026
+POSO15026
+
+!-Error: 5
+
+Average IOU:  X51007231372.jpg   74.94268226187133
+Text Matching % :  X51007231372.jpg   94.83673469387755

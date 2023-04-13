@@ -1,0 +1,102 @@
+!-Error: KOH SENG HARDWARE
+
+!-Error: 1502665-P
+
+!-Error: NO. 939, BATU LIMA,
+
+!-Error: JALAN IPOH,
+
+!-Error: 51200 KUALA LUMPUR.
+
+!-Error: TEL: 03-62504769 FAX: 03-62504769
+
+!-Error: GST NO: 001117650944
+
+!-Error: TAX INVOICE
+
+!-Error: CASH
+
+!-Error: RECEIPT #:
+
+!-Error: CS00044964
+
+!-Error: DATE: 01/02/2018
+
+!-Error: CASHIER : USER
+
+!-Error: ITEM
+
+!-Error: QTY
+
+!-Error: U/P
+
+!-Error: AMOUNT
+
+!-Error: 3674
+
+!-Error: 10
+
+!-Error: 0.53
+
+!-Error: 5.30 S
+
+!-Error: SR:SUGA BAG
+
+!-Error: TOTAL QUANTITY
+
+!-Error: 10
+
+!-Error: DISC
+
+!-Error: 0.00
+
+!-Error: GST
+
+!-Error: 0.30
+
+!-Error: ROUNDING
+
+!-Error: 0.00
+
+!-Error: TOTAL
+
+!-Error: 5.30
+
+!-Error: CASH
+
+!-Error: 20.50
+
+!-Error: CHANGE
+
+!-Error: 15.20
+
+!-Error: GST SUMMARY
+
+!-Error: CODE
+
+!-Error: AMOUNT
+
+!-Error: %
+
+!-Error: TAX/AMT
+
+!-Error: SR
+
+!-Error: 5.00
+
+!-Error: 6
+
+!-Error: 0.30
+
+!-Error: TAX TOTAL:
+
+iou: 0.6236141906873615    txt: 91
+0.30
+0.30,
+
+!-Error: GOODS SOLD ARE NOT RETURNABLE,
+
+!-Error: THANK YOU.
+
+Average IOU:  X51005663309.jpg   1.2726820218109418
+Text Matching % :  X51005663309.jpg   91.0

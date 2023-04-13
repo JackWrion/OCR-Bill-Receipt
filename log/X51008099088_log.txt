@@ -1,0 +1,134 @@
+iou: 0.6901446901446902    txt: 100
+RESTORAN WAN SHENG
+RESTORAN WAN SHENG
+
+iou: 0.7289461573861021    txt: 100
+002043319-W
+002043319-W
+
+iou: 0.9062330623306233    txt: 100
+NO.2, JALAN TEMENGGUNG 19/9,
+No.2, Jalan Temenggung 19/9,
+
+iou: 0.8644939965694682    txt: 100
+SEKSYEN 9, BANDAR MAHKOTA CHERAS,
+Seksyen 9, Bandar Mahkota Cheras,
+
+iou: 0.9079625147396512    txt: 100
+43200 CHERAS, SELANGOR
+43200 Cheras, Selangor
+
+iou: 0.8482720722920991    txt: 100
+GST REG NO: 001335787520
+GST REG NO: 001335787520
+
+iou: 0.8053981106612685    txt: 100
+TAX INVOICE
+Tax Invoice
+
+!-Error: INV NO. : 1213543
+
+iou: 0.5595223880597014    txt: 81
+CASHIER: THANDAR
+1213543 Cashier: Thandar
+
+iou: 0.452239721824504    txt: 100
+DATE
+Date
+
+iou: 0.5985202331252841    txt: 100
+: 27-06-2018 12:15:15
+: 27-06-2018 12:15:15
+
+!-Error: DESCRIPTION
+
+!-Error: QTY
+
+!-Error: U.PRICE
+
+!-Error: TOTAL
+
+!-Error: TAX
+
+iou: 0.7843411394617267    txt: 100
+CHAM (B)
+Cham (B)
+
+!-Error: 1 X
+
+iou: 0.6066364152013614    txt: 100
+2.10
+2.10
+
+iou: 0.4327666151468315    txt: 71
+2.10
+2.10 ZRL
+
+!-Error: ZRL
+
+iou: 0.737603305785124    txt: 100
+TAKE AWAY
+Take Away
+
+iou: 0.652542372881356    txt: 86
+1 X
+1x
+
+iou: 0.47906881764345516    txt: 22
+0.20
+nia
+
+!-Error: 0.20
+
+!-Error: ZRL
+
+iou: 0.4127873563218391    txt: 85
+TOTAL QTY: 2
+Total Ory: 2
+
+iou: 0.8592492474043129    txt: 100
+TOTAL (EXCLUDING GST):
+Total (Excluding GST):
+
+iou: 0.7585196042506412    txt: 100
+2.30
+2.30
+
+iou: 0.7790425012212995    txt: 100
+TOTAL (INCLUSIVE OF GST):
+Total (Inclusive of GST):
+
+iou: 0.8041353383458647    txt: 100
+2.30
+2.30
+
+iou: 0.4654823618662283    txt: 31
+TOTAL :
+weet
+
+iou: 0.45974754558204767    txt: 60
+2.30
+2:80
+
+iou: 0.7544973544973544    txt: 100
+2.30
+2.30
+
+!-Error: AMOUNT(RM)
+
+!-Error: TAX(RM)
+
+iou: 0.533003300330033    txt: 67
+@ 0%)
+t O%)
+
+iou: 0.5783132530120482    txt: 89
+2.30
+2.3
+
+iou: 0.6396531100478469    txt: 100
+0.00
+0.00
+
+Average IOU:  X51008099088.jpg   46.40800663110964
+Text Matching % :  X51008099088.jpg   88.5925925925926

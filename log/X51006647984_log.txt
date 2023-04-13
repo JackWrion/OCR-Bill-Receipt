@@ -1,0 +1,250 @@
+iou: 0.8328647297719463    txt: 100
+31
+31
+
+iou: 0.6902874132804757    txt: 77
+**TAX INVOICE**
+TAX INVOICE ®«
+
+iou: 0.8882720333102012    txt: 100
+KECHARA OASIS
+Kechara Oasis
+
+iou: 0.8309078309078309    txt: 94
+KECHARA VEGETARIAN RESTAURANT S/B
+Kechara Vegetarian Restaurant $/8
+
+iou: 0.8796296296296297    txt: 100
+(835643-A)
+(835643-A)
+
+iou: 0.7688627665390924    txt: 92
+63&67-P1, BLOCK D,
+63867-P1, Block D
+
+iou: 0.8483682983682984    txt: 98
+THE SUITE, JAYA ONE,
+The Suite, Jaya One
+
+iou: 0.8242596926834233    txt: 98
+NO. 72A, JALAN UNIVERSITI,
+No. 72A, Jalan Universiti
+
+iou: 0.8489595695862014    txt: 95
+46200,PETALING JAYA,SELANGOR.
+46200, Petaling Jaya, Selangor
+
+iou: 0.7827324478178368    txt: 97
+TEL:03-79681818
+Tel :03-79681818
+
+iou: 0.5042444821731749    txt: 77
+GST ID : (000619970560)
+(000619970560)
+
+iou: 0.9650935668829942    txt: 83
+* RECEIPT *
+x Receipt x
+
+iou: 0.8948926720947447    txt: 100
+CHECK 21485-00
+Check 21485-00
+
+iou: 0.8346283783783783    txt: 100
+15/05/18 13:06
+15/05/18 13:06
+
+iou: 0.8456632653061225    txt: 100
+TABLE 31
+Table 31
+
+iou: 0.8569198751300728    txt: 100
+2 GUEST(S) TEH GUAT HEE
+2 Guest(s) Teh Guat Hee
+
+iou: 0.5768621236133122    txt: 73
+BUTTER MUSHROOMS (S)
+Butter kobroces (S)
+
+!-Error: 1
+
+!-Error: 16.80 S
+
+iou: 0.970873786407767    txt: 100
+MIX VEGETABLE CURRY (S)
+Mix Vegetable Curry (S)
+
+!-Error: 1
+
+!-Error: 15.80 S
+
+iou: 0.7886622390891841    txt: 100
+BROWN RICE
+Brown Rice
+
+!-Error: 1
+
+!-Error: 3.00 S
+
+iou: 0.9125925925925926    txt: 100
+PLAIN WATER (HOT)
+Plain Water (Hot)
+
+!-Error: 1
+
+!-Error: 1.00 S
+
+iou: 0.7529558182949595    txt: 98
+LONGAN SEA COCONUT (S (BAR))
+Longan Sea Coconut (S$ (Bar))
+
+!-Error: 1
+
+!-Error: 6.80 S
+
+iou: 0.7949346405228758    txt: 100
+SPECIAL DAY SET LUNCH
+Special Day Set Lunch
+
+!-Error: 1
+
+!-Error: 11.90 S
+
+iou: 0.8520074696545284    txt: 100
+BAK KUT TEH
+Bak Kut Teh
+
+!-Error: 1
+
+iou: 0.8419901585565883    txt: 100
+CHINESE TEA (HOT)
+Chinese Tea (Hot)
+
+!-Error: 1
+
+!-Error: -
+
+!-Error: 1
+
+iou: 0.7069672131147541    txt: 100
+SUB-TOTAL
+Sub-total
+
+iou: 0.8380952380952381    txt: 92
+55.30
+55. 30
+
+iou: 0.8841099163679809    txt: 100
+SERVICE CHARGE
+Service Charge
+
+iou: 0.7969924812030075    txt: 80
+5.53
+§.53
+
+iou: 0.5519713261648745    txt: 82
+GST AT 6%
+GST at
+
+iou: 0.8404040404040404    txt: 80
+3.65
+3.66
+
+iou: 0.8544170673076923    txt: 100
+TOTAL
+Total
+
+iou: 0.8839480973902901    txt: 92
+64.50
+64. 50
+
+iou: 0.7169117647058824    txt: 100
+GST TAXABLE AMT
+GST Taxable Amt
+
+iou: 0.8245877061469266    txt: 92
+60.83
+60. 83
+
+iou: 0.9267840593141798    txt: 100
+GST 6%
+GST 6%
+
+iou: 0.7738095238095238    txt: 80
+3.65
+3.66
+
+iou: 0.8876996262317364    txt: 100
+ZERO TAXABLE AMT
+Zero Taxable Amt
+
+iou: 0.8926315789473684    txt: 91
+0.00
+0. 00
+
+iou: 0.8340192043895748    txt: 100
+STN 01
+Stn 01
+
+iou: 0.8551622418879056    txt: 100
+15/05/18 13:07:00
+15/05/18 13:07:00
+
+iou: 0.8711904361003536    txt: 100
+PAYMENT 0000003
+Payment 0000003
+
+iou: 0.7893838538999829    txt: 100
+CHECK 21485-00
+Check 21485-00
+
+iou: 0.8101851851851852    txt: 100
+BILL AMT
+Bill Amt
+
+iou: 0.8627450980392157    txt: 92
+64.50
+64. 50
+
+iou: 0.7874617737003058    txt: 100
+BILL AMT
+Bill Amt
+
+iou: 0.775438596491228    txt: 100
+TIPS
+Tips
+
+iou: 0.8712765957446809    txt: 100
+PAY AMT
+Pay Amt
+
+iou: 0.582010582010582    txt: 80
+CASH
+‘ASH
+
+iou: 0.7756410256410257    txt: 92
+64.50
+64. 50
+
+iou: 0.807909604519774    txt: 91
+0.00
+0. 00
+
+iou: 0.8534939759036144    txt: 93
+100.00
+100. 00
+
+iou: 0.8150793650793651    txt: 100
+CHANGE
+Change
+
+iou: 0.7969348659003831    txt: 93
+-35.50
+-35. 50
+
+iou: 0.8306686046511628    txt: 100
+THANK YOU! PLEASE COME AGAIN!
+Thank You! Please Come Again!
+
+Average IOU:  X51006647984.jpg   62.69342304134295
+Text Matching % :  X51006647984.jpg   94.66666666666667

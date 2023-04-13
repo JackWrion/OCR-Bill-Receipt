@@ -1,0 +1,162 @@
+iou: 0.9083166332665331    txt: 100
+MUN HENG ELECTRICAL &
+MUN HENG ELECTRICAL &
+
+iou: 0.8492582348503898    txt: 100
+HARDWARE SUPPLY
+HARDWARE SUPPLY
+
+iou: 0.839015606242497    txt: 86
+(ROC:001960460-U)
+(ROC: 001950450-U)
+
+iou: 0.5076923076923077    txt: 77
+GST ID NO: 000372871168
+GST ID No: 000
+
+iou: 0.8830791575889615    txt: 78
+NO.52. JALAN BULAN U5/BT.
+No.52, Jalan Gulan USOT,
+
+iou: 0.8456659619450317    txt: 84
+BANDAR PINGGLRAN SUBANG.
+Bandar Bingyiran Subang,
+
+iou: 0.7966339410939691    txt: 90
+SUNGAL BULOH, 40150 SHAH ALAM, SEL.
+Sungai Buloh, 40750 Shahi Alam, Sei.
+
+iou: 0.8099588853357698    txt: 81
+TEL:018-2238377/016-3662880
+Tel:049-2238377101 6-3692080
+
+iou: 0.832549778761062    txt: 88
+FAX:03-78455834
+Fay:03-78458334
+
+iou: 0.9179947841205448    txt: 100
+TAX INVOICE
+Tax Invoice
+
+iou: 0.6222449277477741    txt: 80
+NO. : CS-51762
+No. :CS-5
+
+iou: 0.6262228585063231    txt: 88
+DATE : 01/02/2018
+Date : 01/02/
+
+iou: 0.9    txt: 100
+QTY
+Qty
+
+!-Error: RM
+
+iou: 0.42744063324538256    txt: 73
+TAX
+RM Tax
+
+iou: 0.8616432524478501    txt: 77
+Z# VVHITE SPRAY
+24 WHITE SPRAY
+
+!-Error: @7.00
+
+iou: 0.703125    txt: 80
+1.00
+1.04
+
+iou: 0.41354723707664887    txt: 77
+7.00
+7.00 SR
+
+!-Error: SR
+
+!-Error: TOTAL AMT INCL GST @ 6% :
+
+iou: 0.41975308641975306    txt: 50
+7.00
+G0
+
+!-Error: ROUNDING ADJUSTMENT :
+
+!-Error: 0.01
+
+!-Error: TOTAL AMT PAYABLE :
+
+!-Error: 7.00
+
+iou: 0.615593112244898    txt: 67
+PAID AMOUNT :
+Paid Ama.
+
+!-Error: 7.00
+
+iou: 0.4758731617647059    txt: 29
+CHANGE :
+Lise
+
+!-Error: 0.00
+
+iou: 0.841091492776886    txt: 89
+TOTAL QTY TENDER :
+Total Gy Tender:
+
+!-Error: 1
+
+iou: 0.6455951580363147    txt: 68
+GOODS SOLD ARE NOT RETURNABLE
+Goods sad eve noi ret n |
+
+iou: 0.8146110056925996    txt: 100
+GST SUMMARY
+GST Summary
+
+!-Error: SR @ A
+
+!-Error: TOTAL
+
+iou: 0.8534322820037106    txt: 100
+AMOUNT
+Amount
+
+iou: 0.647721454173067    txt: 100
+(RM)
+(RM)
+
+iou: 0.7483962936564504    txt: 80
+6.60
+4.60
+
+iou: 0.6649282920469362    txt: 100
+6.60
+6.60
+
+!-Error: TAX
+
+iou: 0.5713504647348278    txt: 100
+(RM)
+(RM)
+
+iou: 0.6805555555555556    txt: 100
+0.40
+0.40
+
+iou: 0.6503534529635672    txt: 60
+0.40
+a40!
+
+iou: 0.8526708074534162    txt: 90
+THANK YOU
+THANK FOU
+
+iou: 0.8658616187989556    txt: 89
+FOR ANY ENQUIRY, PLEASE E-MAIL US:
+For any enquiry, piense «-mai! us:
+
+iou: 0.9504835589941973    txt: 82
+01/02/2018 16:22:05
+O+02/2016 16:22:05
+
+Average IOU:  X51005745213.jpg   51.1545957388019
+Text Matching % :  X51005745213.jpg   83.72727272727273

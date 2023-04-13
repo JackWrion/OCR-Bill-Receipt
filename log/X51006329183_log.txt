@@ -1,0 +1,272 @@
+!-Error: SEMBOYAN TEGAS SDN BHD
+
+!-Error: NO.5 & 7 , JALAN TSJ 2.
+
+iou: 0.9223918575063613    txt: 94
+TAMAN SUBANG JASA
+Taman Subeng Jasa
+
+!-Error: KG BARU SUBANG. 40150 SHAH ALAM
+
+iou: 0.8845757471659224    txt: 98
+SELANGOR DARUL EHSAN
+Selangor Darul! Ehsan
+
+iou: 0.7952586206896551    txt: 100
+TEL 03-7846 1113
+Tel 03-7846 1113
+
+iou: 0.5762081784386617    txt: 87
+FAX 03-7832 1368
+03-7832 1368
+
+iou: 0.4838082901554404    txt: 60
+HP: 012-396 1688
+Hp: Ole-396 1688 Ule-353 7738
+
+!-Error: 012-353 7738
+
+iou: 0.8889062744484432    txt: 88
+WWW.SEMBOYAN.COM
+www semboyan com
+
+iou: 0.65276740237691    txt: 75
+EMAIL: SEMBOYANTEGAS@GMAIL.COM
+semboyanltegasSgmai} com
+
+!-Error: (GST REG NO 001538965504)
+
+iou: 0.5119453924914675    txt: 80
+TAX INVOICE
+Invoice
+
+iou: 0.866193853427896    txt: 77
+CHECK # 549146
+Check #° SY914B
+
+iou: 0.4673202614379085    txt: 82
+PAX(S): 5
+Pax(s)
+
+iou: 0.5956979806848113    txt: 100
+DATE
+Date
+
+iou: 0.7390066434672572    txt: 90
+: 06-03-2018 07:24:06
+06-03-2018 07:24.06
+
+iou: 0.45494505494505494    txt: 69
+CASHIER: CASHIER 4
+CASHIER 4
+
+iou: 0.8421463414634146    txt: 100
+DESCRIPTION
+Description
+
+iou: 0.7281553398058253    txt: 100
+QTY
+Qty
+
+iou: 0.7540936512496409    txt: 88
+U.PRICE
+U price
+
+iou: 0.7771428571428571    txt: 100
+TOTAL TAX
+Total TAX
+
+iou: 0.8488023952095808    txt: 100
+TAUCU KISAR
+taucu kisar
+
+iou: 0.8409863945578231    txt: 57
+2 X
+ex
+
+iou: 0.8143674507310871    txt: 80
+6.50
+6 50
+
+iou: 0.8380566801619433    txt: 100
+13.00
+13.00
+
+iou: 0.7247899159663865    txt: 100
+SR
+SR
+
+iou: 0.8868065967016492    txt: 100
+TEH WANGI ROS 180G
+Teh wangi ros 180g
+
+iou: 0.764928193499622    txt: 57
+2 X
+ex
+
+iou: 0.8081797235023042    txt: 80
+4.20
+4 20
+
+iou: 0.8004640371229699    txt: 80
+8.40
+8 40
+
+iou: 0.8518024032042724    txt: 100
+ZR
+ZR
+
+iou: 0.8403361344537815    txt: 100
+ASAM JAWA 1KG
+ASAM JAWA 1KG
+
+iou: 0.6256038647342995    txt: 57
+1 X
+Ix
+
+iou: 0.7679255610290093    txt: 100
+4.80
+4.80
+
+!-Error: 4.80
+
+!-Error: ZRL
+
+iou: 0.8923293455313159    txt: 100
+TOTAL (EXCLUDING GST)
+Total (Excluding GST)
+
+iou: 0.8092592592592592    txt: 83
+26.20
+26 20
+
+iou: 0.8120437956204379    txt: 100
+GST PAYABLE:
+GST Payable:
+
+iou: 0.8736979166666666    txt: 100
+0.78
+0.78
+
+iou: 0.9434362934362934    txt: 100
+TOTAL (INCLUSIVE OF GST)
+Total (Inclusive of GST)
+
+iou: 0.8042328042328042    txt: 50
+26.98
+26 4B
+
+iou: 0.7783862135609599    txt: 96
+ROUNDING ADJ:
+Rounding Adj
+
+iou: 0.8472222222222222    txt: 100
+0.02
+0.02
+
+iou: 0.7885714285714286    txt: 92
+TOTAL:
+TOTAL
+
+iou: 0.41306787971879244    txt: 29
+27.00
+c/. OOK
+
+iou: 0.7263157894736842    txt: 100
+CLOSED
+Closed
+
+iou: 0.7854910714285714    txt: 100
+06-03-2018
+06-03-2018
+
+iou: 0.8024116196218142    txt: 84
+07:24:44
+07:24. 44
+
+iou: 0.5490998363338789    txt: 83
+CASH :
+CASH
+
+iou: 0.841053144807411    txt: 100
+52.00
+52.00
+
+iou: 0.635397692774742    txt: 88
+CHANGE :
+CHANGE
+
+iou: 0.7842401500938087    txt: 17
+25.00
+es do
+
+iou: 0.8809141940657578    txt: 100
+GST SUMMARY
+GST Summary
+
+iou: 0.6747540983606557    txt: 75
+AMOUNT(RM)
+Amourit (IM)
+
+iou: 0.4846153846153846    txt: 94
+TAX(RM)
+“Tax(RM)
+
+iou: 0.5227272727272727    txt: 67
+SR
+SA
+
+iou: 0.703125    txt: 100
+(@ 6%)
+(@ 6%)
+
+iou: 0.6231313926042487    txt: 83
+13.00
+13 00
+
+iou: 0.7670858392564243    txt: 60
+0.78
+O 78
+
+iou: 0.7843137254901961    txt: 33
+ZR
+2A
+
+iou: 0.7973333333333333    txt: 100
+(@ %)
+(@ %)
+
+iou: 0.6902339776195321    txt: 36
+8.40
+8B YG
+
+iou: 0.7564469914040115    txt: 100
+0.00
+0.00
+
+iou: 0.7976878612716763    txt: 75
+ZRL
+ZAL
+
+iou: 0.7636363636363637    txt: 100
+(@ 0%)
+(@ 0%)
+
+iou: 0.8431490384615384    txt: 80
+4.80
+4 80
+
+iou: 0.7261904761904762    txt: 100
+0.00
+0.00
+
+iou: 0.7800727614129797    txt: 70
+**** THANK YOU ****
+sees Thank You **+4
+
+iou: 0.8926732209737828    txt: 100
+PLEASE COME AGAIN
+Please Come Again
+
+Average IOU:  X51006329183.jpg   67.50416970781689
+Text Matching % :  X51006329183.jpg   84.28125

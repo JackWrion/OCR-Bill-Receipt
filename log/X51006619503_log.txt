@@ -1,0 +1,211 @@
+!-Error: PLEASE COME AGAIN
+
+iou: 0.8649655963302753    txt: 100
+DUPLICATED RECEIPT
+Duplicated Receipt
+
+iou: 0.8617742410845859    txt: 100
+KEDAI UBAT & RUNCIT HONG
+KEDAI UBAT & RUNCIT HONG
+
+iou: 0.774074074074074    txt: 97
+NING SDN. BHD.
+NING SDN. BHD
+
+!-Error: (717853-P)
+
+iou: 0.849630376344086    txt: 87
+(GST ID NO : 002006163456)
+(GET ID No : 002006143 454)
+
+iou: 0.7699670954232725    txt: 96
+NO.8,JALAN LANG KUNING,
+NO8, JALAN LANG KUNING,
+
+iou: 0.7197261446298674    txt: 96
+KEPONG BARU
+KEPONG BARU,
+
+iou: 0.8361698612029081    txt: 100
+52100 KUALA LUMPUR.
+52100 KUALA LUMPUR.
+
+iou: 0.821480231436837    txt: 78
+TEL: 03-6273 2163
+Tol: 83-4273 2143
+
+iou: 0.8107163657542225    txt: 100
+BILL NO
+Bill No
+
+iou: 0.6901408450704225    txt: 100
+DATE
+Date
+
+iou: 0.8702920443101712    txt: 75
+: 21/12/16 9:29:44 AM
+21A2N4 9:29:44 AM
+
+iou: 0.8    txt: 88
+CASHIER
+Cashior
+
+iou: 0.851494885916601    txt: 100
+PAYMENT
+Payment
+
+iou: 0.7515151515151515    txt: 100
+ITEM
+Item
+
+iou: 0.8040540540540541    txt: 100
+QTY
+Qty
+
+iou: 0.7438322368421053    txt: 100
+PRICE
+Price
+
+iou: 0.8109010011123471    txt: 100
+AMOUNT
+Amount
+
+iou: 0.9195482282410877    txt: 89
+BROWN CANDY 400G @2.50
+BROWN CANDY 400G @7. 56
+
+iou: 0.8056451612903226    txt: 100
+693449770
+693449770
+
+!-Error: 2
+
+iou: 0.6719457013574661    txt: 67
+2.50
+1.0
+
+iou: 0.7926388432467959    txt: 59
+5.00 ZRL.
+3. TRL
+
+!-Error: LUO HAN GUO (B) @1.42
+
+iou: 0.8076923076923077    txt: 50
+ST051
+§TO31
+
+iou: 0.42    txt: 100
+2
+2
+
+!-Error: 1.50
+
+!-Error: 3.00
+
+iou: 0.9249149894311185    txt: 71
+NET AMT @ GST6%
+Yivt Amt @ C&T 6%
+
+iou: 0.7929706307173808    txt: 20
+8.00
+‘3am
+
+iou: 0.8237115682371157    txt: 100
+CASH PAID
+Cash Paid
+
+iou: 0.7878787878787878    txt: 100
+CARD PAID
+Card Paid
+
+iou: 0.8010680907877169    txt: 100
+CHANGE
+Change
+
+iou: 0.6705882352941176    txt: 80
+8.00
+§.00
+
+iou: 0.7721454173067076    txt: 73
+0.00
+6.00)
+
+iou: 0.6208148446954417    txt: 89
+0.00
+0.0
+
+iou: 0.7569105691056911    txt: 83
+ROUND ADJ.
+Raund Adj. :
+
+iou: 0.6684434968017058    txt: 100
+0.00
+0.00
+
+iou: 0.9424812438838752    txt: 92
+GST SUMMARY
+G&T Summary
+
+iou: 0.7163401934044136    txt: 86
+AMOUNT
+Amaunt
+
+iou: 0.670892494929006    txt: 100
+TAX
+Tax
+
+iou: 0.7875968992248062    txt: 46
+SR @6%
+&RQA%
+
+iou: 0.7245562794877556    txt: 62
+ZRL @0%
+TEL @O%
+
+iou: 0.6328125    txt: 100
+2.83
+2.83
+
+iou: 0.6270270270270271    txt: 100
+0.17
+0.17
+
+iou: 0.74884437596302    txt: 80
+5.00
+3.00
+
+iou: 0.7539720751083293    txt: 80
+0.00
+8.00
+
+iou: 0.8225108225108225    txt: 100
+THANK YOU
+THANK YOU
+
+iou: 0.6754093389933293    txt: 88
+: POS/266870
+POS/2646870
+
+iou: 0.5478260869565217    txt: 86
+: ADMIN
+admin
+
+iou: 0.5706684403059528    txt: 83
+: CASH
+Cash
+
+!-Error: SR.
+
+!-Error: ***
+
+!-Error: :
+
+!-Error: :
+
+!-Error: :
+
+!-Error: :
+
+!-Error: :
+Average IOU:  X51006619503.jpg   59.13320144911797
+Text Matching % :  X51006619503.jpg   86.97826086956522

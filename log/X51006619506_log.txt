@@ -1,0 +1,152 @@
+!-Error: KEDAI UBAT & RUNCIT HONG
+
+!-Error: NING SDN. BHD.
+
+!-Error: (717853-P)
+
+!-Error: (GST ID NO : 002006163456)
+
+!-Error: NO.8,JALAN LANG KUNING,
+
+!-Error: KEPONG BARU,
+
+!-Error: 52100 KUALA LUMPUR.
+
+!-Error: TEL: 03-6273 2163
+
+!-Error: BILL NO
+
+!-Error: DATE
+
+!-Error: : 24/12/16 2:28:22 PM
+
+!-Error: CASHIER
+
+!-Error: PAYMENT
+
+!-Error: ITEM
+
+!-Error: QTY
+
+!-Error: PRICE
+
+!-Error: AMOUNT
+
+!-Error: YI JIN FIAN
+
+!-Error: @2.83
+
+!-Error: G5
+
+!-Error: 1
+
+!-Error: 3.00
+
+!-Error: 3.00
+
+!-Error: TIAN QI
+
+!-Error: ST100
+
+!-Error: 1
+
+!-Error: 20.00
+
+!-Error: 20.00
+
+!-Error: GARDENIA CR-CHOCLT @0.80
+
+!-Error: 955664132
+
+!-Error: 1
+
+!-Error: 0.85
+
+!-Error: 0.85
+
+!-Error: MASSIMO DUE-COFFEE @0.80
+
+!-Error: 955675553
+
+!-Error: 1
+
+!-Error: 0.85
+
+!-Error: 0.85
+
+!-Error: MASSIMO DUE-COFFEE @0.80
+
+!-Error: 955675553
+
+!-Error: 1
+
+!-Error: 0.85
+
+!-Error: 0.85
+
+!-Error: NET AMT @ GST6%
+
+!-Error: 25.55
+
+!-Error: CASH PAID
+
+!-Error: CARD PAID
+
+!-Error: CHANGE
+
+!-Error: 0.00
+
+!-Error: ROUND ADJ.
+
+!-Error: 0.00
+
+!-Error: GST SUMMARY
+
+!-Error: AMOUNT
+
+!-Error: TAX
+
+!-Error: SR@6%
+
+!-Error: 24.10
+
+!-Error: 1.45
+
+!-Error: THANK YOU
+
+!-Error: PLEASE COME AGAIN
+
+!-Error: 25.55
+
+!-Error: 0.00
+
+!-Error: : POS/268511
+
+!-Error: : ADMIN
+
+!-Error: : CASH
+
+!-Error: SR
+
+!-Error: @18.87
+
+!-Error: SR
+
+!-Error: SR
+
+!-Error: SR
+
+!-Error: SR
+
+!-Error: :
+
+!-Error: :
+
+!-Error: :
+
+!-Error: :
+
+!-Error: :
+
+Average IOU:  X51006619506.jpg   0.0
+Text Matching % :  X51006619506.jpg   0

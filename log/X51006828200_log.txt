@@ -1,0 +1,140 @@
+!-Error: YHM MID VALLEY
+
+!-Error: LOT T-015B, LEVEL 3,
+
+iou: 0.7401267674305217    txt: 100
+MID VALLEY CITY,
+Mid Valley City,
+
+!-Error: LINGKARAN SYED PUTRA,
+
+!-Error: 59200 KUALA LUMPUR MALAYSIA.
+
+iou: 0.6952054794520548    txt: 89
+002105827328
+(102105827328
+
+iou: 0.4961379723778562    txt: 79
+* TAX INVOICE *
+X INVOICE +
+
+iou: 0.43273013375295044    txt: 75
+ORD
+urd
+
+!-Error: 1000758
+
+!-Error: 15/12/2017 08:00 PM
+
+!-Error: RECEIPT NO.:001-1402935
+
+!-Error: PAX:
+
+!-Error: CASHIER
+
+!-Error: EAT IN
+
+!-Error: ITEM
+
+!-Error: QTY
+
+!-Error: U.PRICE
+
+!-Error: AMOUNT
+
+!-Error: TAX
+
+!-Error: FG-H00030
+
+!-Error: 1
+
+!-Error: 3.80
+
+!-Error: 3.80
+
+!-Error: SR
+
+!-Error: KARAAGE
+
+!-Error: FG-H00088
+
+!-Error: 1
+
+!-Error: 17.80
+
+!-Error: 17.80
+
+!-Error: SR
+
+!-Error: OTM BEEF BUKKAKE L
+
+!-Error: SUBTOTAL
+
+!-Error: 21.60
+
+!-Error: TOTAL
+
+!-Error: 21.60
+
+iou: 0.40732838904128144    txt: 82
+TOTAL:MYR
+TOTAL:
+
+!-Error: 21.60
+
+!-Error: TOTAL EXCLUDED TAX
+
+!-Error: 20.37
+
+!-Error: 1.23
+
+iou: 0.8140087059754649    txt: 83
+PAYMENT DETAIL
+Payment Beta}
+
+!-Error: CASH
+
+!-Error: 22.00
+
+!-Error: CASH CHANGE
+
+!-Error: 0.40
+
+iou: 0.663375    txt: 92
+TAX SUMMARY
+lax Summary
+
+iou: 0.6719761075161772    txt: 100
+TAX CODE
+Tax Code
+
+iou: 0.6631617113850616    txt: 92
+AMOUNT(MYR)
+mount (MYR)
+
+iou: 0.7236074270557029    txt: 95
+TAX(MYR)
+Tax( MYR)
+
+!-Error: SR
+
+!-Error: 6
+
+!-Error: 20.37
+
+!-Error: 1.23
+
+!-Error: THANK YOU
+
+!-Error: PLEASE COME AGAIN.
+
+!-Error: O.
+
+!-Error: 1
+
+!-Error: :CASHIER
+
+!-Error: %
+
+Average IOU:  X51006828200.jpg   10.690945244045883
+Text Matching % :  X51006828200.jpg   88.7

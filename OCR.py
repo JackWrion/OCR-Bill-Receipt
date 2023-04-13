@@ -2,6 +2,7 @@ import cv2
 import pytesseract
 import numpy as np
 from thefuzz import fuzz
+import os
 
 pytesseract.pytesseract.tesseract_cmd = 'C:\\Program Files\\Tesseract-OCR\\tesseract.exe'
 
@@ -19,9 +20,14 @@ def OCRText(name):
     ##Array of detected line
     lineboxes = []
 
+    dir_source = ".\\testcase_source"
+    file_path = os.path.join(dir_source, name)
+
+
     #read image
-    img = cv2.imread(name)
-    img = cv2.GaussianBlur(img,(1,1),0)
+    img = cv2.imread(file_path)
+    img_iou = img        ## Using later
+    img = cv2.GaussianBlur(img,(3,3),0)
     
 
     #### Text for testing
@@ -47,8 +53,10 @@ def OCRText(name):
     ################################################
     #---------- Detect and draw detected line_box  
     ################################################
+
     name_test = name.replace('.jpg','_test.txt')
-    with open(name_test, mode='w', encoding='utf-8') as file:
+    name_test_dir = os.path.join(".\\result", name_test)
+    with open(name_test_dir, mode='w', encoding='utf-8') as file:
 
         for b in boxes.splitlines():
             ## skip header
@@ -100,19 +108,28 @@ def OCRText(name):
 
 
         ## Draw the last line
-        l = lineboxes[-1]        
-        combine_str = str(l.x) + ','+ str(l.y) + ','+ \
-            str(l.x+l.w) + ','+ str(l.y) + ','+ \
-            str(l.x+l.w) + ','+ str(l.y+l.h) +','+ \
-            str(l.x) + ','+ str(l.y+l.h) + ',' + \
-            l.text + '\n'
-        file.write(combine_str)
+        
+        # if (len(lineboxes) == 0):
+        #     print ("!! NOT DONE: " + name)
+        #     return
+        
+        try:
+            l = lineboxes[-1]
+        except:
+            print ("!!!---CAN NOT DETECTED: " + name)
+        else:        
+            combine_str = str(l.x) + ','+ str(l.y) + ','+ \
+                str(l.x+l.w) + ','+ str(l.y) + ','+ \
+                str(l.x+l.w) + ','+ str(l.y+l.h) +','+ \
+                str(l.x) + ','+ str(l.y+l.h) + ',' + \
+                l.text + '\n'
+            file.write(combine_str)
 
-        line = combine_str.split(',',8)
-        linetest.append(line)
+            line = combine_str.split(',',8)
+            linetest.append(line)
 
-        #print(l.x, l.y, l.w, l.h, l.text)
-        cv2.rectangle(img, (l.x, l.y), (l.w + l.x, l.h + l.y), (255, 0 , 0), 1)
+            #print(l.x, l.y, l.w, l.h, l.text)
+            cv2.rectangle(img, (l.x, l.y), (l.w + l.x, l.h + l.y), (255, 0 , 0), 1)
 
 
             #draw the box of WORD
@@ -125,11 +142,20 @@ def OCRText(name):
     ################################################
     ##          Read, draw grouth_truth      #######
     ##          Calc IOU, draw IOU           #######
+    ##          Write log file               #######
     ################################################
-    img_iou = cv2.imread(name)
-    name_sample = name.replace('.jpg', '.txt')
+    #img_iou = cv2.imread(file_path)
 
-    with open(name_sample, mode='r', encoding='utf-8') as file:
+    ## Read grouth_truth file
+    name_sample = name.replace('.jpg', '.txt')
+    dir_name_sample = os.path.join(".\\testcase_source", name_sample)
+
+    ## Write log file
+    checkname = name.replace('.jpg', '_log.txt')
+    dir_checkname = os.path.join(".\\log", checkname)
+    checklogfile = open(  dir_checkname, "w"  )
+
+    with open(dir_name_sample, mode='r', encoding='utf-8') as file:
         for line in file:
             line = line.split(',',8)
             #linesample.append(line)
@@ -145,6 +171,7 @@ def OCRText(name):
                 if temp_iou > 0.4:
                     iou.append(temp_iou)
                     textmatching.append( fuzz.ratio(line[-1].lower(), lt[-1].lower()) )
+                    checklogfile.write(   "iou: " +  str(temp_iou) +'    '+ "txt: " +  str(textmatching[-1]) +'\n'+ line[-1] + lt[-1] + '\n')
                     # print(textmatching[-1])
                     # print(line[-1].lower())
                     # print(lt[-1].lower())
@@ -157,21 +184,41 @@ def OCRText(name):
                 ### check ERROR: the lines aren't detected
                 #-------#print("error: " + line[-1])
                 #########
+                checklogfile.write( "!-Error: " + line[-1] + '\n')
                 iou.append(0)
 
 
             cv2.rectangle(img, (int(line[0]), int(line[1])), (int(line[4]), int(line[5])), (0,0,255), 1)
 
-        matchingpercent = sum(textmatching)/len(textmatching)
-        average = sum(iou) / len(iou)*100
-        #print(textmatching)
-        print('Average IOU:  ' + name +'   '+ str(average))
-        print('Text Matching % :  ' + name +'   '+ str(matchingpercent))
+
+        if (len(textmatching) == 0):
+            matchingpercent = 0
+        else: 
+            matchingpercent = sum(textmatching)/len(textmatching)
+        
+        if (len(iou) == 0):
+            average = 0
+        else: 
+            average = sum(iou) / len(iou)*100
 
         
-    cv2.imshow('Test and Sample ', img)
-    cv2.imshow('IOU ', img_iou)
-    cv2.waitKey(0)
+        #print(textmatching)
+        checklogfile.write('Average IOU:  ' + name +'   '+ str(average) + '\n')
+        checklogfile.write('Text Matching % :  ' + name +'   '+ str(matchingpercent) + '\n')
+
+        # print('Average IOU:  ' + name +'   '+ str(average))
+        # print('Text Matching % :  ' + name +'   '+ str(matchingpercent))
+
+    checklogfile.close()
+
+    
+
+    img_test = name.replace(".jpg","_test.jpg")
+    img_test = os.path.join(".\\result", img_test) 
+    cv2.imwrite(img_test, img)
+    img_test = img_test.replace("_test.jpg","_iou.jpg")
+    cv2.imwrite(img_test, img_iou)
+    print("Done: " + name)
 ###################  DONE  ######################################################
 
 
@@ -207,9 +254,8 @@ def get_iou(ground_truth, pred, img):
     return iou
 
 
-
-name = 'X00016469671.jpg'
-OCRText(name)
+# name = 'X51006620182.jpg'
+# OCRText(name)
 
 
 

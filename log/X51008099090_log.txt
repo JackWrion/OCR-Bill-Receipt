@@ -1,0 +1,154 @@
+iou: 0.861889412348128    txt: 100
+RESTORAN WAN SHENG
+RESTORAN WAN SHENG
+
+iou: 0.8121287128712872    txt: 100
+002043319-W
+002043319-W
+
+iou: 0.9575757575757575    txt: 98
+NO.2, JALAN TEMENGGUNG 19/9,
+No.2, Jalan Temenggung 19/9
+
+iou: 0.849960619585193    txt: 94
+SEKSYEN 9, BANDAR MAHKOTA CHERAS,
+jeksyen 9, Bandar MahKkota Cheras
+
+iou: 0.9012133839931364    txt: 100
+43200 CHERAS, SELANGOR
+43200 Cheras, Selangor
+
+iou: 0.9060669060669061    txt: 96
+GST REG NO: 001335787520
+GST REG NO; 001335787520
+
+iou: 0.8597102256896071    txt: 100
+TAX INVOICE
+Tax Invoice
+
+iou: 0.4040599323344611    txt: 67
+INV NO.: 1169924
+INV No. :
+
+iou: 0.9230769230769231    txt: 100
+CASHIER: THANDAR
+Cashier: Thandar
+
+iou: 0.8097439544807966    txt: 100
+DATE
+Date
+
+iou: 0.4775750527004434    txt: 78
+: 01-06-2018 14:20:08
+: 01 “06 - 2018 M4: 20; 08
+
+iou: 0.45687827736249026    txt: 80
+DESCRIPTION
+Deser pt ion
+
+iou: 0.5448717948717948    txt: 75
+QTY
+aty
+
+!-Error: U.PRICE
+
+!-Error: TOTAL
+
+!-Error: TAX
+
+iou: 0.5601783060921248    txt: 100
+TEH (B)
+Teh (B)
+
+iou: 0.7040229885057471    txt: 86
+2 X
+2x
+
+iou: 0.7507897507897507    txt: 100
+2.20
+2.20
+
+iou: 0.4648910411622276    txt: 71
+4.40
+4.40 ZRL
+
+!-Error: ZRL
+
+iou: 0.7908125093520874    txt: 100
+TAKE AWAY
+Take Away
+
+iou: 0.7641325536062378    txt: 29
+2 X
+Ae
+
+iou: 0.48120300751879697    txt: 80
+0.20
+0 20
+
+!-Error: 0.40
+
+!-Error: ZRL
+
+iou: 0.8535047295658501    txt: 92
+TOTAL QTY: 4
+Total Qry: 4
+
+iou: 0.6019629225736096    txt: 85
+TOTAL (EXCLUDING GST):
+Total (Excluding
+
+iou: 0.8004158004158004    txt: 100
+4.80
+4.80
+
+iou: 0.887624466571835    txt: 98
+TOTAL (INCLUSIVE OF GST):
+Total (Inclusive of GST)
+
+iou: 0.8174750092558312    txt: 100
+4.80
+4.80
+
+iou: 0.45248868778280543    txt: 86
+TOTAL :
+TOTAL
+
+!-Error: 4.80
+
+iou: 0.555919513336453    txt: 100
+CASH :
+CASH :
+
+iou: 0.7548717948717949    txt: 100
+4.80
+4.80
+
+iou: 0.8946745562130177    txt: 100
+GST SUMMARY
+GST Summary
+
+iou: 0.5980713245997089    txt: 96
+AMOUNT(RM)
+Amount (RM)
+
+iou: 0.5610310841546626    txt: 100
+TAX(RM)
+Tax(RM)
+
+iou: 0.7705159705159705    txt: 50
+ZRL
+AKL
+
+iou: 0.8703296703296703    txt: 71
+(@ 0%)
+(@ OX)
+
+!-Error: 4.80
+
+iou: 0.7965860597439545    txt: 100
+0.00
+0.00
+
+Average IOU:  X51008099090.jpg   58.32441119027349
+Text Matching % :  X51008099090.jpg   89.17647058823529

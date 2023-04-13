@@ -1,0 +1,94 @@
+iou: 0.8651994497936726    txt: 93
+CONTENTO (JM0761170-K)
+CONTENTO (JH0761170-K
+
+iou: 0.6313827200518722    txt: 100
+15, JALAN PERMAS 10/7, PERMAS
+15, JALAN PERMAS 10/7, PERMAS
+
+iou: 0.837218045112782    txt: 89
+81750 MASAI JOHOR
+81750 WASAT JOHOR
+
+!-Error: 20/03/18 17:19
+
+!-Error: 000000#001429
+
+!-Error: 2X 5.90
+
+!-Error: RM
+
+!-Error: 11.80
+
+iou: 0.6793611793611793    txt: 86
+BUBBLE M T
+Bubble HT
+
+iou: 0.8483992467043314    txt: 88
+1X 4.90
+Ix 4.90
+
+!-Error: RM
+
+!-Error: 4.90
+
+!-Error: YAM M T
+
+!-Error: 1X 1.00
+
+!-Error: RM
+
+!-Error: 1.00
+
+!-Error: ADD ON
+
+iou: 0.7549909255898367    txt: 80
+1X 3.90
+x 3 90
+
+!-Error: RM
+
+!-Error: 3.90
+
+iou: 0.7703703703703704    txt: 80
+W.CHO
+Cho
+
+!-Error: ITEMS 50
+
+!-Error: ***TOTAL
+
+!-Error: RM
+
+!-Error: 21.60
+
+iou: 0.7930622009569378    txt: 100
+CASH
+CASH
+
+iou: 0.6224256292906178    txt: 67
+RM
+RH
+
+iou: 0.45525291828793774    txt: 22
+30.00
+ot
+
+iou: 0.6559714795008913    txt: 100
+CHANGE
+CHANGE
+
+!-Error: RM
+
+iou: 0.44227642276422763    txt: 62
+8.40
+RH B.40
+
+!-Error: THANK YOU
+
+iou: 0.757501119570085    txt: 96
+FORWARD TO YOUR NEXT VISIT
+FORWARD TO YOUR WEXT VISIT
+
+Average IOU:  X51005442388.jpg   27.616399113196188
+Text Matching % :  X51005442388.jpg   81.76923076923077

@@ -1,0 +1,74 @@
+!-Error: 99 SPEED MART S/B (519537-X)
+
+!-Error: LOT P.T. 33198, BATU 4
+
+!-Error: JALAN KAPAR, MUKIM KAPAR
+
+!-Error: 42100 KLANG, SELANGOR
+
+!-Error: 1237-TMN INDAH PERDANA
+
+!-Error: GST ID. NO : 000181747712
+
+!-Error: INVOICE NO : 17764/102/T0077
+
+!-Error: 11:30AM
+
+!-Error: 561490
+
+!-Error: 19-08-16
+
+!-Error: 8050 GARDENIA WHOLEMEAL 400
+
+!-Error: 9180 GARDENIA CREAM ROLL CH
+
+!-Error: @2 X RM .85
+
+!-Error: RM2.99 Z
+
+!-Error: RM1.70 S
+
+!-Error: TOTAL SALES (INCLUSIVE GST) RM
+
+!-Error: ROUNDING ADJUSTMENT RM
+
+!-Error: ROUNDING RM
+
+!-Error: CASH RM
+
+!-Error: CHANGE RM
+
+!-Error: GST SUMMARY
+
+!-Error: AMOUNT(RM)
+
+!-Error: TAX(RM)
+
+!-Error: S = 6%
+
+!-Error: Z = 0%
+
+!-Error: 1.60
+
+!-Error: 2.99
+
+!-Error: .10
+
+!-Error: .00
+
+!-Error: THANK YOU. PLEASE COME AGAIN
+
+!-Error: KEEP THE INVOICE FOR APPLICABLE RETURNS
+
+!-Error: 4.69
+
+!-Error: .01
+
+!-Error: 4.70
+
+!-Error: 50.00
+
+!-Error: 45.30
+
+Average IOU:  X51006619782.jpg   0.0
+Text Matching % :  X51006619782.jpg   0

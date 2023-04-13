@@ -1,0 +1,174 @@
+iou: 0.9363240245593186    txt: 100
+BAKALIMA SDN BHD
+BAKALIMA SDN BHD
+
+iou: 0.4848705796573095    txt: 67
+COMPANY NO : 137734-T
+Company No
+
+iou: 0.8445112781954888    txt: 90
+102 JLN BANTING-DENGKIL
+102 JIn Banting-Dengki |
+
+!-Error: 43800 DENGKIL SELANGOR
+
+iou: 0.833892106065224    txt: 91
+SITE : 1137
+Site: 113
+
+iou: 0.8381712626995645    txt: 98
+TELEPHONE : 03-87686245
+Telephone: 03-87686245
+
+iou: 0.7197537684476364    txt: 79
+GST NO : 001803714560
+0: 001803714560
+
+iou: 0.5189873417721519    txt: 72
+PRE-AUTHORISATION
+>2>>>2> Pre-Authorisation <<<<«
+
+iou: 0.9081632653061225    txt: 100
+PRE AUTH CODE A01A1520994316
+Pre auth code A01A1520994316
+
+iou: 0.5580458507287775    txt: 91
+40.49 LITRE PUMP # 04
+40. . litre Pump # 04
+
+iou: 0.5842128734948714    txt: 74
+V-POWER 97
+V~Power
+
+!-Error: RM
+
+iou: 0.9088941361668634    txt: 100
+100.00 A
+100.00 A
+
+!-Error: 2.470
+
+!-Error: RM / LITRE
+
+iou: 0.8740973312401884    txt: 100
+TOTAL
+Total
+
+iou: 0.8402930402930403    txt: 100
+RM
+RM
+
+iou: 0.9090909090909091    txt: 100
+100.00
+100.00
+
+iou: 0.9439102564102564    txt: 100
+CASH
+Cash
+
+iou: 0.8689393939393939    txt: 100
+RM
+RM
+
+iou: 0.9084398976982098    txt: 100
+100.00
+100.00
+
+iou: 0.9302325581395349    txt: 100
+6.00% GST
+6.00% GST
+
+!-Error: A
+
+iou: 0.8692247454972593    txt: 100
+RM
+RM
+
+iou: 0.8146788990825689    txt: 100
+5.66
+5.66
+
+iou: 0.8693570451436389    txt: 100
+TOTAL GROSS
+Total Gross
+
+iou: 0.6914446002805049    txt: 100
+A
+A
+
+iou: 0.8978658536585366    txt: 100
+RM
+RM
+
+iou: 0.904891304347826    txt: 100
+100.00
+100.00
+
+iou: 0.5952349261280447    txt: 88
+SHELL LOYALTY CARD
+Shel] Loyal ty y Card
+
+iou: 0.9602518693427784    txt: 100
+6018840079256448
+6018840079256448
+
+iou: 0.9232023479536932    txt: 100
+POINTS WILL BE AWARDED FOR ANY ELIGIBLE
+Points will be awarded for any eligible
+
+iou: 0.7620320855614974    txt: 91
+PURCHASES .
+purchases
+
+iou: 0.7816818002368733    txt: 89
+CASHIER :
+Cashier
+
+iou: 0.8875912408759125    txt: 100
+HZAKIR2
+HZAKIR2
+
+iou: 0.9454696247149077    txt: 100
+THIS IS NOT THE FINAL FISCAL RECEIPT
+This is not the final fiscal receipt
+
+!-Error: DATE
+
+iou: 0.4298391569606212    txt: 71
+TIME
+Time Num
+
+!-Error: NUM
+
+!-Error: POS
+
+!-Error: CNO
+
+!-Error: SHIFT
+
+!-Error: 14/03/18
+
+!-Error: 10 : 25
+
+!-Error: 92202
+
+!-Error: 01
+
+!-Error: 3392
+
+!-Error: 688
+
+iou: 0.9470724191063175    txt: 94
+DIESEL & PETROL RON95 GIVEN RELIEF
+Diese] & Petro] RON95 given relief
+
+iou: 0.8896960711638251    txt: 95
+UNDER SECTION 56 (3) <B> GST ACT 2014
+under Section 56 (3) (b) GST Act 2014
+
+iou: 0.9207813998082455    txt: 100
+THANK YOU AND PLEASE COME AGAIN
+Thank You and Please Come Again
+
+Average IOU:  X51005724609.jpg   55.88459855640766
+Text Matching % :  X51005724609.jpg   94.0

@@ -1,0 +1,280 @@
+iou: 0.4133180252583238    txt: 71
+GARDENIA BAKERIES (KL) SDN BHD (139386 X)
+KL) SDN BHD (139386 X)
+
+iou: 0.8476190476190476    txt: 100
+LOT 3, JALAN PELABUR 23/1,
+Lot 3, Jalan Pelabur 23/1,
+
+iou: 0.6995458865772521    txt: 79
+40300 SHAH ALAM, SELANGOR.
+40M) Shan Alain, Selangor
+
+iou: 0.43896804004620715    txt: 62
+TEL: 03- 55423228
+Tel: O3- 55425228 Fax:8- 55425213
+
+iou: 0.4519647785517151    txt: 55
+FAX:03- 55423213
+Tel: O3- 55425228 Fax:8- 55425213
+
+iou: 0.6584022038567493    txt: 93
+GST ID: 000381399040
+GST LD: 00038 1399040
+
+iou: 0.8366477272727273    txt: 100
+TAX INVOICE / ADJUSTMENT NOTE
+TAX INVOICE / ADJUSTMENT NOTE
+
+!-Error: CASH INV NO.: 7829F712
+
+iou: 0.7035981474884218    txt: 62
+VE0514
+VieOS 14
+
+!-Error: DATE: 29/08/2017
+
+iou: 0.8711111111111111    txt: 93
+MAKASSAR FRESH MARKET SDN BHD
+HAKASSAR FRESH MARKET SON BHD
+
+iou: 0.6488732394366197    txt: 92
+GROUND FLOOR, NO. 4 & 6,
+GROUND FLOOR, NO. 48 6
+
+iou: 0.6993397663788725    txt: 90
+JALAN SS 15/4B,
+JALAN SS 15/48
+
+iou: 0.686983195518805    txt: 98
+47500 SUBANG JAYA, SELANGOR
+7500 SUBANG JAYA, SELANGOR
+
+iou: 0.8130081300813008    txt: 91
+VE05: RIDZUAN (11900)
+VEOS: Ridzuan (11900)
+
+iou: 0.6442463533225283    txt: 94
+DD: 29/08/2017
+DD: 29/08/2017 _
+
+iou: 0.541802895843064    txt: 67
+11:20
+1L20_
+
+iou: 0.6197875688434303    txt: 81
+DESCRIPTION
+Desci iption <
+
+!-Error: U.P
+
+!-Error: ISS
+
+!-Error: EXC
+
+!-Error: D
+
+!-Error: SALE
+
+!-Error: AMT(RM)
+
+iou: 0.7596302003081664    txt: 91
+O.C. WHITE
+0.C. WHITE
+
+!-Error: 2.13
+
+iou: 0.7333333333333333    txt: 100
+10
+10
+
+iou: 0.5333333333333333    txt: 100
+1
+1
+
+!-Error: 0
+
+iou: 0.6    txt: 100
+9
+9
+
+iou: 0.6619828259172521    txt: 100
+19.17
+19.17
+
+iou: 0.7470355731225297    txt: 100
+WHOLEMEAL
+WHOLEMEAL
+
+iou: 0.677056277056277    txt: 100
+2.78
+2.78
+
+!-Error: 5
+
+!-Error: 6
+
+!-Error: 0
+
+!-Error: -1
+
+!-Error: -2.78
+
+iou: 0.7025936599423631    txt: 90
+O.C JUMBO
+0.C JUMBO
+
+!-Error: 2.97
+
+!-Error: 2
+
+!-Error: 0
+
+!-Error: 0
+
+!-Error: 2
+
+iou: 0.6016042780748663    txt: 100
+5.94
+5.94
+
+iou: 0.8588186007540847    txt: 97
+TOTAL 0% SUPPLIES:
+Total 0% supplies
+
+!-Error: 22.33
+
+iou: 0.7030752916224814    txt: 100
+CR-VANILLA
+CR-VANILLA
+
+iou: 0.7263636363636363    txt: 80
+0.72
+@.72
+
+iou: 0.4423076923076923    txt: 100
+20
+20
+
+!-Error: 1
+
+!-Error: 0
+
+iou: 0.57    txt: 67
+19
+i9
+
+!-Error: 13.68
+
+iou: 0.7635281385281385    txt: 100
+CR-CORN
+CR-CORN
+
+iou: 0.7132867132867133    txt: 100
+0.72
+0.72
+
+iou: 0.5921052631578947    txt: 100
+20
+20
+
+!-Error: 0
+
+!-Error: 0
+
+iou: 0.4105263157894737    txt: 40
+20
+©
+
+!-Error: 14.40
+
+iou: 0.7287509238728751    txt: 92
+WF-F .EGG. V
+WF-F.EGG.V
+
+iou: 0.6938775510204082    txt: 100
+1.03
+1.03
+
+iou: 0.8888888888888888    txt: 50
+0
+®
+
+!-Error: 13
+
+!-Error: 0
+
+!-Error: -13
+
+iou: 0.6263157894736842    txt: 92
+-13.39
+13.39
+
+iou: 0.9121395036887995    txt: 98
+TOTAL 6% SUPPLIES (EXCL. GST):
+Total 6% supplies (excl. GST)
+
+iou: 0.7731367731367731    txt: 100
+14.69
+14.69
+
+iou: 0.503641456582633    txt: 44
+GST:
+G3)
+
+iou: 0.6838193253287593    txt: 80
+0.88
+0.89
+
+iou: 0.8965014577259475    txt: 98
+TOTAL 6% SUPPLIES (INC. GST):
+Total 6% supplies (Inc. GST)
+
+!-Error: 15.57
+
+iou: 0.9153061224489796    txt: 95
+TOTAL 0% SUPPLIES:
+Total @% supplies:
+
+!-Error: 22.33
+
+iou: 0.6959706959706959    txt: 89
+TOTAL PAYABLE:
+Total Payab
+
+!-Error: 37.90
+
+iou: 0.5757575757575758    txt: 71
+E.&.0.E.
+€ &.0.E
+
+iou: 0.8163602251407129    txt: 100
+RECEIVED ABOVE GOODS IN GOOD ORDER CONDITION.
+Received above goods in good order condition.
+
+iou: 0.8255172413793104    txt: 94
+THE RECIPIENT OF GARDENIA'S PRODUCTS IS
+The recipient of Gardenio'’s products 1s
+
+iou: 0.7895131086142322    txt: 100
+REQUIRED TO MAKE NECESSARY ADJUSTMENTS TO ITS
+required to make necessary adjustments to its
+
+iou: 0.7117808219178082    txt: 100
+INPUT TAX CLAIMS, ON THE BASIC OF THE
+input tax claims, on the basic of the
+
+iou: 0.7896551724137931    txt: 98
+ADJUSTMENTS SHOWN IN THIS TAX INVOICE /
+adjustments shown un this Tax Invoice /
+
+iou: 0.731404958677686    txt: 91
+ADJUSTMENT NOTE
+Adjustinent Note
+
+iou: 0.8276035552574208    txt: 100
+CUSTOMER'S COPY
+CUSTOMER'S COPY
+
+Average IOU:  X51006555835.jpg   42.74155627604812
+Text Matching % :  X51006555835.jpg   88.39622641509433

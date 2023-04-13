@@ -1,0 +1,192 @@
+!-Error: GARDENIA BAKERIES (KL) SDN BHD (139386 X)
+
+iou: 0.6958322872206879    txt: 94
+LOT 3, JALAN PELABUR 23/1,
+Lot 3, Jalan Pelabur 23
+
+iou: 0.798364426271403    txt: 98
+40300 SHAH ALAM, SELANGOR.
+40300 Shah Alam, Selangor
+
+iou: 0.432540192926045    txt: 62
+TEL: 03- 55423228
+Vel: 03 55423228 Fax:03- 55423213
+
+iou: 0.7137096774193549    txt: 95
+GST ID: 000381399040
+GST LD: 000381399040
+
+!-Error: TAX INVOICE / ADJUSTMENT NOTE
+
+iou: 0.4343572686362747    txt: 76
+CASH INV NO.: 7920F714
+Cash Inv No.:
+
+iou: 0.6782608695652174    txt: 57
+VE0514
+VEOSI4
+
+!-Error: DATE: 20/09/2017
+
+iou: 0.7744904667981591    txt: 100
+MAKASSAR FRESH MARKET SDN BHD
+MAKASSAR FRESH MARKET SDN BHD
+
+!-Error: GROUND FLOOR, NO. 4 & 6,
+
+!-Error: JALAN SS 15/4B,
+
+!-Error: 47500 SUBANG JAYA, SELANGOR
+
+iou: 0.4868016194331984    txt: 84
+VE05: RIDZUAN (11900)
+Ridzuan (11900)
+
+iou: 0.7532608695652174    txt: 100
+DD: 20/09/2017
+DD: 20/09/2017
+
+iou: 0.6599378881987578    txt: 100
+12:18
+12:18
+
+!-Error: DESCRIPTION
+
+!-Error: U.P
+
+iou: 0.4852941176470588    txt: 33
+D
+LY)
+
+iou: 0.5407523510971787    txt: 80
+AMT(RM)
+AmtCRM
+
+!-Error: O.C. WHITE
+
+!-Error: 2.13
+
+!-Error: 5
+
+!-Error: 0
+
+!-Error: 0
+
+!-Error: 5
+
+!-Error: 10.65
+
+iou: 0.5397727272727273    txt: 95
+WHOLEMEAL
+WHOL EMEAL
+
+!-Error: 2.78
+
+!-Error: 5
+
+!-Error: 0
+
+!-Error: 0
+
+!-Error: 5
+
+iou: 0.4082464884458541    txt: 20
+13.90
+fir
+
+iou: 0.6555873925501433    txt: 100
+TOTAL 0% SUPPLIES:
+Total 0% supplies:
+
+iou: 0.48757016840417    txt: 67
+24.55
+24, 5
+
+!-Error: CR-CHOCLT
+
+!-Error: 0.72
+
+iou: 0.4342105263157895    txt: 50
+0
+o
+
+!-Error: 2
+
+iou: 0.4033333333333333    txt: 33
+0
+ft)
+
+!-Error: -2
+
+iou: 0.4484375    txt: 91
+-1.44
+1.44
+
+iou: 0.6151111111111112    txt: 94
+TOTAL 6% SUPPLIES (EXCL. GST):
+“Total 0% supplies (excl. GST)
+
+iou: 0.4920814479638009    txt: 91
+-1.44
+1.44
+
+iou: 0.590958605664488    txt: 67
+GST:
+(ST
+
+iou: 0.7654320987654321    txt: 91
+-0.09
+0.09
+
+iou: 0.8587484035759898    txt: 98
+TOTAL 6% SUPPLIES (INC. GST):
+Total 6% supplies (Inc. GST)
+
+iou: 0.6053130929791272    txt: 60
+-1.53
+“15
+
+iou: 0.7772727272727272    txt: 97
+TOTAL 0% SUPPLIES:
+Total 0% supplies
+
+iou: 0.7323232323232324    txt: 100
+24.55
+24.55
+
+!-Error: TOTAL PAYABLE:
+
+!-Error: 23.02
+
+!-Error: .0.E.
+
+!-Error: EIVED ABOVE GOODS IN GOOD ORDER CONDITION.
+
+!-Error: RECIPIENT OF GARDENIA'S PRODUCTS IS
+
+!-Error: IRED TO MAKE NECESSARY ADJUSTMENTS TO ITS
+
+!-Error: T TAX CLAIMS, ON THE BASIC OF THE
+
+!-Error: STMENTS SHOWN IN THIS TAX INVOICE /
+
+iou: 0.4296455424274973    txt: 80
+STMENT NOTE
+tment N
+
+iou: 0.7618549511854951    txt: 100
+CUSTOMER'S COPY
+CUSTOMER'S COPY
+
+iou: 0.4565478574289147    txt: 67
+FAX:03- 55423213
+Vel: 03 55423228 Fax:03- 55423213
+
+!-Error: ISS
+
+!-Error: EXC
+
+!-Error: SALE
+
+Average IOU:  X51006556810.jpg   27.56315267968983
+Text Matching % :  X51006556810.jpg   79.33333333333333

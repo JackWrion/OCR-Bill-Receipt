@@ -1,0 +1,90 @@
+!-Error: BIZ LINK
+
+!-Error: SECURITY & OA TRADING (002382060-M)
+
+!-Error: LOT TC007 & 008, 3ND FLOOR, SG. WANG PLAZA
+
+!-Error: TEL/FAX : 30-2148 6633
+
+!-Error: GST NO : 000345100288
+
+!-Error: DATE : 7/6/2016 TIME : 2:47:04 PM
+
+!-Error: TAX INVOICE
+
+!-Error: NO.: R10109
+
+!-Error: SALES PERSON
+
+!-Error: LYLIAN
+
+!-Error: DESCRIPTION
+
+!-Error: QTY
+
+!-Error: RM
+
+!-Error: TAX
+
+!-Error: TIMI EC-110 CHEQUE
+
+!-Error: WRITER @ 399.00
+
+!-Error: 1.00
+
+!-Error: 399.00
+
+!-Error: SR
+
+!-Error: TOTAL AMT INCL. GST @ 6% :
+
+!-Error: ROUNDING ADJUSTMENT :
+
+!-Error: TOTAL AMT PAYABLE :
+
+!-Error: PAID AMOUNT :
+
+!-Error: CHANGE :
+
+!-Error: TOTAL QTY TENDER :
+
+!-Error: 399.00
+
+!-Error: 399.00
+
+!-Error: 400.00
+
+!-Error: 1.00
+
+!-Error: 1
+
+!-Error: GST SUMMARY
+
+!-Error: AMOUNT
+
+!-Error: TAX
+
+!-Error: (RM)
+
+!-Error: (RM)
+
+!-Error: SR @ A
+
+!-Error: TOTAL
+
+!-Error: 376.42
+
+!-Error: 376.42
+
+!-Error: 22.58
+
+!-Error: 22.58
+
+!-Error: THANK YOU
+
+!-Error: PLEASE COME AGAIN
+
+!-Error: GOODS SOLD ARE NOT REFUNDABLE
+
+Average IOU:  X51006619784.jpg   0.0
+Text Matching % :  X51006619784.jpg   0

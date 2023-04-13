@@ -1,0 +1,120 @@
+!-Error: GUARDIAN HEALTH AND BEAUTY SDN BHD
+
+!-Error: SOLARIS MOUNT KIARA
+
+!-Error: NO.8 & 10, GF SOLARIS MOUNT KUARA
+
+!-Error: JLN SOLARIS 5
+
+!-Error: TEL:03-62037941
+
+!-Error: COMPANY REG #1101083-T
+
+!-Error: GST REG #000899874816
+
+!-Error: RM
+
+!-Error: 121092943 FREEMAN BK/CH 60Z ^
+
+!-Error: 22.44
+
+!-Error: S
+
+!-Error: SUBTOTAL
+
+!-Error: 22.44
+
+!-Error: ROUNDING ADJUSTMENTS
+
+!-Error: 0.01
+
+!-Error: TOTAL (GST INCL)
+
+!-Error: 22.45
+
+!-Error: VISA CARD
+
+!-Error: 22.45
+
+!-Error: TRACE NO. 016036
+
+!-Error: CARD NO. 461772******2105
+
+!-Error: OWNER NAME
+
+!-Error: YOUR SAVINGS FOR TODAY
+
+iou: 0.45588235294117646    txt: 29
+3.96
+a
+
+!-Error: GST - RATE
+
+!-Error: S
+
+iou: 0.5261437908496732    txt: 33
+6%
+ok
+
+!-Error: 21.17
+
+!-Error: 1.27
+
+!-Error: ^ PROMO PRICE ITEMS
+
+iou: 0.8756263862646841    txt: 100
+THANK YOU FOR SHOPPING
+Thank You For Shopping
+
+iou: 0.8031344954421877    txt: 100
+AT GUARDIAN
+At Guardian
+
+iou: 0.8609364081062194    txt: 95
+ALL AMOUNTS ARE IN RM
+All Amounts Are in RH
+
+iou: 0.8768225238813474    txt: 100
+GOODS SOLD ARE NON-REFUNDABLE.
+Goods sold are non-refundable.
+
+iou: 0.9034190817323348    txt: 100
+DISPENSED MEDICINES SOLD ARE
+Dispensed medicines sold are
+
+iou: 0.864756158873806    txt: 100
+NOT RETURNABLE.
+not returnable.
+
+iou: 0.8793103448275862    txt: 100
+ALL EXCHANGES AND RETURNS INCLUDING
+All exchanges and returns including
+
+iou: 0.8839152059491042    txt: 100
+GUARDIAN BRAND PRODUCTS MUST BE MADE
+Guardian brand products must be made
+
+iou: 0.9247070905101993    txt: 99
+WITHIN 7DAYS WITH ORIGINAL RECEPTS AND
+within 7days with original receipts and
+
+iou: 0.8844995784656149    txt: 100
+PRODUCT IN ORIGINAL CONDITION.
+product in original condition.
+
+iou: 0.8574443389258204    txt: 79
+ST:8300 CTR2 ID:2005 TAXINV:53488
+$t=8500 Ctr2 1):2005 TaxIny:55488
+
+iou: 0.7733887733887734    txt: 83
+12:23
+12:25
+
+iou: 0.8125    txt: 67
+01/01/18
+OL/0L/18
+
+!-Error: GST EXCL -- GST AMT
+
+Average IOU:  X51006311714.jpg   27.68746938672393
+Text Matching % :  X51006311714.jpg   85.66666666666667

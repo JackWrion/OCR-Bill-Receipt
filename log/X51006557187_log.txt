@@ -1,0 +1,284 @@
+!-Error: GARDENIA BAKERIES (KL) SDN BHD (139386 X)
+
+iou: 0.4716002828187603    txt: 80
+LOT 3, JALAN PELABUR 23/1,
+Lot 3, Jalan Pela
+
+iou: 0.6353608572329026    txt: 83
+40300 SHAH ALAM, SELANGOR.
+40300 Shah Alam, Setinges
+
+!-Error: TEL: 03- 55423228
+
+iou: 0.826058091286307    txt: 86
+GST ID: 000381399040
+GST LD: 00038 1.499040
+
+iou: 0.8542587680518715    txt: 100
+TAX INVOICE / ADJUSTMENT NOTE
+TAX INVOICE / ADJUSTMENT NOTE
+
+iou: 0.8339622641509434    txt: 100
+CASH INV NO.: 7016F714
+Cash Inv No.: 7016F714
+
+iou: 0.6204954954954955    txt: 100
+VE
+VE
+
+iou: 0.7193877551020408    txt: 100
+DATE: 16/10/2017
+Date: 16/10/2017
+
+iou: 0.853448275862069    txt: 97
+MAKASSAR FRESH MARKET SDN BHD
+HAKASSAR FRESH MARKET SDN BHD
+
+iou: 0.6728275862068965    txt: 96
+GROUND FLOOR, NO. 4 & 6,
+GROUND FLOOR, NO. 4& 6
+
+iou: 0.675414364640884    txt: 94
+JALAN SS 15/4B,
+JALAN SS 15/4B.
+
+iou: 0.7782485875706214    txt: 100
+47500 SUBANG JAYA, SELANGOR
+47500 SUBANG JAYA, SELANGOR
+
+iou: 0.7617996135799061    txt: 98
+VE05: RIDZUAN (11900)
+V E05: Ridzuan (11900)
+
+iou: 0.6903137789904502    txt: 100
+DD: 16/10/2017
+DD: 16/10/2017
+
+iou: 0.8330522765598651    txt: 100
+DESCRIPTION
+Description
+
+!-Error: U.P
+
+!-Error: ISS
+
+!-Error: EXC
+
+!-Error: D
+
+!-Error: SALE
+
+!-Error: AMT(RM)
+
+iou: 0.6444444444444445    txt: 91
+O.C. WHITE
+0.C. WHITE
+
+iou: 0.5363128491620112    txt: 50
+2.13
+2B
+
+iou: 0.5701754385964912    txt: 100
+4
+4
+
+!-Error: 0
+
+!-Error: 0
+
+iou: 0.5042016806722689    txt: 100
+4
+4
+
+iou: 0.7449392712550608    txt: 100
+8.52
+8.52
+
+iou: 0.7141155449672424    txt: 95
+WHOLEMEAL
+WHOL EMEAL
+
+iou: 0.5689981096408318    txt: 55
+2.78
+>. 28
+
+iou: 0.5614035087719298    txt: 100
+4
+4
+
+!-Error: 2
+
+!-Error: 0
+
+!-Error: 2
+
+iou: 0.6981818181818182    txt: 100
+5.56
+5.56
+
+iou: 0.78008658008658    txt: 90
+O.C JUMBO
+0.C JUMBO
+
+iou: 0.6612758310871518    txt: 100
+2.97
+2.97
+
+iou: 0.6081871345029239    txt: 100
+4
+4
+
+!-Error: 0
+
+!-Error: 0
+
+iou: 0.5944272445820433    txt: 100
+4
+4
+
+iou: 0.7485380116959064    txt: 100
+11.88
+11.88
+
+iou: 0.8775217613927291    txt: 95
+TOTAL 0% SUPPLIES:
+Total @% supplies:
+
+!-Error: 25.96
+
+iou: 0.6842323651452282    txt: 94
+DELICIA-B/SCOTCH
+DELICIA-B/SCOTCH 3
+
+!-Error: 3.72
+
+!-Error: 2
+
+!-Error: 0
+
+!-Error: 0
+
+iou: 0.5263157894736842    txt: 100
+2
+2
+
+!-Error: 7.44
+
+iou: 0.6601079022532529    txt: 96
+CR-B'SCOTCH
+CR-B' SCOTCH
+
+iou: 0.5465587044534413    txt: 60
+0.72
+@.7.
+
+!-Error: 20
+
+!-Error: 2
+
+!-Error: 0
+
+iou: 0.5594405594405595    txt: 100
+18
+18
+
+!-Error: 12.96
+
+iou: 0.6525806451612903    txt: 91
+BUN-SBILIS
+BUN-SBILTS
+
+iou: 0.7178796046720575    txt: 80
+0.84
+@.84
+
+iou: 0.6138888888888889    txt: 50
+0
+®
+
+!-Error: 6
+
+!-Error: 0
+
+!-Error: -6
+
+!-Error: -5.04
+
+iou: 0.8961677038978054    txt: 98
+TOTAL 6% SUPPLIES (EXCL. GST):
+Total 6% supplies (excl. GST)
+
+iou: 0.8154195011337868    txt: 100
+15.36
+15.36
+
+iou: 0.6564705882352941    txt: 89
+GST:
+GST
+
+iou: 0.7912087912087912    txt: 100
+0.93
+0.93
+
+iou: 0.906909917134456    txt: 98
+TOTAL 6% SUPPLIES (INC. GST):
+Total 6% supplies (Inc. GST)
+
+iou: 0.8405330882352942    txt: 100
+16.29
+16.29
+
+iou: 0.8336824465856724    txt: 86
+TOTAL 0% SUPPLIES:
+Total @& supplies
+
+iou: 0.8028972783143108    txt: 100
+25.96
+25.96
+
+iou: 0.82    txt: 97
+TOTAL PAYABLE:
+Total Payable
+
+iou: 0.8287971905179983    txt: 100
+42.25
+42.25
+
+iou: 0.652575315840622    txt: 82
+E.&.0.E.
+E.8.0.E
+
+!-Error: RECEIVED ABOVE GOODS IN GOOD ORDER CONDITION.
+
+iou: 0.4145610278372591    txt: 71
+THE RECIPIENT OF GARDENIA'S PRODUCTS IS
+f Gardenia's products
+
+iou: 0.6280373831775701    txt: 90
+REQUIRED TO MAKE NECESSARY ADJUSTMENTS TO ITS
+required to make necessary adjustment
+
+iou: 0.7262979683972912    txt: 100
+INPUT TAX CLAIMS, ON THE BASIC OF THE
+input tax claims, on the basic of the
+
+iou: 0.7422505307855626    txt: 97
+ADJUSTMENTS SHOWN IN THIS TAX INVOICE /
+adjustments shown in this Tax Invoice
+
+iou: 0.6985372814841242    txt: 100
+ADJUSTMENT NOTE
+Adjustment Note
+
+iou: 0.8541909681719714    txt: 100
+CUSTOMER'S COPY
+CUSTOMER'S COPY
+
+!-Error: FAX:03- 55423213
+
+iou: 0.6234413965087282    txt: 100
+12:14
+12:14
+
+Average IOU:  X51006557187.jpg   44.8046744924923
+Text Matching % :  X51006557187.jpg   92.52727272727273

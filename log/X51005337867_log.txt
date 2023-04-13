@@ -1,0 +1,216 @@
+iou: 0.862797312836652    txt: 100
+OLDTOWN WHITE COFFEE
+OLDTOWN WHITE COFFEE
+
+iou: 0.8601032794581182    txt: 100
+OLD TOWN KOPITIAM SDN BHD (716269-X)
+Old Town Kopitiam Sdn Bhd (716269-X)
+
+iou: 0.8804232804232804    txt: 100
+SRI RAMPAI
+Sri Rampai
+
+iou: 0.8275862068965517    txt: 100
+TEL: 03-4148 1876
+Tel: 03-4148 1876
+
+!-Error: GUEST CHECK
+
+!-Error: **THIS IS NOT A RECEIPT**
+
+iou: 0.8146551724137931    txt: 100
+GST ID:000801587200
+GST ID:000801587200
+
+iou: 0.45584691708008507    txt: 29
+4 COUNTER3
+ed
+
+iou: 0.86848    txt: 100
+2009 LIZA
+2009 LIZA
+
+iou: 0.5170958210215281    txt: 100
+CHECK:37617
+Check:37617
+
+iou: 0.8522105263157894    txt: 94
+COVER:1
+Cover: 1
+
+iou: 0.8338549817423057    txt: 100
+22 MAR 18 12:44:00 PM
+22 Mar 18 12:44:00 PM
+
+iou: 0.8995783327927344    txt: 92
+TABLE:5 / 1
+Table:5 / |
+
+iou: 0.7376093294460642    txt: 100
+DINE IN
+Dine In
+
+iou: 0.6924939467312349    txt: 60
+ST30
+$130
+
+iou: 0.8378688054998568    txt: 89
+BR10 STM GINGER R
+BRIO Stm Ginger R
+
+iou: 0.8023988005997001    txt: 100
+TF2 (H) TEH TARIK
+TF2 (H) Teh Tarik
+
+iou: 0.7109375    txt: 100
+HS4
+HS4
+
+iou: 0.871225404247029    txt: 93
+SN5 CURRY MEE
+SNS Curry Mee
+
+iou: 0.8319327731092437    txt: 100
+TF7 (C) LEMON T
+TF7 (C) Lemon T
+
+!-Error: 1
+
+!-Error: 1
+
+!-Error: 1
+
+!-Error: 1
+
+!-Error: 1
+
+!-Error: 1
+
+iou: 0.6107066381156316    txt: 86
+13.87
+13.87 §
+
+iou: 0.6347607052896725    txt: 86
+12.07
+12.07 §
+
+!-Error: S
+
+!-Error: S
+
+!-Error: S
+
+!-Error: S
+
+!-Error: S
+
+!-Error: S
+
+iou: 0.7534976682211859    txt: 95
+SUBTOTAL:
+Subtotal :
+
+iou: 0.8524193548387097    txt: 100
+10% SRV CHG:
+10% Srv Chg:
+
+iou: 0.8464    txt: 100
+GST @6%
+GST @6%
+
+iou: 0.7423521414004078    txt: 93
+TOTAL:
+Total :
+
+iou: 0.8770900557348196    txt: 100
+ROUNDING:
+Rounding:
+
+iou: 0.9391543160187509    txt: 100
+AMOUNT DUE 30.25
+Amount Due 30.25
+
+iou: 0.7260806216610005    txt: 100
+25.94
+25.94
+
+iou: 0.7637292464878672    txt: 100
+2.59
+2.59
+
+iou: 0.7655325443786982    txt: 100
+1.71
+1.71
+
+iou: 0.7690329218106996    txt: 100
+30.24
+30.24
+
+iou: 0.8196363636363636    txt: 100
+0.01
+0.01
+
+iou: 0.8701134930643127    txt: 100
+INCLUSIVE
+INCLUSIVE
+
+iou: 0.7916199027310138    txt: 100
+0.00 *
+0.00 *
+
+iou: 0.5968510187880391    txt: 79
+3004 STORED 22 MAR 18 02:1
+~---3004 STORED 22 Mar 18 02:1..50 PM---
+
+iou: 0.7486896551724138    txt: 100
+THANK YOU
+THANK YOU
+
+iou: 0.7966440886699507    txt: 100
+PLEASE COME AGAIN
+PLEASE COME AGAIN
+
+iou: 0.9034234234234234    txt: 100
+GST @6% INCLUDED IN TOTAL
+GST @6% included in total
+
+iou: 0.4342753435312419    txt: 65
+GSTSUMMARY
+GSTSummary Amount (RM)
+
+iou: 0.7573243453461239    txt: 100
+S=GST @6%:
+S=GST @6%:
+
+iou: 0.7788359788359789    txt: 100
+Z=GST @0%:
+Z=GST @0%:
+
+!-Error: :50 PM
+
+iou: 0.44376738640879587    txt: 65
+AMOUNT(RM)
+GSTSummary Amount (RM)
+
+iou: 0.7678634909349449    txt: 100
+GST (RM)
+GST (RM)
+
+iou: 0.7635814889336016    txt: 100
+28.53
+28.53
+
+iou: 0.7764705882352941    txt: 100
+1.71
+1.71
+
+iou: 0.8392982456140351    txt: 100
+0.00
+0.00
+
+iou: 0.8083554376657824    txt: 100
+0.00
+0.00
+
+Average IOU:  X51005337867.jpg   57.92558173043068
+Text Matching % :  X51005337867.jpg   94.04347826086956

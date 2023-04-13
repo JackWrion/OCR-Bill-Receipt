@@ -1,0 +1,130 @@
+iou: 0.4715411678075654    txt: 70
+GUARDIAN HEALTH AND BEAUTY SDN BHD
+pe rs Health And Beauty §da_ find
+
+!-Error: IOI MALL
+
+!-Error: G31 & G32, GRD FLR, IOI MALL
+
+!-Error: BAMDAR PUCHONG JAYA
+
+iou: 0.8531667762436993    txt: 74
+TEL : 03-5882 9000
+Tel:05-hn2 9000
+
+iou: 0.9016071428571428    txt: 89
+COMPANY REG #1101083-T
+Company Keg #1101085-
+
+iou: 0.5240009347978499    txt: 31
+GST REG #000899874816
+6ST Res HOOOuOSE?AS Ib
+
+!-Error: RM
+
+iou: 0.9378231472888771    txt: 71
+121048373 GON WR PLS 100+20
+J21040575 HON UR ALS 100420
+
+iou: 0.7201178451178452    txt: 89
+9.95
+9.9
+
+!-Error: SUBTOTAL.
+
+!-Error: 9.95
+
+iou: 0.8672699849170438    txt: 100
+TOTAL (GST INCL)
+TOTAL (GST INCL)
+
+iou: 0.8705035971223022    txt: 100
+9.95
+9.95
+
+!-Error: CASH
+
+iou: 0.8562162162162162    txt: 100
+10.00
+10.00
+
+!-Error: CHANGE DUE
+
+!-Error: 0.05
+
+iou: 0.7215496368038741    txt: 72
+GST - RATE
+tS! - Rate —-
+
+iou: 0.781687325069972    txt: 89
+GST EXCL
+6ST Excl
+
+iou: 0.7908762420957542    txt: 75
+GST AMT
+6ST Agt
+
+iou: 0.6486486486486487    txt: 50
+S
+§
+
+iou: 0.6134615384615385    txt: 40
+6%
+4
+
+iou: 0.4027777777777778    txt: 22
+9.39
+Ay]
+
+iou: 0.8487358326068003    txt: 100
+0.56
+0.56
+
+iou: 0.8336951801997394    txt: 87
+THANK YOU FOR SHOPPING
+{hank You For Shorring
+
+iou: 0.6306277742549143    txt: 86
+AT GUARDIAN
+Guardian
+
+iou: 0.9023668639053254    txt: 91
+ALL AMOUNTS ARE IN RM
+All Amounts Are in fH
+
+iou: 0.8255026510577983    txt: 92
+GOODS SOLD ARE NON-REFUNDABLE.
+buods sold are non-refundable
+
+iou: 0.9200475907198097    txt: 100
+DISPENSED MEDICINES SOLD ARE
+Dispensed medicines sold are
+
+iou: 0.8126232741617357    txt: 97
+NOT RETURNABLE.
+not returnable
+
+iou: 0.9637065637065637    txt: 100
+ALL EXCHANGES AND RETURNS INCLUDING
+ALL exchanges and returns including
+
+iou: 0.992467043314501    txt: 97
+GUARDIAN BRAND PRODUCTS MUST BE MADE
+buardian brand products must be made
+
+iou: 0.8160477053140096    txt: 98
+WITHIN 7DAYS WITH ORIGINAL RECEIPTS AND
+within ?days with original receipts and
+
+iou: 0.8507827788649707    txt: 93
+PRODUCT IN ORIGINAL CONDITION.
+woduct in original condition
+
+iou: 0.8926229508196721    txt: 78
+ST:8046 CTR2 ID:4986 TAXINV:68089
+SU8M46 Glr2 1024986 Taxinv:68089
+
+!-Error: 18:17 09/03/18
+
+Average IOU:  X51005757233.jpg   57.4337140274377
+Text Matching % :  X51005757233.jpg   81.14814814814815

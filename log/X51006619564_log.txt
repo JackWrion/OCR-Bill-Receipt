@@ -1,0 +1,84 @@
+!-Error: 99 SPEED MART S/B (519537-X)
+
+!-Error: LOT P.T. 2811, JALAN ANGSA,
+
+!-Error: TAMAN BERKELEY
+
+!-Error: 41150 KLANG, SELANGOR
+
+!-Error: 1605-TMN SRI BINTANG
+
+!-Error: GST ID. NO : 000181747712
+
+!-Error: INVOICE NO : 17873/102/T0253
+
+!-Error: 04:01PM
+
+!-Error: 561752
+
+!-Error: 06-12-16
+
+!-Error: 967 ANCHOR SERBUK CUCI 4KG
+
+!-Error: @4 X RM 8.90
+
+!-Error: 739 PANTENE TTL DAMAGE CARE
+
+!-Error: 886 DOVE CREAM BAR SOAP 100
+
+!-Error: RM9.65 S
+
+!-Error: RM10.60 S
+
+!-Error: @4 X RM 2.65
+
+!-Error: 265 LEE KUM KEE SOS TIRAM C
+
+!-Error: RM22.80 S
+
+!-Error: @3 X RM 7.60
+
+!-Error: 8019 MARIGOLD HL MILK 1L
+
+!-Error: RM6.79 S
+
+!-Error: TOTAL SALES (INCLUSIVE GST) RM
+
+!-Error: ROUNDING ADJUSTMENT RM
+
+!-Error: .01
+
+!-Error: ROUNDING RM
+
+!-Error: CREDIT RM
+
+!-Error: CHANGE RM
+
+!-Error: GST SUMMARY
+
+!-Error: AMOUNT(RM)
+
+!-Error: TAX(RM)
+
+!-Error: S = 6%
+
+!-Error: 80.62
+
+!-Error: 4.82
+
+!-Error: THANK YOU. PLEASE COME AGAIN
+
+!-Error: KEEP THE INVOICE FOR APPLICABLE RETURNS
+
+!-Error: RM35.60 S
+
+!-Error: 85.44
+
+!-Error: 85.45
+
+!-Error: 85.45
+
+!-Error: .00
+
+Average IOU:  X51006619564.jpg   0.0
+Text Matching % :  X51006619564.jpg   0

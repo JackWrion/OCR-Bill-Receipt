@@ -1,0 +1,76 @@
+!-Error: SWC ENTERPRISE SDN BHD
+
+!-Error: (1125830-V)
+
+!-Error: 28-G, GROUND FLOOR,
+
+!-Error: JALAN DINAR A U3/A,
+
+!-Error: TMN SUBANG PERDANA, 40150
+
+!-Error: SHAH ALAM, SELANGOR.
+
+!-Error: TAX INVOICE
+
+!-Error: (GST ID NO. : 002017808384)
+
+!-Error: 06/03/2018
+
+!-Error: CASHIER: 123
+
+!-Error: 20:05:56
+
+!-Error: NO: 0100122617
+
+!-Error: ITEM/DESC.
+
+!-Error: QTY
+
+!-Error: PRICE
+
+!-Error: AMT.
+
+!-Error: TM621 1.5"B/CAT NYLON
+
+!-Error: OLS 23 B621-1
+
+!-Error: 1
+
+!-Error: 2.00
+
+!-Error: 2.00
+
+!-Error: OPP TAPE 1.5"
+
+!-Error: OPP TAPE 1.5"
+
+!-Error: 1
+
+!-Error: 2.00
+
+!-Error: 2.00
+
+!-Error: TOTAL QTY :
+
+!-Error: 2
+
+!-Error: TOTAL AMOUNT
+
+!-Error: 4.00
+
+!-Error: CASH
+
+!-Error: 4.00
+
+!-Error: GST @6% INCLUDED IN TOTAL
+
+!-Error: 0.22
+
+!-Error: THANK YOU ! PLEASE COME AGAIN !
+
+!-Error: GOODS SOLD ONLY EXCHANGABLE
+
+!-Error: WITHIN 3 DAYS !
+
+Average IOU:  X51005749904.jpg   0.0
+Text Matching % :  X51005749904.jpg   0

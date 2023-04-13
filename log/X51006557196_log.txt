@@ -1,0 +1,240 @@
+iou: 0.7603384452670545    txt: 100
+GARDENIA BAKERIES (KL) SDN BHD (139386 X)
+GARDENIA BAKERIES (KL) SDN BHD (139386 X)
+
+iou: 0.8361565836298932    txt: 88
+LOT 3, JALAN PELABUR 23/1,
+Lot 3, Jalan Pelabur >
+
+iou: 0.8463114754098361    txt: 100
+40300 SHAH ALAM, SELANGOR.
+40300 Shah Alam, Selangor.
+
+!-Error: TEL: 03- 55423228
+
+iou: 0.8286713286713286    txt: 95
+GST ID: 000381399040
+GST LD: 000381399040
+
+iou: 0.8438198896675115    txt: 100
+TAX INVOICE / ADJUSTMENT NOTE
+TAX INVOICE / ADJUSTMENT NOTE
+
+iou: 0.8590381426202321    txt: 100
+CASH INV NO.: 7011F713
+Cash Inv No.: 7011F713
+
+iou: 0.477618827872635    txt: 79
+DATE: 11/10/2017
+11/10/2017
+
+iou: 0.8403644437638772    txt: 90
+MAKASSAR FRESH MARKET SDN BHD
+NAKASSAR FRESH WARKET SON BHD
+
+iou: 0.764367816091954    txt: 96
+GROUND FLOOR, NO. 4 & 6,
+GROUND FIOOR, NO. 4 & 6,
+
+iou: 0.8309178743961353    txt: 94
+JALAN SS 15/4B,
+JALAN SS 15/46,
+
+iou: 0.8841463414634146    txt: 100
+47500 SUBANG JAYA, SELANGOR
+47500 SUBANG JAYA, SELANGOR
+
+iou: 0.853744939271255    txt: 91
+VE05: RIDZUAN (11900)
+VEOS: Ridzuan (11900)
+
+iou: 0.6300813008130082    txt: 100
+DD: 11/10/2017
+DD: 11/10/2017
+
+!-Error: DESCRIPTION
+
+!-Error: U.P
+
+!-Error: ISS
+
+!-Error: EXC
+
+!-Error: D
+
+!-Error: SALE
+
+!-Error: AMT(RM)
+
+iou: 0.486665035478346    txt: 74
+O.C. WHITE
+0.C. WHITE 2.13
+
+!-Error: 2.13
+
+iou: 0.4631578947368421    txt: 100
+4
+4
+
+!-Error: 2
+
+!-Error: 0
+
+iou: 0.4497354497354497    txt: 100
+2
+2
+
+!-Error: 4.26
+
+iou: 0.6748582230623819    txt: 95
+WHOLEMEAL
+WHOL EMEAL
+
+iou: 0.7161172161172161    txt: 80
+2.78
+2.73
+
+!-Error: 2
+
+!-Error: 3
+
+!-Error: 0
+
+iou: 0.6448275862068965    txt: 67
+-1
+“1
+
+iou: 0.5844155844155844    txt: 91
+-2.78
+2.78
+
+iou: 0.7476708074534162    txt: 90
+O.C JUMBO
+0.C JUMBO
+
+iou: 0.6573426573426573    txt: 100
+2.97
+2.97
+
+iou: 0.5925925925925926    txt: 100
+4
+4
+
+!-Error: 0
+
+!-Error: 0
+
+iou: 0.5614035087719298    txt: 100
+4
+4
+
+iou: 0.656891495601173    txt: 100
+11.88
+11.88
+
+iou: 0.8852272727272728    txt: 95
+TOTAL 0% SUPPLIES:
+Total O% supplies:
+
+iou: 0.7592905405405406    txt: 73
+13.36
+B.36
+
+iou: 0.6572822822822822    txt: 100
+CR-CHOCLT
+CR-CHOCLT
+
+iou: 0.632996632996633    txt: 80
+0.72
+@.72
+
+!-Error: 20
+
+!-Error: 2
+
+!-Error: 0
+
+iou: 0.6095238095238096    txt: 100
+18
+18
+
+!-Error: 12.96
+
+iou: 0.9322407203472177    txt: 97
+TOTAL 6% SUPPLIES (EXCL. GST):
+Total 0% supplies (excl. GST):
+
+!-Error: 12.96
+
+iou: 0.7468421052631579    txt: 100
+GST:
+GST:
+
+!-Error: 0.78
+
+iou: 0.8823941419929958    txt: 100
+TOTAL 6% SUPPLIES (INC. GST):
+Total 6% supplies (Inc. GST):
+
+!-Error: 13.74
+
+iou: 0.8468756664534016    txt: 97
+TOTAL 0% SUPPLIES:
+Total % supplies:
+
+!-Error: 13.36
+
+iou: 0.8776427061310782    txt: 90
+TOTAL PAYABLE:
+Total P..yable:
+
+!-Error: 27.10
+
+iou: 0.717391304347826    txt: 78
+E.&.0.E.
+E.&.wre.
+
+iou: 0.842948717948718    txt: 100
+RECEIVED ABOVE GOODS IN GOOD ORDER CONDITION.
+Received above goods in good order condition.
+
+iou: 0.866752688172043    txt: 98
+THE RECIPIENT OF GARDENIA'S PRODUCTS IS
+The recipient of Gardenia’s products is
+
+iou: 0.7882838049196644    txt: 100
+REQUIRED TO MAKE NECESSARY ADJUSTMENTS TO ITS
+required to make necessary adjustments to its
+
+iou: 0.8247619047619048    txt: 100
+INPUT TAX CLAIMS, ON THE BASIC OF THE
+input tax claims, on the basic of the
+
+iou: 0.8545212765957447    txt: 100
+ADJUSTMENTS SHOWN IN THIS TAX INVOICE /
+adjustments shown in this Tax Invoice /
+
+iou: 0.7353115727002968    txt: 100
+ADJUSTMENT NOTE
+Adjustment Note
+
+iou: 0.7497749774977498    txt: 97
+CUSTOMER'S COPY
+CUSTOMER'S COPY,
+
+!-Error: FAX:03- 55423213
+
+iou: 0.6333530455351862    txt: 100
+11:39
+11:39
+
+iou: 0.6069444444444444    txt: 67
+VE
+vi
+
+iou: 0.42857142857142855    txt: 50
+4
+‘
+
+Average IOU:  X51006557196.jpg   45.71258425233701
+Text Matching % :  X51006557196.jpg   92.43478260869566

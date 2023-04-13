@@ -1,0 +1,186 @@
+iou: 0.9497767857142857    txt: 100
+3180502
+3180502
+
+iou: 0.9005405405405406    txt: 98
+SUPER NINETY NINE SDN.BHD.
+Super Ninety Nine Sdn.Bhd
+
+iou: 0.8288139101635272    txt: 100
+(619657-U)
+(619657-U)
+
+iou: 0.9054621848739496    txt: 100
+NO.3343, GROUND FLOOR, JALAN 18/32,
+No.3343, Ground Floor, Jalan 18/32,
+
+iou: 0.8674506387921022    txt: 95
+TAMAN SRI SERDANG,
+Taman Sri Serdana,
+
+iou: 0.7909604519774012    txt: 93
+43300 SERI KEMBANGAN,
+43300 Seri Kembanaan
+
+iou: 0.8368040798980025    txt: 100
+603-9545 1212
+603-9545 1212
+
+iou: 0.6088235294117647    txt: 94
+GST REG NO: 001428234240
+_GST Reg No: 001428234240 _
+
+iou: 0.8584615384615385    txt: 100
+BILL NO
+Bill No
+
+iou: 0.7959001782531194    txt: 100
+DATE
+Date
+
+iou: 0.807556080283353    txt: 100
+CASHIER
+Cashier
+
+iou: 0.8099173553719008    txt: 100
+DESCRIPTION
+Description
+
+!-Error: QTY
+
+!-Error: PRICE
+
+!-Error: AMOUNT
+
+iou: 0.5656565656565656    txt: 100
+1
+1
+
+!-Error: SR
+
+iou: 0.625    txt: 86
+RED POLE
+SR RED POLE
+
+!-Error: 1
+
+iou: 0.896011396011396    txt: 100
+2.99
+2.99
+
+iou: 0.8142857142857143    txt: 100
+2.99
+2.99
+
+iou: 0.6520963425512935    txt: 86
+TOTAL :
+Total
+
+iou: 0.8276315789473684    txt: 100
+2.99
+2.99
+
+iou: 0.8660968660968661    txt: 100
+0.00
+0.00
+
+iou: 0.7885106382978724    txt: 96
+TOTAL SALES INCLUSIVE GST :
+Total Sales inclusive GST
+
+iou: 0.8544973544973545    txt: 100
+2.99
+2.99
+
+iou: 0.7900931829328102    txt: 98
+ROUNDING ADJUSTMENT:
+Rounding Adjustment
+
+iou: 0.775623268698061    txt: 100
+0.01
+0.01
+
+iou: 0.7552540569300346    txt: 95
+AMOUNT TO BE PAID :
+Amount To Be Paid
+
+iou: 0.8292682926829268    txt: 100
+3.00
+3.00
+
+iou: 0.7517482517482518    txt: 93
+CASH RECEIVED :
+Cash Received
+
+!-Error: 3.00
+
+iou: 0.7455683003128258    txt: 100
+GST SUMMARY
+GST Summary
+
+iou: 0.5902301170771094    txt: 84
+TAX CODE
+TaxCode %
+
+!-Error: %
+
+iou: 0.7303860523038606    txt: 100
+TAXABLE AMOUNT
+Taxable Amount
+
+iou: 0.7322654462242563    txt: 100
+GST
+GST
+
+iou: 0.7327586206896551    txt: 100
+SR
+SR
+
+iou: 0.8010269576379975    txt: 100
+6.00
+6.00
+
+iou: 0.7313953488372092    txt: 100
+2.82
+2.82
+
+iou: 0.8075    txt: 100
+0.17
+0.17
+
+!-Error: GST :
+
+iou: 0.8    txt: 100
+0.17
+0.17
+
+!-Error: * GST INCLUDE ITEM
+
+iou: 0.8747339616904835    txt: 98
+THANK YOU. PLEASE COME AGAIN.
+Thank ‘You. Please Come Again.
+
+iou: 0.4634861543168953    txt: 50
+CHECKED
+ae Include ttem CHECKED
+
+!-Error: :
+
+!-Error: :
+
+!-Error: :
+
+iou: 0.7198404785643071    txt: 90
+SD-126668
+SO-126668
+
+iou: 0.8587989051682499    txt: 100
+31/05/2018 12:43:21 PM
+31/05/2018 12:43:21 PM
+
+iou: 0.8095238095238095    txt: 100
+123
+123
+
+Average IOU:  X51007391390.jpg   59.903374875816674
+Text Matching % :  X51007391390.jpg   96.4

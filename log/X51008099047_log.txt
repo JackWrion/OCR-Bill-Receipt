@@ -1,0 +1,166 @@
+iou: 0.7248475609756098    txt: 100
+RESTORAN WAN SHENG
+RESTORAN WAN SHENG
+
+iou: 0.7658730158730159    txt: 100
+002043319-W
+002043319-W
+
+iou: 0.851850231825737    txt: 98
+NO.2, JALAN TEMENGGUNG 19/9,
+No.2, Jalan Temenggung 19/9
+
+iou: 0.8742424242424243    txt: 100
+SEKSYEN 9, BANDAR MAHKOTA CHERAS,
+Seksyen 9, Bandar Mahkota Cheras,
+
+iou: 0.8639003145414953    txt: 100
+43200 CHERAS, SELANGOR
+43200 Cheras, Selangor
+
+iou: 0.8065749235474006    txt: 100
+GST REG NO: 001335787520
+GST REG NO: 001335787520
+
+iou: 0.717948717948718    txt: 100
+TAX INVOICE
+Tax Invoice
+
+!-Error: INV NO.: 1203856
+
+!-Error: CASHIER: NICOLE
+
+iou: 0.6915714726767521    txt: 100
+DATE
+Date
+
+iou: 0.48145144227378517    txt: 77
+: 21-06-2018 18:54:22
+: 21-06- 2018 18: a4 toa
+
+iou: 0.44620611551528877    txt: 100
+DESCRIPTION
+Description
+
+!-Error: QTY
+
+!-Error: U.PRICE
+
+!-Error: TOTAL
+
+!-Error: TAX
+
+iou: 0.5728813559322034    txt: 100
+TEH (B)
+Teh (B)
+
+iou: 0.6021959459459459    txt: 86
+1 X
+1x
+
+iou: 0.7307445442875481    txt: 80
+2.10
+2.16
+
+iou: 0.4197481511093344    txt: 71
+2.10
+2.10 ZRL
+
+!-Error: ZRL
+
+iou: 0.7306666666666667    txt: 100
+CHAM (B)
+Cham (B)
+
+iou: 0.6794616151545364    txt: 86
+1 X
+1x
+
+!-Error: 2.10
+
+iou: 0.449438202247191    txt: 71
+2.10
+2.10 ZRL
+
+!-Error: ZRL
+
+iou: 0.7620596205962059    txt: 100
+TAKE AWAY
+Take Away
+
+iou: 0.47745358090185674    txt: 67
+2 X
+aX x
+
+iou: 0.502835538752363    txt: 80
+0.20
+0 20
+
+!-Error: 0.40
+
+!-Error: ZRL
+
+iou: 0.6423705722070845    txt: 77
+TOTAL QTY: 4
+Total ‘ON: 4
+
+iou: 0.8486877503437557    txt: 98
+TOTAL (EXCLUDING GST):
+Total (Excluding GST)
+
+iou: 0.7449392712550608    txt: 100
+4.60
+4.60
+
+iou: 0.4314385020742236    txt: 71
+TOTAL (INCLUSIVE OF GST):
+Total geal of GST)
+
+iou: 0.8578088578088578    txt: 100
+4.60
+4.60
+
+!-Error: TOTAL :
+
+iou: 0.7968011632133769    txt: 100
+4.60
+4.60
+
+iou: 0.4180448665465859    txt: 83
+CASH :
+CASH
+
+iou: 0.832579185520362    txt: 100
+4.60
+4.60
+
+iou: 0.8570760780647423    txt: 100
+GST SUMMARY
+GST Summary
+
+iou: 0.5559006211180124    txt: 88
+AMOUNT(RM)
+~ Amount (RM)
+
+iou: 0.7932412790697675    txt: 100
+TAX(RM)
+Tax(RM)
+
+iou: 0.7083333333333334    txt: 100
+ZRL
+ZRL
+
+iou: 0.7205240174672489    txt: 100
+(@ 0%)
+(@ 0%)
+
+iou: 0.7863247863247863    txt: 100
+4.60
+4.60
+
+iou: 0.7294041028980788    txt: 100
+0.00
+0.00
+
+Average IOU:  X51008099047.jpg   50.79877835799864
+Text Matching % :  X51008099047.jpg   92.37142857142857

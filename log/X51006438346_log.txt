@@ -1,0 +1,176 @@
+iou: 0.7967239527389903    txt: 100
+HIGH FIVE ENTERPRISE
+HIGH FIVE ENTERPRISE
+
+!-Error: COMPANY NO : 1351865-X
+
+iou: 0.8516600670118794    txt: 100
+JALAN BIDARA, TAMAN BIDARA, SELAYANG
+Jalan Bidara, Taman Bidara, Selayang
+
+iou: 0.8403361344537815    txt: 100
+68100, BATU CAVES, SELANGOR
+68100, Batu Caves, Selangor
+
+iou: 0.6002299731697969    txt: 87
+SITE : 2059
+Site : 20!
+
+!-Error: TELEPHONE : 03-61363779
+
+iou: 0.4813664596273292    txt: 74
+GST NO : 001215471616
+001215471616
+
+iou: 0.8182349503214494    txt: 100
+INVOICE NUMBER: 01000683964
+Invoice number: 01000683964
+
+iou: 0.8224686243450713    txt: 95
+43.40 LITRE PUMP # 11
+43.40 litre Pump # i1
+
+iou: 0.7615589445654806    txt: 100
+FUELSAVE 95
+FuelSave 95
+
+!-Error: RM
+
+iou: 0.5329103885804917    txt: 86
+95.48 C
+95.48
+
+iou: 0.6885245901639344    txt: 97
+2.200 RM / LITRE
+.200 RM / litre
+
+iou: 0.7482993197278912    txt: 100
+TOTAL
+Total
+
+iou: 0.6933333333333334    txt: 100
+RM
+RM
+
+iou: 0.701095461658842    txt: 100
+95.48
+95.48
+
+iou: 0.8028070175438596    txt: 100
+CASH
+Cash
+
+iou: 0.6176470588235294    txt: 100
+RM
+RM
+
+iou: 0.8403846153846154    txt: 100
+100.00
+100.00
+
+iou: 0.8722653493295696    txt: 100
+ROUNDING
+Rounding
+
+iou: 0.715    txt: 100
+RM
+RM
+
+iou: 0.7808450704225353    txt: 100
+0.02-
+0.02-
+
+iou: 0.8095037846930193    txt: 100
+CHANGE
+Change
+
+iou: 0.5718954248366013    txt: 100
+RM
+RM
+
+iou: 0.7952542372881356    txt: 100
+4.50
+4.50
+
+iou: 0.7301011148561057    txt: 100
+RELIEF GST
+Relief GST
+
+iou: 0.5938914027149321    txt: 100
+RM
+RM
+
+iou: 0.7531034482758621    txt: 100
+0.00
+0.00
+
+iou: 0.8947945205479452    txt: 100
+TOTAL GROSS
+Total Gross
+
+iou: 0.5947712418300654    txt: 100
+RM
+RM
+
+iou: 0.7571830985915493    txt: 100
+95.48
+95.48
+
+iou: 0.7686932215234102    txt: 100
+CASHIER:
+Cashier:
+
+iou: 0.8448979591836735    txt: 88
+AAZMAN3
+AAZMANS
+
+!-Error: DATE
+
+iou: 0.4081408140814081    txt: 71
+TIME
+Time Num
+
+!-Error: NUM
+
+!-Error: POS
+
+!-Error: CNO
+
+!-Error: SHIFT
+
+iou: 0.49282296650717705    txt: 89
+05/04/18
+03/04/18
+
+!-Error: 21:57
+
+!-Error: 16074
+
+!-Error: 01
+
+!-Error: 3334
+
+!-Error: 699
+
+iou: 0.792018474417262    txt: 97
+DIESEL & PETROL RON95 GIVEN RELIEF
+Diesel & Petrol RON9S given relief
+
+iou: 0.6785130718954249    txt: 100
+UNDER SECTION 56(3)(B) GST ACT 2014
+under Section 56(3)(b) GST Act 2014
+
+iou: 0.7080956261885357    txt: 100
+THANK YOU AND PLEASE COME AGAIN
+Thank You and Please Come Again
+
+iou: 0.5263157894736842    txt: 100
+C
+C
+
+iou: 0.5473684210526316    txt: 100
+C
+c
+
+Average IOU:  X51006438346.jpg   52.4661118583196
+Text Matching % :  X51006438346.jpg   96.86486486486487

@@ -1,0 +1,312 @@
+iou: 0.8944444444444445    txt: 100
+NASI KANDAR PELITA
+NASI KANDAR PELITA
+
+iou: 0.896780557797507    txt: 99
+PELITA SAMUDRA PERTAMA (M) SDN BHD.
+PELITA SAMUDRA PERTAMA (M) SDN BHD
+
+iou: 0.8555705734697818    txt: 100
+CO REG NO:481477-P
+CO REG NO:481477-P
+
+iou: 0.870836328780254    txt: 98
+NO.2-1,JALAN KAMARUDDIN ISA
+NO.2-1, JALAN KAMARUDDIN ISA
+
+iou: 0.9439106145251397    txt: 100
+31400 IPOH,PERAK DARUL RIDZUAN
+31400 IPOH,PERAK DARUL RIDZUAN
+
+iou: 0.4893109923443594    txt: 77
+GST ID NO :000038535168
+= {D NO 1000038556 168
+
+!-Error: TAX INVOICE
+
+iou: 0.5560258409445311    txt: 100
+INVOICE #
+INVOICE #
+
+iou: 0.5055900621118012    txt: 96
+: 1-688631
+: 1-68 8631
+
+iou: 0.7808641975308642    txt: 100
+TIME
+TIME
+
+iou: 0.45517241379310347    txt: 58
+: 03/06/2018
+2 03/06/2016 04:22:16 AM
+
+!-Error: 04:22:16
+
+!-Error: AM
+
+iou: 0.768857520952801    txt: 100
+CASHIER
+CASHIER
+
+iou: 0.6525619834710744    txt: 90
+: ABDHULLA
+ABDHULLA
+
+iou: 0.7980769230769231    txt: 88
+DINE IN
+OINE IN
+
+iou: 0.7525    txt: 80
+: 55
+: 65
+
+!-Error: QTY
+
+!-Error: DESCRIPTION
+
+!-Error: PRICE
+
+!-Error: AMOUNT
+
+!-Error: 3
+
+!-Error: 1
+
+!-Error: 1
+
+!-Error: 4
+
+!-Error: 1
+
+!-Error: 1
+
+!-Error: 1
+
+!-Error: 1
+
+!-Error: 1
+
+!-Error: 3
+
+iou: 0.41796875    txt: 95
+TEH TARIK
+“TEH TARIK
+
+iou: 0.8565072302558399    txt: 100
+MAGGI SUP
+MAGGI SUP
+
+iou: 0.8209090909090909    txt: 100
+ROTI BAWANG
+ROTI BAWANG
+
+iou: 0.8789746917585983    txt: 100
+AYAM GORENG
+AYAM GORENG
+
+iou: 0.8801571709233792    txt: 100
+NASI KANDAR
+NASI KANDAR
+
+iou: 0.7327490039840637    txt: 88
+MAGGI GORENG TELUR...
+MAGGI GOREN. TELUR
+
+iou: 0.8130640309411259    txt: 94
+INDONMIE DOUBLE
+TNDONMIE DOUBLE
+
+iou: 0.8539226519337016    txt: 94
+INDONMIE DOUBLE
+INDONMIE DOUPLE
+
+iou: 0.7583739837398374    txt: 86
+MAGGI GORENG TELUR...
+MAGGI GORENG TP LUR
+
+iou: 0.5127388535031847    txt: 71
+TEH O LIMAU AIS
+TEH O ices Als
+
+!-Error: 1.50
+
+!-Error: 3.90
+
+!-Error: 1.60
+
+!-Error: 4.10
+
+!-Error: 7.80
+
+!-Error: 5.10
+
+!-Error: 6.10
+
+!-Error: 6.10
+
+!-Error: 5.10
+
+!-Error: 1.70
+
+!-Error: 4.51
+
+iou: 0.6773913043478261    txt: 73
+3.90
+3,90)
+
+!-Error: 1.60
+
+!-Error: 16.40
+
+!-Error: 7.80
+
+!-Error: 5.10
+
+!-Error: 6.10
+
+!-Error: 6.10
+
+!-Error: 5.10
+
+!-Error: 5.11
+
+!-Error: S
+
+!-Error: S
+
+!-Error: S
+
+!-Error: S
+
+!-Error: S
+
+!-Error: S
+
+!-Error: S
+
+!-Error: S
+
+!-Error: S
+
+!-Error: S
+
+iou: 0.5732838589981447    txt: 95
+SUB TOTAL
+ub Total
+
+iou: 0.8064    txt: 100
+RM
+RM
+
+iou: 0.8508403361344538    txt: 90
+ROUND ADJUSTMT
+Round Adjustint
+
+iou: 0.7111111111111111    txt: 100
+RM
+RM
+
+iou: 0.7071887784921099    txt: 100
+TOTAL
+Total
+
+iou: 0.64    txt: 67
+RM
+RH
+
+iou: 0.4415757253127495    txt: 76
+PAYMENT CASH
+Payment
+
+iou: 0.6222222222222222    txt: 100
+RM
+RM
+
+!-Error: CHANGE
+
+iou: 0.75    txt: 100
+RM
+RM
+
+iou: 0.6894934333958724    txt: 100
+GST
+GST
+
+!-Error: RM
+
+iou: 0.41135674035543995    txt: 92
+GST ANALYSIS
+cst ANALYSIS
+
+iou: 0.8443496801705757    txt: 100
+AMT (RM)
+AMT (RM)
+
+iou: 0.46153846153846156    txt: 89
+TAX (RM)
+TAX (RW)
+
+iou: 0.45087064676616917    txt: 50
+S = 0 %
+20%
+
+!-Error: Z= 0 %
+
+iou: 0.774375    txt: 100
+61.70
+61.70
+
+iou: 0.7833333333333333    txt: 100
+0.00
+0.00
+
+iou: 0.8076923076923077    txt: 100
+0.00
+0.00
+
+iou: 0.4163353812793639    txt: 100
+0.00
+0.00
+
+!-Error: 03/06/2018 04:22:16 AM
+
+iou: 0.688034188034188    txt: 67
+0%
+O%
+
+iou: 0.4245389537071886    txt: 100
+0.00
+0.00
+
+iou: 0.42800378429517505    txt: 91
+(+) SPL.REQUEST
+(+) SPL. PeQUEST
+
+!-Error: TEL/FAX:05-5415923
+
+iou: 0.5600266785237884    txt: 82
+TERIMA KASIH SILA DATANG LAGI
+SIH SILA DATANG LAGI
+
+iou: 0.81125    txt: 100
+61.72
+61.72
+
+iou: 0.8531717747683535    txt: 83
+-0.02
+~0.02
+
+iou: 0.7993548387096774    txt: 100
+61.70
+61.70
+
+iou: 0.8511475409836066    txt: 100
+62.00
+62.00
+
+iou: 0.45544554455445546    txt: 29
+0.30
+a
+
+Average IOU:  X51007579714.jpg   34.986601491182505
+Text Matching % :  X51007579714.jpg   90.34615384615384

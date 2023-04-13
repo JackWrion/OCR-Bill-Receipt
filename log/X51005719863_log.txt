@@ -1,0 +1,114 @@
+!-Error: SEN LEE HEONG RESTAURANT
+
+!-Error: CO NO. (002083199-T)
+
+!-Error: GST ID NO (001115316224)
+
+!-Error: G-0-1, M.AVENUE NO.1, JLN 1/38A ,
+
+!-Error: SEGAMBUT BAHAGIA, 51200, K . LUMPUL
+
+!-Error: TEL : 012-2525903 / 03-6258 5987
+
+!-Error: CASHIER : MANAGER
+
+!-Error: ITEM
+
+!-Error: QTY
+
+!-Error: MACHNO : 0000
+
+!-Error: PRICE
+
+!-Error: AMOUNT
+
+!-Error: TABLE NUMBER :
+
+!-Error: FOOD
+
+!-Error: SR
+
+!-Error: 1
+
+!-Error: BIG RICE
+
+!-Error: 2
+
+!-Error: SR
+
+!-Error: TEA POT
+
+!-Error: SR
+
+!-Error: 1
+
+!-Error: 67.00
+
+!-Error: 1.50
+
+!-Error: 3.00
+
+!-Error: 4
+
+!-Error: RM
+
+!-Error: RM
+
+!-Error: RM
+
+!-Error: RM
+
+!-Error: 67.00
+
+!-Error: 3.00
+
+!-Error: 3.00
+
+!-Error: 73.00
+
+!-Error: GST TAX AMT :
+
+!-Error: GST (6.0%) AMOUNT :
+
+!-Error: ROUND ADJ
+
+!-Error: RM
+
+!-Error: RM
+
+!-Error: RM
+
+!-Error: 73.00
+
+!-Error: 4.38
+
+!-Error: 0.02
+
+!-Error: ITEM :
+
+!-Error: 4
+
+!-Error: TOTAL
+
+!-Error: RM
+
+!-Error: 77.40
+
+!-Error: CASH
+
+!-Error: 12-01-2018 21 : 53
+
+!-Error: TAX INVOICE :
+
+!-Error: 77.40
+
+!-Error: #11372
+
+!-Error: T H A N K  Y O U
+
+!-Error: P L E A S E  C O M E  A G A I N
+
+!-Error: SUBTOTAL
+
+Average IOU:  X51005719863.jpg   0.0
+Text Matching % :  X51005719863.jpg   0

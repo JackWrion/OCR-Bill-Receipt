@@ -1,0 +1,260 @@
+iou: 0.9378205128205128    txt: 95
+YHM AEON TEBRAU CITY
+YHH Aeon Tebrau City
+
+iou: 0.8341323106423778    txt: 95
+S117, SECOND FLOOR,
+$117, Second Floor,
+
+iou: 0.9285714285714286    txt: 100
+AEON TEBRAU CITY,
+Aeon Tebrau City,
+
+iou: 0.9324074074074075    txt: 100
+1, JALAN DESA TEBRAU,
+1, Jalan Desa Tebrau,
+
+iou: 0.8790949003714961    txt: 100
+TAMAN DESA TEBRAU,
+Taman Desa Tebrau,
+
+iou: 0.903418339663592    txt: 98
+81100 JOHOR BAHRU, JOHOR,
+81100 Johor Bahru, Johor
+
+!-Error: 002105827328
+
+iou: 0.6086378737541528    txt: 94
+* TAX INVOICE *
+* TAX INVOICE +
+
+iou: 0.8180451127819549    txt: 100
+ORDER NO.
+Order No.
+
+iou: 0.45306764551651807    txt: 52
+1000249
+4000243 11/03,
+
+iou: 0.40654794027702823    txt: 22
+11/03/2018 07:09 PM
+AOL im
+
+iou: 0.6138888888888889    txt: 74
+RECEIPT NO.:003-1220845
+Receint Ko. :003-1
+
+!-Error: PAX:
+
+!-Error: 1
+
+!-Error: CASHIER :CASHIER
+
+iou: 0.5581395348837209    txt: 100
+EAT IN
+Eat In
+
+iou: 0.8304498269896193    txt: 89
+ITEM
+Ite
+
+!-Error: QTY
+
+iou: 0.5588235294117647    txt: 80
+U.PRICE
+Oty U.Price
+
+iou: 0.91734921816828    txt: 87
+AMOUNT TAX
+‘Asount Tax
+
+iou: 0.9044193216855088    txt: 100
+PLEASE COME AGAIN.
+Please Come Again.
+
+iou: 0.8518518518518519    txt: 100
+FG-A00019
+FG-A00019
+
+!-Error: 1
+
+iou: 0.8067226890756303    txt: 100
+1.50
+1.50
+
+!-Error: 1.50
+
+!-Error: SR
+
+iou: 0.9146644573322287    txt: 100
+GREEN TEA
+Green Tea
+
+iou: 0.8574561403508771    txt: 100
+FG-Y00030
+FG-Y00030
+
+iou: 0.4375    txt: 100
+1
+1
+
+iou: 0.8177905308464849    txt: 100
+12.80
+12.80
+
+iou: 0.5285714285714286    txt: 80
+12.80
+12.80 SR
+
+!-Error: SR
+
+iou: 0.8738229755178908    txt: 88
+YAKINIKU BOWL R
+Yakiniku Boal &
+
+iou: 0.8695329873980726    txt: 90
+FG-Y00183
+FG-YO0183
+
+iou: 0.5882352941176471    txt: 100
+2
+2
+
+iou: 0.7111111111111111    txt: 100
+15.80
+15.80
+
+!-Error: 31.60
+
+!-Error: SR
+
+iou: 0.8784688995215311    txt: 95
+NEGI TAMA BEEF BOWL R
+Negi Tama Beef Bow? R
+
+iou: 0.9146644573322287    txt: 90
+FG-Y00102
+FG-¥00102
+
+iou: 0.546875    txt: 100
+1
+1
+
+iou: 0.8858131487889274    txt: 80
+3.80
+3.60
+
+!-Error: 3.80
+
+!-Error: SR
+
+iou: 0.8344512195121951    txt: 84
+MISO/WAKAME+GREEN TEA
+Niso/tlakane+Green Tea
+
+iou: 0.8518518518518519    txt: 100
+FG-Y00264
+FG-Y00264
+
+iou: 0.4861111111111111    txt: 100
+1
+1
+
+iou: 0.8605042016806723    txt: 60
+0.00
+0,90
+
+!-Error: 0.00
+
+!-Error: SR
+
+iou: 0.9182098765432098    txt: 100
+MISO SOUP
+Miso Soup
+
+iou: 0.8602150537634409    txt: 100
+SUBTOTAL
+SubTotal
+
+!-Error: :
+
+!-Error: 49.70
+
+iou: 0.7804878048780488    txt: 100
+TOTAL
+Total
+
+!-Error: :
+
+!-Error: 49.70
+
+iou: 0.9239130434782609    txt: 95
+TOTAL:MYR
+TOTAL :MYR
+
+!-Error: 49.70
+
+iou: 0.8755639097744361    txt: 100
+TOTAL EXCLUDED TAX
+Total Excluded Tax
+
+!-Error: :
+
+!-Error: 46.90
+
+!-Error: :
+
+iou: 0.8858131487889274    txt: 100
+2.80
+2.80
+
+iou: 0.40877598152424943    txt: 83
+PAYMENT DETAILS
+poet Details
+
+!-Error: CASH
+
+!-Error: 50.00
+
+iou: 0.9770114942528736    txt: 100
+CASH CHANGE
+Cash Change
+
+!-Error: 0.30
+
+iou: 0.9147005444646098    txt: 100
+TAX SUMMARY
+Tax Summary
+
+iou: 0.44366197183098594    txt: 90
+TAX CODE
+Tax Code %
+
+!-Error: %
+
+iou: 0.6468401486988847    txt: 88
+AMOUNT(MYR)
+Amount (HYR)
+
+iou: 0.8578125    txt: 78
+TAX(MYR)
+Tax(H¥R)
+
+!-Error: SR
+
+!-Error: 6
+
+iou: 0.8010269576379975    txt: 100
+46.90
+46.90
+
+iou: 0.8571428571428571    txt: 100
+2.80
+2.80
+
+iou: 0.8707170611091487    txt: 63
+**** THANK YOU ****
+#### Thank You #9
+
+Average IOU:  X51005433556.jpg   48.889500635055576
+Text Matching % :  X51005433556.jpg   91.0

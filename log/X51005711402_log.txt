@@ -1,0 +1,198 @@
+iou: 0.6858926805143423    txt: 100
+RESTORAN WAN SHENG
+RESTORAN WAN SHENG
+
+iou: 0.7059991177767976    txt: 100
+002043319-W
+002043319-W
+
+iou: 0.8470465962238004    txt: 100
+NO.2, JALAN TEMENGGUNG 19/9,
+No.2, Jalan Temenggung 19/9,
+
+iou: 0.7395286195286195    txt: 100
+SEKSYEN 9, BANDAR MAHKOTA CHERAS,
+Seksyen 9, Bandar Mahkota Cheras,
+
+iou: 0.8125032889543756    txt: 100
+43200 CHERAS, SELANGOR
+43200 Cheras, Selangor
+
+iou: 0.7537419814682823    txt: 96
+GST REG NO: 001335787520
+GST REG NO; 001335787520
+
+iou: 0.6416666666666667    txt: 100
+TAX INVOICE
+Tax Invoice
+
+iou: 0.4488063660477454    txt: 63
+INV NO.: 1049519
+INV No.; 1049519 Cashier: Thandar
+
+iou: 0.8040540540540541    txt: 100
+DATE
+Date
+
+!-Error: DESCRIPTION
+
+!-Error: QTY
+
+!-Error: U.PRICE
+
+!-Error: TOTAL
+
+iou: 0.5731282972275227    txt: 100
+KOPI (B)
+Kopi (B)
+
+!-Error: 1 X
+
+iou: 0.5448717948717948    txt: 100
+2.20
+2.20
+
+iou: 0.6984894259818731    txt: 100
+2.20
+2.20
+
+iou: 0.666    txt: 100
+TEH (B)
+Teh (B)
+
+!-Error: 2 X
+
+iou: 0.5473557692307692    txt: 100
+2.20
+2.20
+
+iou: 0.7512626262626263    txt: 100
+4.40
+4.40
+
+iou: 0.7337869137232195    txt: 100
+CHAM (B)
+Cham (B)
+
+!-Error: 1 X
+
+iou: 0.5686813186813187    txt: 100
+2.20
+2.20
+
+iou: 0.7512626262626263    txt: 100
+2.20
+2.20
+
+iou: 0.6171908202294942    txt: 100
+TAKE AWAY
+Take Away
+
+iou: 0.4880382775119617    txt: 86
+4 X
+4x
+
+iou: 0.7469512195121951    txt: 100
+0.20
+0.20
+
+iou: 0.6445953593661573    txt: 100
+0.80
+0.80
+
+iou: 0.7258064516129032    txt: 96
+TOTAL QTY : 8
+Total QTY: 8
+
+iou: 0.7234177215189873    txt: 100
+TOTAL (EXCLUDING GST):
+Total (Excluding GST):
+
+iou: 0.6697058823529412    txt: 80
+9.07
+9,07
+
+iou: 0.7264957264957265    txt: 60
+0.53
+0,63
+
+iou: 0.6031984007996002    txt: 100
+9.60
+9.60
+
+iou: 0.4850548422311171    txt: 77
+TOTAL (INCLUSIVE OF GST):
+Total oe of GST):
+
+!-Error: TOTAL:
+
+iou: 0.46218487394957986    txt: 67
+9.60
+-60
+
+!-Error: CASH :
+
+iou: 0.6140350877192983    txt: 80
+9.60
+9,60
+
+iou: 0.660833174814533    txt: 100
+GST SUMMARY
+GST Summary
+
+iou: 0.7099600709849158    txt: 100
+AMOUNT (RM)
+Amount (RM)
+
+iou: 0.6754919499105546    txt: 100
+TAX(RM)
+Tax(RM)
+
+iou: 0.44545454545454544    txt: 100
+SR
+SR
+
+iou: 0.7948473282442748    txt: 100
+(@ 6%)
+(@ 6%)
+
+iou: 0.6577301161751564    txt: 100
+9.07
+9.07
+
+iou: 0.532258064516129    txt: 60
+0.53
+0,63
+
+iou: 0.45182959165635495    txt: 67
+CASHIER: THANDAR
+INV No.; 1049519 Cashier: Thandar
+
+iou: 0.8265213442325159    txt: 95
+: 17-03-2018 15:22:52
++ 17-03-2018 15:22:52
+
+!-Error: TAX
+
+iou: 0.4737704918032787    txt: 100
+SR
+SR
+
+iou: 0.5    txt: 100
+SR
+SR
+
+iou: 0.571583514099783    txt: 100
+SR
+SR
+
+iou: 0.5807453416149069    txt: 100
+SR
+SR
+
+iou: 0.8666666666666667    txt: 97
+GST PAYABLE (6%) :
+GST payable (6%):
+
+Average IOU:  X51005711402.jpg   52.8304537165741
+Text Matching % :  X51005711402.jpg   93.72727272727273

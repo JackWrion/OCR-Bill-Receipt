@@ -1,0 +1,164 @@
+iou: 0.8691358024691358    txt: 100
+TRIPLE SIX POINT ENTERPRISE 666
+Triple Six Point Enterprise 666
+
+iou: 0.6077306356635965    txt: 94
+NO 14& 16 JALAN PERMAS 4/3 BANDAR BARU PERMAS JAYA
+No 148.16 Jalan Permas 4/3 Bandar Baru Permas Jay:
+
+iou: 0.4115079365079365    txt: 35
+TEL : 016-7574666
+Tel: ne Topsees
+
+iou: 0.4854687894869851    txt: 86
+RECEIPT NO: REC-0014888
+Receipt no: REC-00'
+
+iou: 0.545079365079365    txt: 88
+DATE: 22-03-2018 04:01:20 PM
+Date: 22-03-2018 04: of 20 PM
+
+iou: 0.5503171247357294    txt: 100
+PAYMENT TYPE: CASH
+Payment Type: Cash
+
+iou: 0.9080654258319233    txt: 100
+RECEIPT
+Receipt
+
+iou: 0.43473486037025416    txt: 81
+(RECEIPT NO.: REC-0014888)
+(Receipt No.: Rec-c014neey
+
+iou: 0.4846225535880708    txt: 100
+QTY ITEM
+QTy ITEM
+
+iou: 0.4430493273542601    txt: 20
+PRICE
+"nw
+
+iou: 1.0    txt: 100
+TOTAL
+TOTAL
+
+iou: 0.4355716878402904    txt: 22
+(RM)
+"nw
+
+iou: 0.9333333333333333    txt: 100
+(RM)
+(RM)
+
+iou: 0.7983193277310925    txt: 100
+1X
+1x
+
+iou: 0.893071000855432    txt: 77
+VS FUJ1500ML
+VS FUgI500m!
+
+iou: 0.9207161125319693    txt: 100
+10.00
+10.00
+
+iou: 0.8823529411764706    txt: 100
+10.00
+10.00
+
+iou: 0.95    txt: 100
+1X
+1x
+
+iou: 0.6502976190476191    txt: 100
+APOLLO CAKE
+Apollo cake
+
+iou: 0.7918552036199095    txt: 100
+6.80
+6.80
+
+iou: 0.8888888888888888    txt: 100
+6.50
+6.50
+
+iou: 0.927519818799547    txt: 100
+ORIGINAL 30S
+original 30s
+
+iou: 0.9545454545454546    txt: 93
+(DISO: 0.3000)
+(Disc: 0.3000)
+
+iou: 0.875    txt: 100
+1X
+1x
+
+iou: 0.8    txt: 100
+TG CASHEW
+TG Cashew
+
+iou: 0.8885017421602788    txt: 100
+4.20
+4.20
+
+iou: 0.8373205741626795    txt: 100
+4.20
+4.20
+
+iou: 0.9215686274509803    txt: 100
+NUTS MIXWD
+nuts mixwd
+
+iou: 0.6154444156517233    txt: 100
+ALMOND SMOKE
+Almond smoke
+
+iou: 0.8235294117647058    txt: 100
+1X
+1x
+
+iou: 0.8408602150537634    txt: 100
+TG COATED
+TG Coated
+
+iou: 0.9722222222222222    txt: 100
+1.90
+1.90
+
+iou: 0.9165302782324058    txt: 100
+1.90
+1.90
+
+iou: 0.8333333333333334    txt: 100
+COCONUT
+coconut
+
+iou: 0.9696969696969697    txt: 100
+PEANUTS
+peanuts
+
+!-Error: DISCOUNT
+
+iou: 0.8976190476190476    txt: 100
+0.30
+0.30
+
+iou: 0.8431743032593293    txt: 100
+TOTAL AMOUNT
+Total Amount
+
+iou: 0.9007832898172323    txt: 100
+22.60
+22.60
+
+iou: 0.9411764705882353    txt: 100
+TENDERED
+Tendered
+
+iou: 0.9022556390977443    txt: 100
+22.60
+22.60
+
+Average IOU:  X51005442366.jpg   76.939511584312
+Text Matching % :  X51005442366.jpg   92.4

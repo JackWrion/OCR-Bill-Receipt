@@ -1,0 +1,128 @@
+!-Error: KING'S CONFECTIONERY S/B 273500-U (KJ1)
+
+!-Error: NO. 20-A1, JALAN SS6/3, KELANA JAYA,
+
+!-Error: 47301 PETALING JAYA
+
+!-Error: SELANGOR D.E.
+
+!-Error: TEL/FAX :- 03 - 78800732
+
+!-Error: (GST ID : 000294060032)
+
+!-Error: TAX INVOICE
+
+!-Error: INV NO
+
+!-Error: :KJ130674721
+
+!-Error: DATE:21/05/17 13:14
+
+!-Error: TEL:0122144371
+
+!-Error: CASHIER:FW1254
+
+!-Error: CTR
+
+!-Error: :01
+
+!-Error: CODE
+
+!-Error: DESC
+
+!-Error: QTY
+
+!-Error: RM
+
+!-Error: D%
+
+!-Error: AMT
+
+!-Error: 221128 S/R COFFE
+
+!-Error: 221127 S/R CHOCO
+
+!-Error: 221131 S/R PANDA
+
+!-Error: 221132 S/R VANIL
+
+!-Error: 27.50
+
+!-Error: 30.50
+
+!-Error: CHANGE
+
+!-Error: 3.00
+
+!-Error: POSTED
+
+!-Error: (TOTAL INCLUDED GST @ 6% : 1.55)
+
+!-Error: GOODS SOLD NOT RETURNABLE/EXCHANGEABLE!
+
+!-Error: TERIMA KASIH SILA DATANG LAGI!TQ
+
+!-Error: 1
+
+!-Error: 2
+
+!-Error: 1
+
+!-Error: 1
+
+!-Error: 5.50
+
+!-Error: 5.50
+
+!-Error: 5.50
+
+!-Error: 5.50
+
+!-Error: 0
+
+!-Error: 0
+
+!-Error: 0
+
+!-Error: 0
+
+!-Error: 5.50 S
+
+!-Error: 11.00 S
+
+!-Error: 5.50 S
+
+!-Error: 5.50 S
+
+!-Error: TASTY BAKING HEALTY NATION!!
+
+!-Error: ==VISIT US ONLINE AT WWW.KINGS.COM.MY==
+
+!-Error: 3.00
+
+!-Error: CHANGE
+
+!-Error: QTY
+
+!-Error: 5
+
+!-Error: 27.50
+
+!-Error: EXTRA DISC%
+
+!-Error: -
+
+!-Error: ROUNDING ADJ
+
+!-Error: -
+
+!-Error: 0.00
+
+!-Error: 0.00
+
+!-Error: DUE
+
+!-Error: PAY
+
+Average IOU:  X51006388081.jpg   0.0
+Text Matching % :  X51006388081.jpg   0

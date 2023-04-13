@@ -1,0 +1,222 @@
+iou: 0.9009314140558848    txt: 96
+THE CUT STEAKHOUSE &BURGERS
+The Cut Steakhouse &Burgeis
+
+iou: 0.9153814935064936    txt: 96
+LOT L1-4 STAR AVENUE MALL
+iot L1-4 Star Avenue Mall
+
+iou: 0.9021043000914913    txt: 93
+JALAN ZUHAL U5/179 SEKSYEN U5
+Jalan 2uha) U5/179 Seksyen U5
+
+iou: 0.8891304347826087    txt: 100
+PUSAT KOMERSIAL ARENA BINTANG
+Pusat Komersial Arena Bintang
+
+iou: 0.9236842105263158    txt: 96
+40150 SHAH ALAM, SELANGOR
+40150 Shah Alam, Selanyor
+
+iou: 0.8853224834237492    txt: 94
+TEL : 03-78316111
+Tel : 03-/8316111
+
+iou: 0.9568527918781726    txt: 100
+(GST REG. NO : 000974557184)
+(GST Reg. No : 000974557184)
+
+iou: 0.8988696488696488    txt: 100
+TAX INVOICE
+Tax Invoice
+
+iou: 0.9107831405398218    txt: 100
+TABLE
+Table
+
+iou: 0.8554258241758241    txt: 100
+30
+30
+
+iou: 0.831015093222847    txt: 89
+INV NO.:
+INY No.:
+
+iou: 0.9146341463414634    txt: 100
+507684
+507684
+
+iou: 0.8700246565692145    txt: 100
+PAX(S):
+Pax(s):
+
+iou: 0.7521367521367521    txt: 100
+4
+4
+
+iou: 0.8436911487758946    txt: 100
+DATE
+Date
+
+iou: 0.8954398894518655    txt: 85
+: 01-01-2017
+2 01-01-2917
+
+iou: 0.8466748768472906    txt: 100
+6.08
+6.08
+
+iou: 0.9176587301587301    txt: 100
+21:14:17
+21:14:17
+
+!-Error: CASHIER:
+
+!-Error: SHAM
+
+!-Error: DESCRIPTION
+
+!-Error: QTY
+
+!-Error: U.PRICE
+
+!-Error: TOTAL
+
+!-Error: TAX
+
+iou: 0.9512660643847818    txt: 85
+BEEF STEAK ESCALOPE
+Heel Steak tscalope
+
+iou: 0.7093596059113301    txt: 100
+2
+2
+
+iou: 0.757085020242915    txt: 100
+X
+x
+
+iou: 0.6732673267326733    txt: 44
+37.50
+10
+
+iou: 0.7816091954022989    txt: 100
+75.00
+75.00
+
+iou: 0.8952254641909815    txt: 100
+SR
+SR
+
+iou: 0.8520449077786688    txt: 100
+CHICKEN DOME
+Chicken Dome
+
+!-Error: 1
+
+iou: 0.7876447876447876    txt: 100
+X
+x
+
+iou: 0.8224543080939948    txt: 100
+27.50
+27.50
+
+!-Error: 27.50
+
+iou: 0.8333333333333334    txt: 100
+SR
+SR
+
+iou: 0.8838346784054781    txt: 100
+TENDERLOIN
+Tenderloin
+
+!-Error: 1
+
+iou: 0.7552447552447552    txt: 100
+X
+x
+
+iou: 0.9855072463768116    txt: 100
+43.50
+43.50
+
+iou: 0.9483232545354591    txt: 100
+43.50
+43.50
+
+iou: 0.8026159334126041    txt: 100
+SR
+SR
+
+iou: 0.9479956663055255    txt: 100
+WARM WATER
+WARM WATER
+
+!-Error: 4
+
+!-Error: X
+
+iou: 0.8727272727272727    txt: 80
+1.50
+1,50
+
+iou: 0.8275862068965517    txt: 100
+6.00
+6.00
+
+iou: 0.8597883597883598    txt: 100
+SR
+SR
+
+!-Error: TOTAL QTY:
+
+!-Error: 8
+
+iou: 0.9078047630275878    txt: 90
+TOTAL (EXCLUDING GST
+Total (Excluding G51
+
+iou: 0.8909512761020881    txt: 100
+158.08
+158.08
+
+iou: 0.979253112033195    txt: 78
+GST PAYABLE (6%):
+ClF payable (6%).
+
+iou: 0.9126466753585397    txt: 80
+9.48
+9.46
+
+iou: 0.9514285714285714    txt: 94
+TOTAL (INCLUSIVE
+jotal (Inclusive
+
+iou: 0.8571428571428571    txt: 100
+167.56
+167.56
+
+iou: 0.9281481481481482    txt: 90
+ROUNDING ADJ :
+Rounding Ad):
+
+iou: 0.9328358208955224    txt: 100
+-0.01
+-0.01
+
+iou: 0.948849104859335    txt: 93
+TOTAL :
+TOTAL:
+
+iou: 0.6201194304088194    txt: 100
+167.55
+167.55
+
+iou: 0.5420560747663551    txt: 50
+DED
+nen
+
+Average IOU:  X51006334742.jpg   66.65791976924784
+Text Matching % :  X51006334742.jpg   94.4375

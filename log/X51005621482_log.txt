@@ -1,0 +1,214 @@
+!-Error: PREMIO
+
+iou: 0.4993664260922263    txt: 100
+PREMIO STATIONERY SDN BHD
+PREMIO STATIONERY SDN BHD
+
+iou: 0.8368234974163721    txt: 97
+(CO.NO.: 123769-W)
+(Co. No.: 123769-W)
+
+iou: 0.945193171608266    txt: 98
+GST REG.NO.: 001032994816
+GST Reg. No.: 001032994816
+
+iou: 0.7624807987711214    txt: 95
+NO 57, JALAN SS 3/29,
+No 57, Jalan SS 3/29.
+
+iou: 0.9050363317464295    txt: 100
+47300 PETALING JAYA, SELANGOR.
+47300 Petaling Jaya, Selangor.
+
+iou: 0.8811188811188811    txt: 100
+03-7874 8605
+03-7874 8605
+
+iou: 0.5731958762886598    txt: 80
+TAX INVOICE
+INVOICE
+
+iou: 0.8677685950413223    txt: 100
+INVOICE NO
+Invoice No
+
+iou: 0.9404533230887437    txt: 92
+: SS3-154439
+: $S3-154439
+
+iou: 0.8582169709989259    txt: 100
+DATE
+Date
+
+iou: 0.9402432575356954    txt: 100
+: 20/03/2018 3:20:16 PM
+: 20/03/2018 3:20:16 PM
+
+iou: 0.8389307745030843    txt: 100
+CASHIER
+Cashier
+
+iou: 0.8307692307692308    txt: 100
+: IVY
+: IVY
+
+iou: 0.7995198079231692    txt: 100
+DESCRIPTION
+Description
+
+!-Error: QTY
+
+!-Error: PRICE
+
+iou: 0.7    txt: 100
+AMOUNT
+Amount
+
+!-Error: 1
+
+!-Error: SR
+
+iou: 0.611032531824611    txt: 80
+ENERGIZER
+1 SR ENERGIZER
+
+!-Error: 1
+
+iou: 0.8345784418356457    txt: 100
+13.40
+13.40
+
+iou: 0.8526077097505669    txt: 100
+13.40
+13.40
+
+iou: 0.8174692049272116    txt: 97
+BATTERY AA 4'S
+BATTERY AA4'S
+
+iou: 0.6583732057416268    txt: 92
+TOTAL:
+Total
+
+iou: 0.791578947368421    txt: 100
+13.40
+13.40
+
+iou: 0.71    txt: 95
+DISCOUNT:
+Discount
+
+iou: 0.76    txt: 100
+0.00
+0.00
+
+iou: 0.8841064417623964    txt: 100
+TOTAL SALES INCLUSIVE GST @6.00%:
+Total Sales Inclusive GST @6.00%:
+
+iou: 0.8248945147679325    txt: 100
+13.40
+13.40
+
+iou: 0.7459183673469387    txt: 97
+CASH RECEIVED:
+Cash Received
+
+iou: 0.8888888888888888    txt: 100
+20.00
+20.00
+
+iou: 0.7134894091415831    txt: 93
+CHANGE:
+Change
+
+iou: 0.8    txt: 100
+6.60
+6.60
+
+iou: 0.7085617882749895    txt: 100
+STARTING 1ST APRIL, WE WILL NO LONGER BE ISSUING HANDWRITTEN
+Starting 1st April, we will no longer be issuing handwritten
+
+iou: 0.7079037800687286    txt: 91
+INVOICES, YOUR SERVICE JOBS SUCH AS PHOTOCOPY AND PRINTING ARE
+Your service jobs such as photocopy and printing are
+
+iou: 0.7653061224489796    txt: 92
+REPLACED BY THE ORDER FORM ALONG WITH A COPY OF THIS RECEIPT.
+1d by the order form along with a copy of this receipt
+
+iou: 0.48119821542383684    txt: 72
+ALL GOODS AND SERVICES ARE SUBJECTED TO THE 6% GST DURING CHECKOUT.
+bjected to the 6% GST during checkout
+
+iou: 0.7377777777777778    txt: 90
+ALL GOODS SOLD ARE NOT RETURNABLE/REFUNDABLE. EXCHANGES ARE ONLY
+jold are not returnable/refundable. Exchanges are only
+
+iou: 0.4430379746835443    txt: 67
+ACCEPTABLE WITHIN 3 DAYS WITH A PROOF OF RECEIPT.
+with a proof of receipt.
+
+!-Error: ALL CARTRIDGE & TONER SALES ARE FINAL A PROOF AND NON-REFUNDABLE.
+
+!-Error: NO CASH REFUNDS FOR CREDIT CARD PURCHASES.
+
+iou: 0.44393367263175176    txt: 81
+NO REFUNDS OR EXCHANGES WILL BE ENTERTAINED WITHOUT PROOF OF RECEIPT.
+1s will be entertained without proof of receipt.
+
+iou: 0.8704472106961734    txt: 100
+TERMS AND CONDITIONS APPPLIED.
+Terms and conditions appplied.
+
+iou: 0.890734588409007    txt: 100
+GST SUMMARY
+GST Summary
+
+iou: 0.6857142857142857    txt: 100
+%
+%
+
+iou: 0.8497184928540493    txt: 100
+AMOUNT(RM)
+Amount(RM)
+
+iou: 0.9375    txt: 100
+TAX(RM)
+Tax(RM)
+
+iou: 0.7619047619047619    txt: 100
+SR
+SR
+
+iou: 0.9215406562054208    txt: 100
+6.00
+6.00
+
+iou: 0.877665544332211    txt: 100
+12.64
+12.64
+
+iou: 0.85    txt: 100
+0.76
+0.76
+
+iou: 0.9969788519637462    txt: 100
+THANK YOU FOR SHOPPING AT PREMIO
+Thank you for Shopping at PREMIO
+
+iou: 0.9072279147050678    txt: 100
+HAVE A NICE DAY!
+Have a Nice Day!
+
+iou: 0.93739664540515    txt: 100
+FOR THE LATEST NEWS AND UPDATES
+For the latest news and updates
+
+iou: 0.8492063492063492    txt: 98
+LIKE US ON FACEBOOK.COM/PREMIOSTATIONERY
+like US ON facebook com/premiostationery
+
+Average IOU:  X51005621482.jpg   67.88738462976104
+Text Matching % :  X51005621482.jpg   96.06122448979592
