@@ -107,11 +107,7 @@ def OCRText(name):
                     lineboxes[-1].h = y+h - lineboxes[-1].y
 
 
-        ## Draw the last line
-        
-        # if (len(lineboxes) == 0):
-        #     print ("!! NOT DONE: " + name)
-        #     return
+        ## Draw the last line and check whether its NULL or not
         
         try:
             l = lineboxes[-1]
@@ -144,7 +140,6 @@ def OCRText(name):
     ##          Calc IOU, draw IOU           #######
     ##          Write log file               #######
     ################################################
-    #img_iou = cv2.imread(file_path)
 
     ## Read grouth_truth file
     name_sample = name.replace('.jpg', '.txt')

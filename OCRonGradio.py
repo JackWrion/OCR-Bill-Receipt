@@ -1,6 +1,5 @@
 import gradio as gr
 import numpy as np
-import testOCR as OCR
 import cv2
 import pytesseract
 
@@ -21,7 +20,7 @@ def TextLineBox(img):
     lineboxes = []
 
     #read image
-    #img = cv2.GaussianBlur(img,(1,1),0)
+    img = cv2.GaussianBlur(img,(3,3),0)
 
 
     ### Cofig
@@ -65,15 +64,16 @@ def TextLineBox(img):
                 lineboxes[-1].h = y+h - lineboxes[-1].y
 
         #draw the box of WORD
-        cv2.rectangle(img, (x,y) , (w+x,y+h), (0,0,255), 1 )
+        cv2.rectangle(img, (x,y) , (w+x,y+h), (255,0,0), 2 )
 
 
     return texttest,img
     
 
-gr.Interface(fn=OCR.TextLineBox, 
+    
+gr.Interface(fn=TextLineBox, 
              inputs=gr.Image(),
-             outputs=[gr.Text()],
+             outputs=[gr.Text(label="Result Text"), gr.Image(label="Boxes of Line")],
             ).launch()
 
 
