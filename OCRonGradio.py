@@ -1,7 +1,8 @@
 import gradio as gr
-import numpy as np
+import tempfile
 import cv2
 import pytesseract
+from fastapi import FastAPI
 
 pytesseract.pytesseract.tesseract_cmd = 'C:\\Program Files\\Tesseract-OCR\\tesseract.exe'
 
@@ -70,11 +71,44 @@ def TextLineBox(img):
     return texttest,img
     
 
+def Download(text):
+    with open("test.txt", "w") as file:
+        file.write(text)
+    return "test.txt"
+
+
+
+
+
+
     
-gr.Interface(fn=TextLineBox, 
-             inputs=gr.Image(),
-             outputs=[gr.Text(label="Result Text"), gr.Image(label="Boxes of Line")],
-            ).launch()
+# mainInterface = gr.Interface(fn=TextLineBox, 
+#              inputs=gr.Image(),
+#              outputs=[gr.Text(label="Result Text"), gr.Image(label="Boxes of Line")],
+#             )
 
 
 
+with gr.Blocks (theme='JohnSmith9982/small_and_pretty'  , css="#SUBMIT {background-color: red} #DOWNLOAD {background-color: green}") as demo:
+    with gr.Row():
+        with gr.Column():
+            input = gr.Image()
+            text_output = gr.Text(label="Result Text")
+            file_output = gr.File()
+            with gr.Row():
+                submit_btn = gr.Button("SUBMIT" , elem_id="SUBMIT")
+                download_btn = gr.Button("DOWNLOAD", elem_id="DOWNLOAD")
+                clear_btn = gr.Button("CLEAR")
+
+        with gr.Column():
+            image_output = gr.Image()
+
+    submit_btn.click(TextLineBox, input, outputs= [text_output, image_output, ] )
+    download_btn.click(Download, text_output, outputs= file_output )
+    clear_btn.click(lambda: [None,None,None], inputs=None, outputs= [text_output, file_output, image_output])
+
+
+
+
+app = FastAPI()
+app = gr.mount_gradio_app(app, demo, path="/" )
