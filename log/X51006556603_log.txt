@@ -118,7 +118,9 @@ O.C JUMBO
 
 !-Error: 4
 
-!-Error: 0
+iou: 0.52    txt: 40
+0
+i)
 
 !-Error: 1
 
@@ -170,5 +172,5 @@ Adjustment Note_
 
 !-Error: FAX:0 - 55423213
 
-Average IOU:  X51006556603.jpg   36.27740203429898
-Text Matching % :  X51006556603.jpg   89.55172413793103
+Average IOU:  X51006556603.jpg   37.189682736053356
+Text Matching % :  X51006556603.jpg   87.9

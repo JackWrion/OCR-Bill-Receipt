@@ -98,9 +98,9 @@ iou: 0.6037151702786377    txt: 50
 0
 °
 
-iou: 0.611764705882353    txt: 50
+iou: 0.5352941176470588    txt: 50
 0
-@
+e
 
 iou: 0.5263157894736842    txt: 100
 3
@@ -132,9 +132,9 @@ iou: 0.5    txt: 100
 
 !-Error: 2.97
 
-iou: 0.8538654934003771    txt: 95
+iou: 0.8130106851037083    txt: 92
 TOTAL 0% SUPPLIES:
-Total @% supplies:
+Total @% supplies
 
 !-Error: 17.70
 
@@ -162,7 +162,9 @@ iou: 0.6329670329670329    txt: 100
 -0.72
 -0.72
 
-!-Error: BUN-SBILIS
+iou: 0.44570732697381776    txt: 73
+BUN-SBILIS
+BUN-SBILIS 0.84 10
 
 !-Error: 0.84
 
@@ -236,13 +238,13 @@ iou: 0.4889114609785001    txt: 74
 REQUIRED TO MAKE NECESSARY ADJUSTMENTS TO ITS
 required to make necessary
 
-iou: 0.8611111111111112    txt: 96
+iou: 0.7380952380952381    txt: 96
 INPUT TAX CLAIMS, ON THE BASIC OF THE
 input tax claus, on the basic of the
 
-iou: 0.527970870572658    txt: 94
+iou: 0.7701984903550462    txt: 97
 ADJUSTMENTS SHOWN IN THIS TAX INVOICE /
-adjus tents: shown in this Tax Invoice
+adjustments shown in this Tax Invoice
 
 !-Error: USTMENT NOTE
 
@@ -264,5 +266,5 @@ SALE
 
 !-Error: V
 
-Average IOU:  X51006556812.jpg   45.39477736734912
-Text Matching % :  X51006556812.jpg   86.79629629629629
+Average IOU:  X51006556812.jpg   45.96135164229643
+Text Matching % :  X51006556812.jpg   86.54545454545455

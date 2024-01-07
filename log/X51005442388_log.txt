@@ -30,7 +30,9 @@ Ix 4.90
 
 !-Error: RM
 
-!-Error: 4.90
+iou: 0.5230769230769231    txt: 77
+4.90
+RH 4.90
 
 !-Error: YAM M T
 
@@ -48,11 +50,13 @@ x 3 90
 
 !-Error: RM
 
-!-Error: 3.90
+iou: 0.4766355140186916    txt: 77
+3.90
+RH 3.90
 
-iou: 0.7703703703703704    txt: 80
+iou: 0.7703703703703704    txt: 100
 W.CHO
-Cho
+W.Cho
 
 !-Error: ITEMS 50
 
@@ -90,5 +94,5 @@ iou: 0.757501119570085    txt: 96
 FORWARD TO YOUR NEXT VISIT
 FORWARD TO YOUR WEXT VISIT
 
-Average IOU:  X51005442388.jpg   27.616399113196188
-Text Matching % :  X51005442388.jpg   81.76923076923077
+Average IOU:  X51005442388.jpg   30.645830740758655
+Text Matching % :  X51005442388.jpg   82.46666666666667

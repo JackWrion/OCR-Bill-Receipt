@@ -69,10 +69,10 @@ def TextLineBox(name, configtest):
                 lineboxes[-1].h = y+h - lineboxes[-1].y
 
         #draw the box of WORD
-        #cv2.rectangle(img, (x,y) , (w+x,y+h), (0,0,255), 1 )
+        cv2.rectangle(img, (x,y) , (w+x,y+h), (0,0,255), 1 )
 
-    #cv2.imshow('Boxes ', img)
-    #cv2.waitKey(0)
+    cv2.imshow('Boxes ', img)
+    cv2.waitKey(0)
     return  lineboxes
 
 
@@ -100,9 +100,9 @@ def WriteToFile(name,lineboxes,img):
 
     #print(texttest)
 
-    #result = 'Result Test ' + str(name)
-    #cv2.imshow(result,img)
-    #cv2.waitKey(0)
+    result = 'Result Test ' + str(name)
+    cv2.imshow(result,img)
+    cv2.waitKey(0)
 
 
 # this will DRAW LINE BOXES based on GROUND_TRUTH
@@ -203,7 +203,7 @@ def AverageIOU(name):
 
 
 
-name = 'X51005230657.jpg'
+name = 'testcase_source/X51007339160.jpg'
 
 
 #lineboxes = TextLineBox(name, 6)

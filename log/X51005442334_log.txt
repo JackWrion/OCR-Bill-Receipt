@@ -80,13 +80,15 @@ iou: 0.5485714285714286    txt: 100
 NETT TOTAL: $8.20
 Nett Total: $8.20
 
-iou: 0.915948275862069    txt: 100
+iou: 0.4264705882352941    txt: 96
 PAYMENT MODE
-Payment Mode
+_Payment Mode
 
 !-Error: AMOUNT
 
-!-Error: CASH
+iou: 0.8987854251012146    txt: 100
+CASH
+CASH
 
 iou: 0.7660714285714286    txt: 92
 $8.20
@@ -104,7 +106,9 @@ iou: 0.7810699588477367    txt: 91
 GST SUMMARY
 GSTSummay
 
-!-Error: AMOUNT($)
+iou: 0.6208576998050682    txt: 84
+AMOUNT($)
+Amounts)
 
 iou: 0.8156862745098039    txt: 83
 TAX($)
@@ -144,5 +148,5 @@ iou: 0.5129583413323094    txt: 92
 FACEBOOK.COM/BARWANGRLCE
 Facebook com/BarWangRice
 
-Average IOU:  X51005442334.jpg   61.99025373897903
-Text Matching % :  X51005442334.jpg   93.38235294117646
+Average IOU:  X51005442334.jpg   64.63170357815726
+Text Matching % :  X51005442334.jpg   93.19444444444444

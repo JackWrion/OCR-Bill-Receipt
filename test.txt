@@ -1,205 +1,103 @@
-vit,
+KAIST SoC Labs Offering Internship Positions
 
-MYDIN
+Advanced Networking Lab
 
-TRI SHAAS SDN BHD (728515-M)
+Sue Bok Moon
 
-}
+High-performance networking platform
 
-MYDIN MART SRI MUDA
+Collaborative Distributed
 
-4-20, Jalan Ria 25/62 Taman Sri Muda
+Dongman Lee
 
-Seksyen 25, 40400 Shah Alam Selangor
+Agile edge Al, reasoning model for
 
-|
+Systems & Networks Lab
 
-fel
+urban characteristics
 
-93-51217970 Fax
+r-Physi
 
-03-51218059
+i
 
-GST 1D: 000429166592
+tem:
 
-RECEIPT
+Insik Shin
 
-rerminal
+Mobile computing and systems
 
-195 - 5505P0S011
+Lab
 
-lrans #
+ience Lab
 
-319242
+Meeyoung Cha
 
-fate
+Satellite-imagery-based machine
 
-1/08/2017 03:56:06PM
+learning, chatbot data analysis
 
-asnler
+Human-
 
-CH102723
+iter
 
-MSM- RAWANT
+Geehyuk Lee
 
-we ee ne oe nw wwe we ww nw ws 0 on 0 ms wn 0 ww Os ne
+Interaction devices and techniques for
 
-BBA FILE HD CVR SILVER F4 404/A EA
+Interaction Lab
 
-3557225100066
+future computers
 
-10 *
+KAIST Interaction Lab
 
-5.70
+Juho Kim
 
-PAPER ONE COPIER PAPER A4 70GH 5 CAR
+Human-Computer Interaction, Human-
 
-1
+(KIXLAB)
 
-*
+Al Interaction, enhancing the usability
 
-47.50
+of large language models and
 
-47.50
+generative Al
 
-Srey
+Knowledge Engineering &
 
-EA
+Ho Jin Choi
 
-PLASTIC BAG RNG.20
+Developing chatbot assistant for
 
-x
+ificial Intelli
 
-0.40
+learning Korean
 
-"500000017984
+Network Security and
 
-2
+Min Suk Kang
 
-0.20
+Network security and privacy
 
-\IUALITY BRWN FILE, ASSRT
+Privacy Lab
 
-EA
+Software Process
 
-S)
+Jongmoon Baik
 
-555052439786
+Quality improvement tool for software
 
-2
+Improvement and Reliability
 
-Fa
+artifacts using a language
 
-2.50
+Assurance Lab
 
-5.00
+model(chatGPT, etc)
 
-wae oe we we wwe we oe ee we oe wr ar way ne 0 Ow 0 0 on we OO on Or Oo OO
+Users and Information Lab
 
-tem Count
+Alice Oh
 
-15
+Linguistic and cultural diversity of
 
-Total
-
-103.90
-
-Rounding Adjustment
-
-0.00
-
-109.90
-
-Total After Rounding
-
-asn
-
-150.00
-
-orca ww ee we we we ew we a we vw wn wr atime ws
-
-~
-
-CHANGE
-
-40
-
-owe ce ew em ew eee ee a ee met wn eee wm mn
-
-usT Rate
-
-Amt Excl GST(RM)
-
-Tax(RM)
-
-6%
-
-03.71
-
-6.19
-
-7o-
-
-0.00
-
-0.00
-
-0%
-
-* Your Total Savings 2.00 *
-
-Points Missed
-
-103
-
-Join our Meriah Loyalty Programme today!
-
-HAN TL CUAN UA) A A AV a
-
-Print Dates-2t:
-
-San
-
-17 03:56 :08PM
-
-Any r eat
-
-Koduct ion of full tax
-
-invg
-
-ayment information
-
-shaills
-
-ea \
-
-3 months from the
-
-dat a ftp
-
-urétiase
-
-faiing which HYDIN at
-
-its \al
-
-ae
-
-lute di
-
-ls
-
-cr
-
-ation, as deem fit may
-
-reject oF refu
-
-cS to entertain such
-
-request
-
-Thank You and Please Come agen
-
-pros dhptiapeneenseanepcitentemteeoners lees ha
+ChatGPT

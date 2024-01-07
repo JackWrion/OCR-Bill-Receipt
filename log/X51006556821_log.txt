@@ -112,9 +112,7 @@ iou: 0.8282892640968461    txt: 92
 TOTAL 0% SUPPLIES:
 Total @% supplies
 
-iou: 0.681060606060606    txt: 100
-37.89
-37.89
+!-Error: 37.89
 
 iou: 0.5228174603174603    txt: 81
 CR-VANILLA
@@ -188,9 +186,7 @@ iou: 0.7    txt: 100
 GST:
 GST:
 
-iou: 0.7843137254901961    txt: 100
-0.60
-0.60
+!-Error: 0.60
 
 iou: 0.9015792630105951    txt: 98
 TOTAL 6% SUPPLIES (INC. GST):
@@ -256,5 +252,5 @@ CUSTOMER'S COPY
 
 !-Error: SALE
 
-Average IOU:  X51006556821.jpg   42.55832104677212
-Text Matching % :  X51006556821.jpg   86.88
+Average IOU:  X51006556821.jpg   40.70341682961921
+Text Matching % :  X51006556821.jpg   86.33333333333333

@@ -24,7 +24,9 @@ FAX INVOICE
 
 !-Error: INVOICE # : OR18032502170439
 
-!-Error: ITEM
+iou: 0.8173374613003096    txt: 60
+ITEM
+tern
 
 !-Error: QTY
 
@@ -40,7 +42,9 @@ iou: 0.8741865509761388    txt: 100
 $5.50
 $5.50
 
-!-Error: 1
+iou: 0.5128205128205128    txt: 100
+1
+1
 
 iou: 0.96875    txt: 100
 $5.50
@@ -78,7 +82,9 @@ iou: 0.8060315284441398    txt: 100
 PAYMENT MODE
 Payment Mode
 
-!-Error: AMOUNT
+iou: 0.8380952380952381    txt: 100
+AMOUNT
+Amount
 
 iou: 0.8345864661654135    txt: 100
 CASH
@@ -100,7 +106,9 @@ iou: 0.51589789520824    txt: 87
 GST SUMMARY
 ast Summay
 
-!-Error: AMOUNL($)
+iou: 0.4782042940793754    txt: 60
+AMOUNL($)
+Armour S)
 
 iou: 0.901565995525727    txt: 83
 TAX($)
@@ -142,5 +150,5 @@ iou: 0.5368248772504092    txt: 92
 FACEBOOK.COM/BARWANGRICE
 Facebook. comBaiWangRice
 
-Average IOU:  X51005442375.jpg   60.98801978543025
-Text Matching % :  X51005442375.jpg   90.21212121212122
+Average IOU:  X51005442375.jpg   67.77380826311085
+Text Matching % :  X51005442375.jpg   89.10810810810811

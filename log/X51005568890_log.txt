@@ -64,15 +64,15 @@ iou: 0.7699645680021804    txt: 62
 5.00 SR
 » U0 SR
 
-iou: 0.8315946348733234    txt: 100
+iou: 0.45852394022567855    txt: 75
 (50PCS)
-(50PCS)
+_S0PCS)
 
 !-Error: 5
 
-iou: 0.6170072511535926    txt: 91
+iou: 0.45587076438140267    txt: 75
 TYPE:
-Type
+) Type: |
 
 iou: 0.47368421052631576    txt: 100
 1
@@ -112,17 +112,15 @@ CASH
 
 !-Error: 5.00
 
-iou: 0.6775812804077535    txt: 91
+iou: 0.5923831959167648    txt: 80
 GST SUMMARY
-T Summary
+GST Sum
 
 !-Error: CODE
 
 !-Error: %
 
-iou: 0.6427171783148269    txt: 100
-NET AMT
-Net Amt
+!-Error: NET AMT
 
 !-Error: GST
 
@@ -134,7 +132,7 @@ iou: 0.6984478935698448    txt: 100
 SR
 SR
 
-iou: 0.42128851540616247    txt: 100
+iou: 0.6605128205128206    txt: 100
 SR
 SR
 
@@ -172,5 +170,5 @@ iou: 0.6777837547068316    txt: 94
 GOODS SOLD ARE NOT RETURNABLE FOR REFUND OR EXCHANGE !!
 Goods sold are not teturnable for refund oF exchange
 
-Average IOU:  X51005568890.jpg   54.2849646091445
-Text Matching % :  X51005568890.jpg   90.8157894736842
+Average IOU:  X51005568890.jpg   52.19741738645269
+Text Matching % :  X51005568890.jpg   89.16216216216216

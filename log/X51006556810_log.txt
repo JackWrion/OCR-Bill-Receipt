@@ -90,17 +90,13 @@ WHOL EMEAL
 
 !-Error: 5
 
-iou: 0.4082464884458541    txt: 20
-13.90
-fir
+!-Error: 13.90
 
 iou: 0.6555873925501433    txt: 100
 TOTAL 0% SUPPLIES:
 Total 0% supplies:
 
-iou: 0.48757016840417    txt: 67
-24.55
-24, 5
+!-Error: 24.55
 
 !-Error: CR-CHOCLT
 
@@ -142,21 +138,23 @@ iou: 0.8587484035759898    txt: 98
 TOTAL 6% SUPPLIES (INC. GST):
 Total 6% supplies (Inc. GST)
 
-iou: 0.6053130929791272    txt: 60
+iou: 0.611954459203036    txt: 91
 -1.53
-“15
+1.53
 
 iou: 0.7772727272727272    txt: 97
 TOTAL 0% SUPPLIES:
 Total 0% supplies
 
-iou: 0.7323232323232324    txt: 100
+iou: 0.7070707070707071    txt: 83
 24.55
-24.55
+24,55
 
 !-Error: TOTAL PAYABLE:
 
-!-Error: 23.02
+iou: 0.5892857142857143    txt: 91
+23.02
+3.02
 
 !-Error: .0.E.
 
@@ -188,5 +186,5 @@ Vel: 03 55423228 Fax:03- 55423213
 
 !-Error: SALE
 
-Average IOU:  X51006556810.jpg   27.56315267968983
-Text Matching % :  X51006556810.jpg   79.33333333333333
+Average IOU:  X51006556810.jpg   27.062934061854556
+Text Matching % :  X51006556810.jpg   82.6896551724138

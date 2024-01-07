@@ -138,9 +138,9 @@ GST Summary
 
 !-Error: AMOUNT (RM)
 
-iou: 0.7323076923076923    txt: 94
+iou: 0.8468864468864469    txt: 100
 TAX (RM)
-ax (RM)
+Tax (RM)
 
 iou: 0.43119439712284685    txt: 18
 T @ 6%
@@ -150,15 +150,15 @@ iou: 0.46235651586765697    txt: 22
 4.75
 i e
 
-iou: 0.8449917898193761    txt: 91
-0.29
-0. 29
+!-Error: 0.29
 
 iou: 0.8323529411764706    txt: 100
 TOTAL SAVINGS
 Total Savings
 
-!-Error: -0.56
+iou: 0.7736726205040372    txt: 100
+-0.56
+-0.56
 
 iou: 0.5238157516151813    txt: 100
 BE A POPULAR CARD MEMBER
@@ -184,5 +184,5 @@ iou: 0.7364033346566098    txt: 89
 WWW.POPULARONLINE.COM.MY
 www. popularon] ine. com. my
 
-Average IOU:  X51005568866.jpg   66.2538847454261
-Text Matching % :  X51005568866.jpg   92.37209302325581
+Average IOU:  X51005568866.jpg   66.34040391595295
+Text Matching % :  X51005568866.jpg   92.72093023255815

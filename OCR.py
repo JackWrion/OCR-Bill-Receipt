@@ -24,7 +24,7 @@ def OCRText(name):
     file_path = os.path.join(dir_source, name)
 
 
-    #read image
+    #read image and FILTER IMAGE
     img = cv2.imread(file_path)
     img_iou = img        ## Using later
     img = cv2.GaussianBlur(img,(3,3),0)
@@ -32,7 +32,7 @@ def OCRText(name):
 
     #### Text for testing
     #texttest = pytesseract.image_to_string(img)
-
+        
     ### Cofig
     configname = r' --oem 3 --psm ' + str(12) + ' -l eng'
 
@@ -201,8 +201,8 @@ def OCRText(name):
         checklogfile.write('Average IOU:  ' + name +'   '+ str(average) + '\n')
         checklogfile.write('Text Matching % :  ' + name +'   '+ str(matchingpercent) + '\n')
 
-        # print('Average IOU:  ' + name +'   '+ str(average))
-        # print('Text Matching % :  ' + name +'   '+ str(matchingpercent))
+        print('Average IOU:  ' + name +'   '+ str(average))
+        print('Text Matching % :  ' + name +'   '+ str(matchingpercent))
 
     checklogfile.close()
 
@@ -213,7 +213,7 @@ def OCRText(name):
     cv2.imwrite(img_test, img)
     img_test = img_test.replace("_test.jpg","_iou.jpg")
     cv2.imwrite(img_test, img_iou)
-    print("Done: " + name)
+    print("Done: " + name + '\n')
 ###################  DONE  ######################################################
 
 
@@ -249,7 +249,7 @@ def get_iou(ground_truth, pred, img):
     return iou
 
 
-# name = 'X51006620182.jpg'
+# name = 'X51007433809.jpg'
 # OCRText(name)
 
 

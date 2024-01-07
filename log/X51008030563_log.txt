@@ -72,13 +72,9 @@ Take Away
 
 !-Error: 2 X
 
-iou: 0.8723958333333334    txt: 80
-0.20
-0,20
+!-Error: 0.20
 
-iou: 0.9396914446002805    txt: 100
-0.40
-0.40
+!-Error: 0.40
 
 !-Error: SR
 
@@ -102,7 +98,7 @@ iou: 0.8633792424987703    txt: 100
 TOTAL (INCLUSIVE OF GST):
 Total (inclusive of GST):
 
-iou: 0.6036585365853658    txt: 91
+iou: 0.6483739837398373    txt: 91
 6.00
 6. 00
 
@@ -150,5 +146,5 @@ iou: 0.8748964374482188    txt: 100
 0.34
 0.34
 
-Average IOU:  X51008030563.jpg   56.307617598947324
-Text Matching % :  X51008030563.jpg   89.9375
+Average IOU:  X51008030563.jpg   52.290863438085644
+Text Matching % :  X51008030563.jpg   89.93333333333334

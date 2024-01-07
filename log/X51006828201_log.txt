@@ -52,7 +52,9 @@ Amount
 
 !-Error: ICED CAFE LATTE -R
 
-!-Error: 12.08 T
+iou: 0.6906101254868022    txt: 62
+12.08 T
+08 |
 
 !-Error: 1
 
@@ -68,7 +70,7 @@ iou: 0.4407443682664055    txt: 36
 BLACKFOREST CHZ
 es me
 
-iou: 0.423728813559322    txt: 86
+iou: 0.4406779661016949    txt: 86
 10.84 T
 10.84
 
@@ -90,23 +92,25 @@ iou: 0.6691176470588235    txt: 100
 6% GST
 6% GST
 
-!-Error: 2.25
+iou: 0.6627766599597585    txt: 100
+2.25
+2.25
 
 iou: 0.42332935560859186    txt: 86
 TTL
 tl
 
-iou: 0.5879518072289157    txt: 91
+iou: 0.7421686746987952    txt: 100
 39.72
-39.7
+39.72
 
 iou: 0.7910747957259585    txt: 100
 ROUNDING ADJ.
 Rounding Adj.
 
-iou: 0.5622489959839357    txt: 73
+iou: 0.7053669222343921    txt: 83
 -0.02
-0.07
+“0.02
 
 !-Error: 3
 
@@ -188,5 +192,5 @@ POS:T002 Shf:201712151
 
 !-Error: GST
 
-Average IOU:  X51006828201.jpg   45.74161020539528
-Text Matching % :  X51006828201.jpg   88.89473684210526
+Average IOU:  X51006828201.jpg   48.66734833120103
+Text Matching % :  X51006828201.jpg   88.975

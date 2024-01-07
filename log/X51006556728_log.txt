@@ -94,7 +94,9 @@ WHOL EMEAL
 
 !-Error: 2.78
 
-!-Error: 5
+iou: 0.5079365079365079    txt: 100
+5
+5
 
 !-Error: 0
 
@@ -298,5 +300,5 @@ iou: 0.6197183098591549    txt: 93
 IN THIS TAX INVOICE /
 n this Tax Inveice /
 
-Average IOU:  X51006556728.jpg   40.737762344504006
-Text Matching % :  X51006556728.jpg   84.38181818181818
+Average IOU:  X51006556728.jpg   41.27243235285823
+Text Matching % :  X51006556728.jpg   84.66071428571429

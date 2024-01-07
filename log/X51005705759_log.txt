@@ -184,9 +184,9 @@ CHANGE
 
 !-Error: 40.10
 
-iou: 0.5509781357882624    txt: 89
+iou: 0.5421195652173914    txt: 89
 GST RATE
-usT Rate
+uST Rate
 
 iou: 0.7860389610389611    txt: 97
 AMT EXCL GST (RM)
@@ -196,7 +196,9 @@ iou: 0.6073619631901841    txt: 94
 TAX (RM)
 Tax(RM)
 
-!-Error: S = 6%
+iou: 0.5594695399917116    txt: 71
+S = 6%
+} = 64
 
 !-Error: Z = 0%
 
@@ -280,5 +282,5 @@ iou: 0.4365079365079365    txt: 40
 *
 Fy
 
-Average IOU:  X51005705759.jpg   48.1094717140676
-Text Matching % :  X51005705759.jpg   91.63934426229508
+Average IOU:  X51005705759.jpg   48.797735425843655
+Text Matching % :  X51005705759.jpg   91.30645161290323

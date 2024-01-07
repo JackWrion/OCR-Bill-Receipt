@@ -104,7 +104,9 @@ iou: 0.6906028368794326    txt: 100
 5.30
 5.30
 
-!-Error: SUBTOTAL :
+iou: 0.7    txt: 90
+SUBTOTAL :
+Subtotal
 
 iou: 0.6666666666666666    txt: 100
 7.30
@@ -182,9 +184,13 @@ iou: 0.6790224588709127    txt: 79
 PLEASE COME AGAIN
 =< Pi EASE COME AGAIN **
 
-!-Error: X
+iou: 0.5789473684210527    txt: 100
+X
+x
 
-!-Error: X
+iou: 0.45    txt: 100
+X
+x
 
 iou: 0.5757575757575758    txt: 100
 2
@@ -192,5 +198,5 @@ iou: 0.5757575757575758    txt: 100
 
 !-Error: @6
 
-Average IOU:  X51005230621.jpg   59.24434122038181
-Text Matching % :  X51005230621.jpg   95.09302325581395
+Average IOU:  X51005230621.jpg   62.44609560634674
+Text Matching % :  X51005230621.jpg   95.19565217391305

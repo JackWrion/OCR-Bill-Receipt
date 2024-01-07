@@ -58,9 +58,9 @@ iou: 0.7957317073170732    txt: 100
 GINGER CLAMS (S)
 Ginger Clams (S)
 
-iou: 0.4499748054420245    txt: 98
+iou: 0.8618685204051058    txt: 98
 BEANCURD W DAO GAN (S)
-Beancurd W Dao gan(s)
+Beancurd W Dao Gan(S)
 
 iou: 0.8870526555732847    txt: 98
 G.DRAGON CHIVES (S)
@@ -246,5 +246,5 @@ iou: 0.5457089552238806    txt: 86
 .50
 50
 
-Average IOU:  X51005447844.jpg   67.1456753678519
+Average IOU:  X51005447844.jpg   67.7697567541596
 Text Matching % :  X51005447844.jpg   93.25862068965517

@@ -116,9 +116,9 @@ iou: 0.7573770491803279    txt: 22
 0.00
 foo
 
-iou: 0.582030620467365    txt: 83
+iou: 0.7344077356970186    txt: 92
 TOTAL INCLUSIVE GST:
-Total Inclusiv
+Total Inclusive G
 
 !-Error: 203.00
 
@@ -176,5 +176,5 @@ iou: 0.8918918918918919    txt: 100
 THANK YOU.
 Thank you.
 
-Average IOU:  X51006334819.jpg   68.14061863868446
-Text Matching % :  X51006334819.jpg   81.7560975609756
+Average IOU:  X51006334819.jpg   68.45807096207957
+Text Matching % :  X51006334819.jpg   81.97560975609755

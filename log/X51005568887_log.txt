@@ -64,9 +64,9 @@ iou: 0.6484592579283083    txt: 94
 
 !-Error: ITEM DISCOUNT
 
-iou: 0.8    txt: 89
+iou: 0.5571971295905446    txt: 67
 0.00
-000
+800
 
 !-Error: 1.2
 
@@ -82,15 +82,13 @@ iou: 0.40459467369037166    txt: 86
 TOTAL
 Total ~
 
-iou: 0.6700898587933247    txt: 100
-7.20
-7.20
+!-Error: 7.20
 
 iou: 0.761478163493841    txt: 100
 DISCOUNT:
 Discount:
 
-iou: 0.8352272727272727    txt: 100
+iou: 0.6135721017907634    txt: 100
 0.00
 0.00
 
@@ -176,5 +174,5 @@ iou: 0.8043445237733556    txt: 93
 GOODS SOLD ARE NOT RETURNABLE FOR REFUND OR EXCHANGE !!
 Goods sold are not returnable for relund of exchange tl
 
-Average IOU:  X51005568887.jpg   57.925618229330325
-Text Matching % :  X51005568887.jpg   90.7948717948718
+Average IOU:  X51005568887.jpg   55.65652242905173
+Text Matching % :  X51005568887.jpg   89.97368421052632
